@@ -1,4 +1,4 @@
-title: Old Card Games
+title: Fun Card Games
 markdown: kramdown
 # url: "https://thejunkyard.cc/oldcardgames"
 # baseurl: "https://thejunkyard.cc/oldcardgames"
@@ -6,7 +6,7 @@ markdown: kramdown
 # for atom feed
 author:
   name: Brian Junker-Latocha
-  email: brian@oldcardgames.net
+  email: brian@funcardgames.net
 
 plugins:
   - jemoji
