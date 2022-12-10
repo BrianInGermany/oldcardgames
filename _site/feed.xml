@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-10T22:41:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">OldCardGames.net</title><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><entry><title type="html">A Two-Player Easy as Taking Out Trash: Garbage</title><link href="http://localhost:4000/posts/garbage_cardgame/" rel="alternate" type="text/html" title="A Two-Player Easy as Taking Out Trash: Garbage" /><published>2022-10-13T19:39:00+02:00</published><updated>2022-10-13T19:39:00+02:00</updated><id>http://localhost:4000/posts/garbage_cardgame</id><content type="html" xml:base="http://localhost:4000/posts/garbage_cardgame/"><![CDATA[<p>This easy (and fun) two-player is a good mindless accompaniment to conversation.</p>
+
+<p><img src="/assets/images/garbage.jpg" alt="" /></p>
+
+<h2 id="setup">Setup</h2>
+<p>With a 52 card deck (plus jokers if you want some added spice), deal each player 10 cards face-down on a grid of 5x2.</p>
+<ul>
+  <li>Place the remaining cards in the center to serve as the draw pile.</li>
+</ul>
+
+<h2 id="object-of-the-game">Object of the Game</h2>
+<p>The aim of the game is to fill all ten positions on the grid with the appropriate numbers before your opponent can!</p>
+
+<h2 id="gameplay">Gameplay</h2>
+<p>The starting player draws a card. If it’s between A-10, place it on the appropriate position on your grid and look at the face-down card that was holding the place.</p>
+
+<p>That card can also be played if the space for its number is open on your grid. You may play as many cards in a row as you can put in the correct grid position without interruption.</p>
+
+<p>Whenever you reveal a card you cannot put into position, you discard it and your turn ends.</p>
+
+<ul>
+  <li>Facecards are “duds” and always must be discarded, ending your turn.</li>
+  <li>Jokers are wild, and can be placed in any space.</li>
+</ul>
+
+<h2 id="end-of-game">End of Game</h2>
+<p>The first person to fill all ten positions with A-10 wins!</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><category term="two-player" /><category term="Japanese" /><summary type="html"><![CDATA[Be the first to collect the cards A-10 on a 10-card grid.]]></summary></entry><entry><title type="html">Japanese Party Hit: Pigtail!</title><link href="http://localhost:4000/posts/pigtail_cardgame/" rel="alternate" type="text/html" title="Japanese Party Hit: Pigtail!" /><published>2022-10-13T19:14:00+02:00</published><updated>2022-10-13T19:14:00+02:00</updated><id>http://localhost:4000/posts/pigtail_cardgame</id><content type="html" xml:base="http://localhost:4000/posts/pigtail_cardgame/"><![CDATA[<p>This Japanese party game is guaranteed to work even if even you’ve had one Sake too many…
+It is suitable for any number of players.</p>
+
+<p><img src="/assets/images/pigtail.jpg" alt="" /></p>
+
+<h2 id="setup">Setup</h2>
+<p>Spread your deck out in a circle (like a pigtail) in the center of the table. Finito.</p>
+
+<h2 id="object-of-the-game">Object of the Game</h2>
+<p>The aim of the game is to turn over and play cards without matching the suit of the previous card! If the suits match, you take the whole stack. Finish the game with the least number of cards in your hand.</p>
+
+<h2 id="gameplay">Gameplay</h2>
+<p>Every turn, turn over a card from the pigtail and place it in the center. If the suit is different than the card beneath (or it’s the first card) you’re safe! :sunglasses:</p>
+
+<p>But if you followed a suit with the same suit…take the whole stack into your hand! :smiling_imp:</p>
+
+<h3 id="extra-rule">Extra Rule</h3>
+<p>If you have cards in your hand, you can alternatively play a card from your hand. This makes it easier to recover from a big loss. :grin:</p>
+
+<h2 id="end-of-game">End of Game</h2>
+<p>The person with the most cards in their hand when the pigtail ends is the LOSER :thumbsdown:</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><category term="many-player" /><category term="Japanese" /><summary type="html"><![CDATA[Turn over cards from the pigtail. Just not the same suit twice-in-a-row! :joy:]]></summary></entry><entry><title type="html">Gang Up on Opponents and Don’t be the Dummy: Durak</title><link href="http://localhost:4000/posts/durak_cardgame/" rel="alternate" type="text/html" title="Gang Up on Opponents and Don’t be the Dummy: Durak" /><published>2022-10-12T17:39:00+02:00</published><updated>2022-10-12T17:39:00+02:00</updated><id>http://localhost:4000/posts/durak_cardgame</id><content type="html" xml:base="http://localhost:4000/posts/durak_cardgame/"><![CDATA[<p>Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.</p>
+
+<p><img src="/assets/images/durak.jpg" alt="" /></p>
+
+<p>Durak can be played with a standard 52-card deck or, for a faster version, with a 36-card (6-A) deck.</p>
+<ul>
+  <li>This fast-paced party game is popular in former Soviet countries and well-known in parts of central Europe.</li>
+  <li>The game is best with 4-8 players. If playing with more than six, use a 52-card deck.</li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+<ul>
+  <li>At the start of the game, each player is dealt six cards.</li>
+  <li>An additional card is uncovered and placed under the deck perpendicularly. This is the trump for the round.</li>
+  <li>The game begins by the first player putting down a card, an attack on the player to their left.</li>
+</ul>
+
+<h2 id="object-of-the-game">Object of the Game</h2>
+<p>The aim of Durak is to shed all your cards as soon as possible. The last (wo-)man standing is the loser, and is called the Durak, or “dummy”!</p>
+
+<h2 id="attacking-and-defending">Attacking and Defending</h2>
+<p>If it’s your turn, it means you’re the first attacker, the person to your left is the defender, and the person on the other side of the defender is the second attacker.</p>
+<ul>
+  <li>The defender is always surrounded by two attackers! :smiling_imp: (until less than three players remain).</li>
+</ul>
+
+<h3 id="attacking">Attacking</h3>
+<p>To attack, lay down a card in front of the defender. If you have multiples of the same number, you may lay down as many of that same card down as you like. The defender has to produce a higher card of the same suit (or a trump) for each attacking card.</p>
+
+<p>Here’s where it gets interesting: 
+Any time after the first attack has hit the table, the other attacker can also attack with any cards of that same number. And as soon as the defender plays a card, that number, too, is now fair game for the attackers to play and double-down the offense!</p>
+
+<h3 id="defending">Defending</h3>
+<p>You don’t have to attempt a defense; sometimes its safer to just take the cards your attacked with and continue the game.</p>
+
+<p>If you succeed in fighting off each and every attack card your opponents play, you’ve succeeding in shedding some cards, and it’s now your turn to be the first attacker and shed some more.</p>
+
+<p>If you can’t defend, pick up all the cards on the table, and your turn is skipped. The player to your left continues.</p>
+
+<h4 id="special-defense">Special Defense</h4>
+<p>If you’re attacked with a number you have in your own hand, play it to push the attack off to the next player :sweat_smile:.</p>
+
+<h2 id="drawing-cards">Drawing Cards</h2>
+<p>After each failed or successful round of attacks, players draw back to six cards in the following order:</p>
+<ol>
+  <li>First Attacker</li>
+  <li>Second Attacker</li>
+  <li>Defender</li>
+</ol>
+
+<p>This order is important, because the deck will run out at some point, and the fewer cards you have, the less likely you are to become the Durak!</p>
+
+<h2 id="end-of-game">End of Game</h2>
+<p>The game continues until every player except one has shed all their cards. Give that dude a funny hat and call him a Durak! The Durak starts the next round.</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><category term="many-player" /><category term="Eastern-European" /><summary type="html"><![CDATA[Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.]]></summary></entry><entry><title type="html">Get Your Kicks With ‘66’: A Classic German Cardgame</title><link href="http://localhost:4000/posts/sixty-six_cardgame/" rel="alternate" type="text/html" title="Get Your Kicks With ‘66’: A Classic German Cardgame" /><published>2022-10-09T23:34:00+02:00</published><updated>2022-10-09T23:34:00+02:00</updated><id>http://localhost:4000/posts/sixty-six_cardgame</id><content type="html" xml:base="http://localhost:4000/posts/sixty-six_cardgame/"><![CDATA[<p>Use memory and strategy to make tricks and reach 66 before your opponent!</p>
+
+<p><img src="/assets/images/66.jpg" alt="" /></p>
+
+<p>66 is played with a 24-card deck, using only the nines through aces.</p>
+<ul>
+  <li>For added fun, you can use a <a href="https://www.piatnik.com/spiele/spielkarten/regionale-karten/blitz-salzburger">German-face deck</a> as pictured above, but an ordinary pack of cards will work just as well.</li>
+  <li>The game is played with 2 players.</li>
+  <li>A nearly identical Austrian variant played without the nines (Schnapsen), using only 20 cards.</li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+<ul>
+  <li>At the start of the game, each player is dealt six cards.</li>
+  <li>A thirteenth card is uncovered an placed under the deck perpendicularly. This is the trump suit.</li>
+  <li>The game begins by the first player putting down a card.</li>
+</ul>
+
+<h2 id="gameplay">Gameplay</h2>
+<p>The aim of 66 is to make tricks and announcements to accumulate 66 points before your opponent.</p>
+
+<h3 id="making-tricks">Making tricks</h3>
+<p>To make a trick, the opponent must play a higher card of the same suit or a trump card.</p>
+<ul>
+  <li>You are not required to follow suit or make a trick.</li>
+  <li>The player who makes the trick plays the next card.</li>
+  <li>After each trick, each player draws another card (until the deck runs out).</li>
+</ul>
+
+<h4 id="scoring-of-tricks">Scoring of Tricks</h4>
+<ul>
+  <li><strong>A</strong>:11, <strong>10</strong>:10, <strong>K</strong>:4, <strong>Q</strong>:3, <strong>J</strong>:2, <strong>9</strong>:0</li>
+  <li><em>You have to remember your points as you go</em>. You’re not allowed to look at won cards during the game. This is why memory is a big aspect of the game.</li>
+</ul>
+
+<h3 id="making-announcements">Making announcements</h3>
+
+<p>Announcements (marriages) consist of a queen and king of the same suit.</p>
+<ul>
+  <li>You can make only make an announcement if it’s your turn to begin the trick. 
+Announcements are worth the following points:</li>
+  <li>40 points for an announcement in trump</li>
+  <li>20 points for each non-trump announcement</li>
+</ul>
+
+<h3 id="closing-the-deck">Closing the deck</h3>
+<p>You can pressure your opponent by closing the deck (on your turn).</p>
+<ul>
+  <li>As soon as the deck is closed or runs out, players are <strong>required to make a trick or follow suit</strong> if possible.
+If the deck was closed, the closing player must win (by reaching 66)!</li>
+  <li>If they don’t, the opponent receives all the points they would have received, but at least two.
+Once the deck has been closed, the defending player does not get points for any tricks or announcements they may make from that time until the end of the round.</li>
+</ul>
+
+<h3 id="exchanging-a-low-trump">Exchanging a low trump</h3>
+<ul>
+  <li>If you have the lowest trump card, you can exchange it when it’s your turn for the trump under the deck.</li>
+</ul>
+
+<h2 id="end-of-game">End of Game</h2>
+<ul>
+  <li>If you think you have reached 66 points, just say “66” or “enough!” when it’s your turn to end the round. But watch out– if you don’t actually have 66 your opponent will get extra points!
+    <ul>
+      <li>Even if both players actually have 66, the first one to call it wins.</li>
+    </ul>
+  </li>
+  <li>Scoring
+    <ul>
+      <li>If you make 66 and the opponent has 33 or more, you receive one point.</li>
+      <li>If the opponent has less than 33, you receive two points.</li>
+      <li>If the opponent has made no tricks, you receive three points.</li>
+      <li>If you say “enough!” but don’t have 66, your opponent gets at least two points, or however many you would have won if you had had 66.</li>
+      <li><strong>Seven match points wins!</strong></li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><category term="two-player" /><category term="German" /><summary type="html"><![CDATA[Use memory and strategy to make tricks and reach 66 before your opponent!]]></summary></entry><entry><title type="html">An Electrified Upgrade on Blackjack: Blitz!</title><link href="http://localhost:4000/posts/blitz_cardgame/" rel="alternate" type="text/html" title="An Electrified Upgrade on Blackjack: Blitz!" /><published>2022-10-09T14:10:00+02:00</published><updated>2022-10-09T14:10:00+02:00</updated><id>http://localhost:4000/posts/blitz_cardgame</id><content type="html" xml:base="http://localhost:4000/posts/blitz_cardgame/"><![CDATA[<p>Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.</p>
+
+<p><img src="/assets/images/blitz.jpg" alt="" /></p>
+
+<p>Blitz is played with a 32-card deck, using only the sevens through aces.</p>
+<ul>
+  <li>For added fun, you can use a <a href="https://www.piatnik.com/spiele/spielkarten/regionale-karten/doppeldeutsche-blitz-36-blatt">German-face deck</a> as pictured above, but an ordinary pack of cards will work just as well.</li>
+  <li>The game is played best with 3-7 players.</li>
+  <li>It’s also known as 31 or Scat</li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+<ul>
+  <li>At the start of the game, each player is given three lives (matchsticks, coins, etc.).</li>
+  <li>Each player is dealt three cards.
+    <ul>
+      <li>The dealer inspects her cards, and has the option to keep them or put them in the center and take three new cards.
+        <ul>
+          <li>If the dealer keeps her cards, three additional cards from the deck are placed in the center.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>The player to the left of the dealer is first to play.</li>
+</ul>
+
+<h2 id="gameplay">Gameplay</h2>
+<p>The aim of Blitz is to gather three cards of the same suit for the highest score.</p>
+<ul>
+  <li>Aces are worth 11, face cards 10, and all other cards are worth their number value.</li>
+  <li>Each turn, players may exchange <em>one or all cards, but not two</em>.</li>
+  <li>The round ends in one of three ways:
+    <ol>
+      <li>A player reaches 31 points</li>
+      <li>A player has three aces (blitz).</li>
+      <li>A player closes the round
+        <ul>
+          <li>Closing is denoted by knocking and is only possible after the first round.</li>
+          <li>If you choose to close, you may not exchange cards, and the game ends after every other player has one more chance to play.</li>
+        </ul>
+      </li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="end-of-game">End of Game</h2>
+<p>The player(s) with the lowest score loses one life. Once all a player’s lives are gone, she is “swimming” on one final life, after which she loses.</p>
+
+<h2 id="additional-important-rules">Additional Important Rules</h2>
+<ul>
+  <li>If a player gets three aces, the game is immediately over, and every other player loses one life.
+    <ul>
+      <li>“Blitz!”</li>
+    </ul>
+  </li>
+  <li>Three-of-a-kind is worth exactly 30.5 points.</li>
+  <li>You can always pass instead of exchanging cards or closing.</li>
+</ul>
+
+<h2 id="strategy-tips">Strategy Tips</h2>
+<ul>
+  <li>The earlier you can get a high score, the earlier you can “knock” to jump the gun on opponents that haven’t had time to collect points.</li>
+  <li>Make sure you don’t accidentally create a good hand in the bank by exchanging cards.
+    <ul>
+      <li>Remember, the next player can take all three cards!</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><category term="two-player" /><category term="German" /><summary type="html"><![CDATA[Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.]]></summary></entry><entry><title type="html">The Purpose of Education</title><link href="http://localhost:4000/posts/test/" rel="alternate" type="text/html" title="The Purpose of Education" /><published>1948-12-12T11:18:00+01:00</published><updated>1948-12-12T11:18:00+01:00</updated><id>http://localhost:4000/posts/test</id><content type="html" xml:base="http://localhost:4000/posts/test/"><![CDATA[<p>As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
+
+<p><img src="https://picsum.photos/800/300" alt="alt" /></p>
+
+<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>
+
+<p>Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.</p>
+
+<p>The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.</p>
+
+<p>The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?</p>
+
+<p>We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.</p>
+
+<p>If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, “brethren!” Be careful, teachers!</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@oldcardgames.net</email></author><category term="fiction" /><category term="jekyll" /><summary type="html"><![CDATA[As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary></entry></feed>

@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Games
 layout: blog
 ---
