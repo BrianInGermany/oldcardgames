@@ -1,12 +1,12 @@
-title: Jekyll Material You
+title: Old Card Games
 markdown: kramdown
-url: ""
-baseurl: "/jekyll-theme-material-you"
+url: "https://oldcardgames.net"
+baseurl: "https://oldcardgames.net/"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Brian Junker-Latocha
+  email: brian@oldcardgames.net
 
 plugins:
   - jemoji
