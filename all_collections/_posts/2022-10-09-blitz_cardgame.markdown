@@ -3,7 +3,7 @@ layout: post
 title:  "An Electrified Upgrade on Blackjack: Blitz!"
 description: "Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat."
 date:   2022-10-09 12:10:00
-categories: [game-reviews]
+categories: [two-player,German]
 thumbnail: "/assets/images/blitz.jpg"
 ---
 Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.
