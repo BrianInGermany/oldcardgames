@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Japanese Party Hit: Pigtail!"
-description: "Turn over cards from the pigtail. Just not the same suit twice-in-a-row!"
+description: "Turn over cards from the pigtail. Just not the same suit twice-in-a-row! :joy:"
 date:   2022-10-13 17:14:00
 categories: [many-player, Japanese]
 thumbnail: "/assets/images/pigtail.jpg"
