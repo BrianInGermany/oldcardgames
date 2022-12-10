@@ -1,7 +1,7 @@
 title: Fun Card Games
 markdown: kramdown
 # url: "https://thejunkyard.cc/oldcardgames"
-# baseurl: "https://thejunkyard.cc/oldcardgames"
+baseurl: "https://funcardgames.net"
 
 # for atom feed
 author:
