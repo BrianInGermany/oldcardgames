@@ -1,7 +1,7 @@
 title: OldCardGames.net
 markdown: kramdown
-url: "https://oldcardgames.net"
-baseurl: ""
+# url: "https://oldcardgames.net"
+# baseurl: ""
 
 # for atom feed
 author:
