@@ -3,7 +3,7 @@ layout: post
 title:  "Gang Up on Opponents and Don't be the Dummy: Durak"
 description: "Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players."
 date:   2022-10-12 15:39:00
-categories: [many-player,Eastern-European]
+categories: ["many_player","Eastern_European"]
 thumbnail: "/assets/images/durak.jpg"
 ---
 Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.

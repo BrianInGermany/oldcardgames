@@ -3,7 +3,7 @@ layout: post
 title:  "Get Your Kicks With '66': A Classic German Cardgame"
 description: "Use memory and strategy to make tricks and reach 66 before your opponent!"
 date:   2022-10-09 21:34:00
-categories: [two-player,German]
+categories: ["two_player","German"]
 thumbnail: "/assets/images/66.jpg"
 ---
 Use memory and strategy to make tricks and reach 66 before your opponent!
