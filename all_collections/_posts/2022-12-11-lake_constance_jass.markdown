@@ -11,9 +11,9 @@ Win the bid to choose the trump, make tricks, but don't fall in the sack!
 ![](../../assets/images/constancejass.jpg)
 
 ## Setup
-With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. These are the table cards.
+With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. Then deal cards face-up on top of them, again 2x3. These are your table cards.
 
-Then deal another 2x3 cards per player. These are your hand. 
+Deal another 2x3 cards per player for your hand. 
 
 ## Object of the Game
 The aim of the game is to make tricks as fast as possible to fulfill the score you bid for at the start of the game.
@@ -43,6 +43,8 @@ When you win a trick, you add the cards' point value to your score. The player t
 
 ## Making Tricks
 In Jass, you win a trick by playing the highest card (by trick rank). If you win the trick, you get to start the next trick. As in other games, any trump card can beat even the best card of another suit.
+
+In Lake Constance Jass, __you can choose to play a card from your hand or from your table cards__. Once the trick is won, turn over any freshly revealed face-down cards.
 
 ### Following suit
 When an opponent starts the trick, you must play a card of the same suit OR a trump card if you have them. If you dont have the same suit or a trump, you must play another card and automatically lose the trick.
