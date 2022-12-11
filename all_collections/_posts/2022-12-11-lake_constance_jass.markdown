@@ -31,6 +31,7 @@ When you win a trick, you add the cards' point value to your score. The player t
 
 ### Normal (Trump Game)  
 | Cards by Trick Rank      | Point Value |
+
 | ------------------------ | ----------- |
 | Trump Unter/Jack ("Bur") | 20          |
 | Trump nine ("Nell")      | 14          |
@@ -48,6 +49,7 @@ When you win a trick, you add the cards' point value to your score. The player t
 
 ### Bock (Top-Down)  
 | Cards by Trick Rank      | Point Value |
+
 | ------------------------ | ----------- |
 | Ace                      | 11          |
 | King                     | 4           |
@@ -63,6 +65,7 @@ When you win a trick, you add the cards' point value to your score. The player t
 
 ### Gais (Bottom-Up)  
 | Cards by Trick Rank      | Point Value |
+
 | ------------------------ | ----------- |
 | Six                      | 0           |
 | Seven                    | 0           |
