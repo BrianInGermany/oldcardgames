@@ -6,8 +6,9 @@ date:   2022-12-10 09:39:00
 categories: ["two_player","Austrian","strategic"]
 thumbnail: "/assets/images/constancejass.jpg"
 ---
-
 Win the bid to choose the trump, make tricks, but don't fall in the sack!
+
+![](../../assets/images/constancejass.jpg)
 
 ## Setup
 With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. These are the table cards.
