@@ -23,6 +23,7 @@ The game starts by each player inspecting their hand and estimating how many poi
 - This can be very decisive because the high bidder will attempt to choose the trump in which he has a "Bur" or "Nell" (see valuation below).
 
 ## Valuation  
+When you win a trick, you add the cards' point value to your score. The player that makes the final trick gets an additional five points.
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
@@ -37,7 +38,7 @@ The game starts by each player inspecting their hand and estimating how many poi
 | Eight                    | 0           |
 | Seven                    | 0           |
 | Six                      | 0           |
-| Making the last trick    | 5           |
+| -Making the last trick-  | 5           |
 | SUM                      | 157         |
 
 ## Making Tricks
