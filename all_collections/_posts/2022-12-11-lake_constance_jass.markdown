@@ -46,7 +46,7 @@ When you win a trick, you add the cards' point value to your score. The player t
 | -Making the last trick-  | 5           |
 | SUM                      | 157         |
 
-### Bock
+### Bock (Top-Down)
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
 | Ace                      | 11          |
@@ -61,12 +61,12 @@ When you win a trick, you add the cards' point value to your score. The player t
 | -Making the last trick-  | 5           |
 | SUM                      | 157         |
 
-### Gais
+### Gais (Bottom-Up)
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
 | Six                      | 0           |
 | Seven                    | 0           |
-| Eight                    | 0           |
+| Eight                    | 8           |
 | Nine                     | 0           |
 | Ten                      | 10          |
 | Unter/Jack               | 2           |
