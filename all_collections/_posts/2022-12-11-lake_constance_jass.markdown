@@ -16,7 +16,7 @@ With a 36 card deck (6-A), shuffle and deal each player three cards face down tw
 Deal another 2x3 cards per player for your hand. 
 
 ## Object of the Game
-The aim of the game is to make tricks as fast as possible to fulfill the score you bid for at the start of the game.
+The aim of the game is to make tricks as fast as possible to fulfill the score you bid for at the start of the game. Win five rounds and you are the victor.
 
 ## Bidding
 The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first. 
