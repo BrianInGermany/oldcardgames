@@ -47,7 +47,7 @@ In Jass, you win a trick by playing the highest card (by trick rank). If you win
 In Lake Constance Jass, __you can choose to play a card from your hand or from your table cards__. Once the trick is won, turn over any freshly revealed face-down cards.
 
 ### Following suit
-When an opponent starts the trick, you must play a card of the same suit OR a trump card if you have them. If you dont have the same suit or a trump, you must play another card and automatically lose the trick.
+When an opponent starts the trick, you must play a card of the same suit or a trump card if you have one. If you dont have the same suit or a trump, you must play another card and automatically lose the trick. Note that you can always choose between following suit and playing a trump.
 - One exception: you don't have to follow suit with the Bur (trump Unter/Jack, the game's highest card).
 
 You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit/trump.  
