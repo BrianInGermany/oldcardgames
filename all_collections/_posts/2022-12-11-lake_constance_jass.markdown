@@ -30,7 +30,6 @@ The game starts by each player inspecting their hand and estimating how many poi
 When you win a trick, you add the cards' point value to your score. The player that makes the final trick gets an additional five points.
 
 ### Normal (Trump Game)  
-
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
 | Trump Unter/Jack ("Bur") | 20          |
@@ -45,10 +44,9 @@ When you win a trick, you add the cards' point value to your score. The player t
 | Seven                    | 0           |
 | Six                      | 0           |
 | -Making the last trick-  | 5           |
-| SUM                      | 157         |  
+| SUM                      | 157         |
 
 ### Bock (Top-Down)  
-
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
 | Ace                      | 11          |
@@ -61,10 +59,9 @@ When you win a trick, you add the cards' point value to your score. The player t
 | Seven                    | 0           |
 | Six                      | 0           |
 | -Making the last trick-  | 5           |
-| SUM                      | 157         |  
+| SUM                      | 157         |
 
 ### Gais (Bottom-Up)  
-
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
 | Six                      | 0           |
