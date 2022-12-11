@@ -94,3 +94,8 @@ If the winner of the bid fulfills their bid, they write one tally. If they miss 
 
 ## End of Game
 When one player has reached enough points that it's impossible for the opponent to win, she can say "enough!" to end the game. Otherwise, the game ends when all cards have been played.
+
+## Other Jass Resources
+
+- [jassa.at](https://jassa.at): well-curated site of Jass rules and games (in German)
+- [Book: Jassen in Vorarlberg](https://www.jassen.at/): extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)
