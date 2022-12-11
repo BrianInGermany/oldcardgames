@@ -53,7 +53,7 @@ When an opponent starts the trick, you must play a card of the same suit or a tr
 You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit/trump.  
 
 ## Scorekeeping
-If the winner of the bid fulills their bid, they write one tally. If they miss it, the opponent writes one tally. If either player makes 20 or less points, they are "in the sack". This means the opponent writes a tally as usual, and they write a "0", which is equivalent to a negative tally. To get "out of the sack", the player has to win another round, crossing through the 0 with a line:
+If the winner of the bid fulills their bid, they write one tally. If they miss it, the opponent writes one tally. If either player makes 20 or less points, they are "in the sack". This means the winner writes a tally as usual, and the big loser writes a "0", which is equivalent to a negative tally. To get "out of the sack", the player has to win another round, crossing through the 0 with a line:
 
 ![](../../assets/images/sack_strich.jpg)
 
