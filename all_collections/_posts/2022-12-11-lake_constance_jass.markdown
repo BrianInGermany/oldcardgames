@@ -19,7 +19,7 @@ Deal another 2x3 cards per player for your hand.
 The aim of the game is to make tricks as fast as possible to either fulfill the bid, or keep the opponent from reaching it. Win five rounds and you are the victor.
 
 ## Bidding
-The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first. 
+The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. You must bid in increments of five. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first. 
 - This can be very decisive because the high bidder will attempt to choose the trump in which she has a "Bur" or "Nell" (see scoring below).
 
 ## Scoring
