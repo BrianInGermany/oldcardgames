@@ -10,7 +10,7 @@ thumbnail: "/assets/images/constancejass.jpg"
 Win the bid to choose the trump, make tricks, but don't fall in the sack!
 
 ## Setup
-With a 36 card deck, shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. These are the table cards.
+With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. These are the table cards.
 
 Then deal another 2x3 cards per player. These are your hand. 
 
