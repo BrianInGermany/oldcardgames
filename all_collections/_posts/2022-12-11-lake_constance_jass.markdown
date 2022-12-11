@@ -8,3 +8,50 @@ thumbnail: "/assets/images/constancejass.jpg"
 ---
 
 Win the bid to choose the trump, make tricks, but don't fall in the sack!
+
+## Setup
+With a 36 card deck, shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. These are the table cards.
+
+Then deal another 2x3 cards per player. These are your hand. 
+
+## Object of the Game
+The aim of the game is to make tricks as fast as possible to fulfill the score you bid for at the start of the game.
+
+## Bidding
+The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first. 
+- This can be very decisive because the high bidder will attempt to choose the trump in which he has a "Bur" or "Nell" (see valuation below).
+
+## Valuation  
+
+| Cards by Trick Rank      | Point Value |
+| ------------------------ | ----------- |
+| Trump Unter/Jack ("Bur") | 20          |
+| Trump nine ("Nell")      | 14          |
+| Ace                      | 11          |
+| King                     | 4           |
+| Ober/Queen               | 3           |
+| Unter/Jack               | 2           |
+| Ten                      | 10          |
+| Nine                     | 0           |
+| Eight                    | 0           |
+| Seven                    | 0           |
+| Six                      | 0           |
+| Making the last trick    | 5           |
+| SUM                      | 157         |
+
+## Making Tricks
+In Jass, you win a trick by playing the highest card (by trick rank). If you win the trick, you get to start the next trick. As in other games, any trump card can beat even the best card of another suit.
+
+### Following suit
+When an opponent starts the trick, you must play a card of the same suit OR a trump card if you have them. If you dont have the same suit or a trump, you must play another card and automatically lose the trick.
+- One exception: you don't have to follow suit with the Bur (trump Unter/Jack, the game's highest card).
+
+You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit/trump.  
+
+## Scorekeeping
+If the winner of the bid fulills their bid, they write one tally. If they miss it, the opponent writes one tally. If either player makes 20 or less points, they are "in the sack". This means the opponent writes a tally as usual, and they write a "0", which is equivalent to a negative tally. To get "out of the sack", the player has to win another round, crossing through the 0 with a line:
+
+![](../../assets/images/sack_strich.jpg)
+
+## End of Game
+When one player has reached enough points that it's impossible for the opponent to win, she can say "enough!" to end the game. Otherwise, the game ends when all cards have been played.
