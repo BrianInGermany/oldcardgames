@@ -21,10 +21,15 @@ The aim of the game is to make tricks as fast as possible to either fulfill the 
 ## Bidding
 The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. You must bid in increments of five. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first. 
 - This can be very decisive because the high bidder will attempt to choose the trump in which she has a "Bur" or "Nell" (see scoring below).
+- Variant rule: if you don't want to choose a trump, you can play "Bock", "Gais" or "Slalom" (without trumps, eights are worth eight points to compensate)
+  - Bock: aces high, eights worth eight
+  - Gais: sixes high, eights worth eight
+  - Slalom: alternate Bock and Gais every trick
 
 ## Scoring
 When you win a trick, you add the cards' point value to your score. The player that makes the final trick gets an additional five points.
 
+### Normal (Trump Game)
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
 | Trump Unter/Jack ("Bur") | 20          |
@@ -38,6 +43,36 @@ When you win a trick, you add the cards' point value to your score. The player t
 | Eight                    | 0           |
 | Seven                    | 0           |
 | Six                      | 0           |
+| -Making the last trick-  | 5           |
+| SUM                      | 157         |
+
+### Bock
+| Cards by Trick Rank      | Point Value |
+| ------------------------ | ----------- |
+| Ace                      | 11          |
+| King                     | 4           |
+| Ober/Queen               | 3           |
+| Unter/Jack               | 2           |
+| Ten                      | 10          |
+| Nine                     | 0           |
+| Eight                    | 8           |
+| Seven                    | 0           |
+| Six                      | 0           |
+| -Making the last trick-  | 5           |
+| SUM                      | 157         |
+
+### Gais
+| Cards by Trick Rank      | Point Value |
+| ------------------------ | ----------- |
+| Six                      | 0           |
+| Seven                    | 0           |
+| Eight                    | 0           |
+| Nine                     | 0           |
+| Ten                      | 10          |
+| Unter/Jack               | 2           |
+| Ober/Queen               | 3           |
+| King                     | 4           |
+| Ace                      | 11          |
 | -Making the last trick-  | 5           |
 | SUM                      | 157         |
 
