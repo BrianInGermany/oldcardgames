@@ -63,6 +63,7 @@ header .site-title {
   justify-content: space-between;
   align-items: center;
   gap: 3rem;
+  width: inherit;
 }
 /* #bio-avatar-wrapper {} */
 #bio-avatar {
@@ -119,7 +120,7 @@ header .site-title {
   display: flex;
   
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-between;
   position: relative;
 }
 
