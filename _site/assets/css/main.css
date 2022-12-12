@@ -32,6 +32,7 @@ body {
   background-color: var(--bg-dm-primary);
   font-family: "Montserrat", sans-serif;
   line-height: 2rem;
+  width: 100%;
 }
 
 main {
@@ -114,6 +115,7 @@ header .site-title {
   padding: 2rem 2.5rem;
   border-radius: var(--border-radius);
   display: flex;
+  
   flex-direction: column;
   justify-content: space-evenly;
   position: relative;
