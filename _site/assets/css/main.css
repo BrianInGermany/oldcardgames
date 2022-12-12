@@ -164,6 +164,7 @@ header .site-title {
   color: var(--bg-dm-secondary);
   background-color: var(--dm-contrast);
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   font-size: 0.8rem;
