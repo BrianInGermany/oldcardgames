@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Do Your Worst: Offenbach Jass"
+title:  "Do Your Worst: Offenbach Jass!"
 description: "Get rid of high cards wisely and win with the lowest score."
 date:   2022-12-11 09:45:00
 categories: ["threeplayer","fourplayer","strategic"]
