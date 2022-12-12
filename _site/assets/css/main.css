@@ -141,11 +141,11 @@ header .site-title {
   color: inherit;
   font-size: 2rem;
   line-height: 120%;
-  flex-wrap: wrap;
 }
 
 .article-bottom {
   margin-top: 1.5rem;
+  flex-wrap: wrap;
 }
 
 .article-date {
