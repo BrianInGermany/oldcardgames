@@ -47,6 +47,7 @@ main.blogfeed * {
 
 header {
   padding: 2rem 0 4rem 0;
+  
 }
 
 header .site-title {
@@ -54,6 +55,7 @@ header .site-title {
   font-weight: bolder;
   line-height: 110%;
   color: var(--text-dm-site-title);
+  width: inherit;
 }
 
 #bio {
