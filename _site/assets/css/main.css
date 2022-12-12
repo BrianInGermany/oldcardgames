@@ -32,11 +32,10 @@ body {
   background-color: var(--bg-dm-primary);
   font-family: "Montserrat", sans-serif;
   line-height: 2rem;
-  width: 100%;
 }
 
 main {
-  margin: 0 auto;
+  margin: 0 0;
   max-width: 650px;
   padding: 3rem 0;
 }
@@ -55,7 +54,7 @@ header .site-title {
   font-weight: bolder;
   line-height: 110%;
   color: var(--text-dm-site-title);
-  width: inherit;
+
 }
 
 #bio {
@@ -63,7 +62,7 @@ header .site-title {
   justify-content: space-between;
   align-items: center;
   gap: 3rem;
-  width: inherit;
+
 }
 /* #bio-avatar-wrapper {} */
 #bio-avatar {
