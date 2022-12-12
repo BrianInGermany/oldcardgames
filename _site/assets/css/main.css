@@ -32,7 +32,7 @@ body {
   background-color: var(--bg-dm-primary);
   font-family: "Montserrat", sans-serif;
   line-height: 2rem;
-  width: inherit;
+  width: 100%;
 }
 
 main {
