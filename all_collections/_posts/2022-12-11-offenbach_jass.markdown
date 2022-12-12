@@ -3,7 +3,7 @@ layout: post
 title:  "Offenbach Jass"
 description: "Get rid of high cards wisely and win with the lowest score."
 date:   2022-12-11 09:45:00
-categories: ["3P","4P","strategic"]
+categories: ["threeplayer","fourplayer","strategic"]
 thumbnail: "/assets/images/offenbachJass.jpg"
 ---
 Get rid of high cards wisely and win with the lowest score. This game is a variant of Hindersche Jass.
