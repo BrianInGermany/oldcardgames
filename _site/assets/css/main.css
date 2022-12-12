@@ -145,7 +145,7 @@ header .site-title {
 
 .article-bottom {
   margin-top: 1.5rem;
-  flex-wrap: wrap;
+
 }
 
 .article-date {
@@ -155,8 +155,8 @@ header .site-title {
 .article-categories {
   margin-top: 0.2rem;
   display: flex;
-  flex-wrap: wrap;
   gap: 1rem;
+  overflow-wrap: normal;
 }
 
 .article-category {
@@ -165,7 +165,6 @@ header .site-title {
   color: var(--bg-dm-secondary);
   background-color: var(--dm-contrast);
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   font-size: 0.8rem;
