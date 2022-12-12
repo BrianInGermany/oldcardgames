@@ -114,9 +114,8 @@ header .site-title {
   padding: 2rem 2.5rem;
   border-radius: var(--border-radius);
   display: flex;
-  width: 100%;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
   position: relative;
 }
 
