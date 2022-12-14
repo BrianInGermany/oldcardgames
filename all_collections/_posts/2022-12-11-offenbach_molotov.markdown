@@ -38,7 +38,10 @@ If a molotov appears on the table, the winner of the trick gets bombed another 2
 | SUM                      | 157         |
 
 ## Making Tricks
-In Jass, you win a trick by playing the highest card (by trick rank). If you win the trick, you start the next trick. As in other games, any trump card beats even the best card of another suit.
+You win a trick by playing the highest card (by trick rank). If you win the trick, you start the next trick. As in other games, any trump card beats even the best card of another suit.
+
+### Determining Trump
+The game begins without a trump and the first card played that can't follow suit becomes the trump for the round.
 
 ### Following Suit
 When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. If you don't have a card of the same suit, you can play any other card (wrong suit __or trump__).
