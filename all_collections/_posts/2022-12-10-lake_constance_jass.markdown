@@ -82,10 +82,10 @@ In Jass, you win a trick by playing the highest card (by trick rank). If you win
 In Lake Constance Jass, __you can choose to play a card from your hand or from your table cards__. Once the trick is won, turn over any freshly revealed face-down cards.
 
 ### Following Suit
-When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. If you don't have a card of the same suit, you can play any other card (wrong suit or trump).
+When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. If you don't have a card of the same suit, you can play any other card (wrong suit __or trump__).
 - One exception: you don't have to follow suit with the Bur (trump Unter/Jack, the game's highest card).
 
-You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit/trump.  
+You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit.  
 
 ## Scorekeeping
 If the winner of the bid fulfills their bid, they write one tally. If they miss it, the opponent writes one tally. If either player makes 20 or less points, they are "in the sack". This means the winner writes a tally as usual, and the big loser writes a "0", which is equivalent to a negative tally. To get "out of the sack", the player has to win another round, crossing through the 0 with a line:
