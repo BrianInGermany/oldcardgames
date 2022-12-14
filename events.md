@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Card Table Offenbach"
 description: "Entspannter Kartenspielertreff in Offenbach am Main: Jass, Doppelkopf, etc."
 date:   2022-14-09 19:34:00
