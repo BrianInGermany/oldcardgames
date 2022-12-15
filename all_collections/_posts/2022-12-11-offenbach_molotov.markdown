@@ -6,7 +6,7 @@ date:   2022-12-11 09:45:00
 categories: ["threeplayer","fourplayer"]
 thumbnail: "/assets/images/offenbachJass.jpg"
 ---
-Get rid of high cards wisely and win with the lowest score.
+Get rid of high cards wisely and win with the lowest score in this fiesty Jass.
 
 ![](../../assets/images/offenbachJass.jpg)
 
