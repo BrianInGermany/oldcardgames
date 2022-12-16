@@ -20,7 +20,7 @@ The aim of the game is to score as low as possible by make as few and as cheap t
 When you win a trick, you add the cards' point value to your score. The player that makes the final trick gets an additional five points.
 
 ### Molotovs!
-If a molotov appears on the table, the winner of the trick gets bombed another 20 points. A molotov is three or four cards __of the same suit__ in sequence.
+If a molotov appears on the table, the winner of the trick gets bombed another 20 or 50 points. A molotov is three or four cards __of the same suit__ in sequence.
 - Small molotov = three in a row
   - 20 points 
 - Large molotov = four in a row
