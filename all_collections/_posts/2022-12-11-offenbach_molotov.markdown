@@ -25,7 +25,7 @@ If a molotov appears on the table, the winner of the trick gets bombed another 2
   - 20 points 
 - Large molotov = four in a row
   - 50 points
-  - only possible with 4 players 
+  - Only possible with 4 players 
 - Examples 
   - 6-7-8
   - J-Q-K
