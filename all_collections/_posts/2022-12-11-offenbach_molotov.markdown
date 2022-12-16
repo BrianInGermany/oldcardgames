@@ -19,7 +19,17 @@ The aim of the game is to score as low as possible by make as few and as cheap t
 ## Scoring
 When you win a trick, you add the cards' point value to your score. The player that makes the final trick gets an additional five points.
 
-If a molotov appears on the table, the winner of the trick gets bombed another 20 points (small molotov = three in a row) or 50 points (large molotov = four in a row, only possible with 4 players). Examples of molotovs are 6-7-8, J-Q-K, 9-10-J-Q __of the same suit__.
+### Molotovs!
+If a molotov appears on the table, the winner of the trick gets bombed another 20 points. A molotov is three or four cards __of the same suit__ in sequence.
+- Small molotov = three in a row
+  - 20 points 
+- Large molotov = four in a row
+  - 50 points
+  - only possible with 4 players 
+- Examples 
+  - 6-7-8
+  - J-Q-K
+  - 9-10-J-Q
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
