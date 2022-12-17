@@ -1,4 +1,136 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/https://funcardgames.net/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/https://funcardgames.net/" rel="alternate" type="text/html" /><updated>2022-12-11T13:08:23+01:00</updated><id>http://localhost:4000/https://funcardgames.net/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry><title type="html">Lake Constance Jass</title><link href="http://localhost:4000/https://funcardgames.net/lake_constance_jass/" rel="alternate" type="text/html" title="Lake Constance Jass" /><published>2022-12-10T10:39:00+01:00</published><updated>2022-12-10T10:39:00+01:00</updated><id>http://localhost:4000/https://funcardgames.net/lake_constance_jass</id><content type="html" xml:base="http://localhost:4000/https://funcardgames.net/lake_constance_jass/"><![CDATA[<p>Win the bid to choose the trump, make tricks, but don’t fall in the sack!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-17T14:24:38+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry><title type="html">Do Your Worst: Offenbach Molotov!</title><link href="http://localhost:4000/offenbach_molotov/" rel="alternate" type="text/html" title="Do Your Worst: Offenbach Molotov!" /><published>2022-12-11T10:45:00+01:00</published><updated>2022-12-11T10:45:00+01:00</updated><id>http://localhost:4000/offenbach_molotov</id><content type="html" xml:base="http://localhost:4000/offenbach_molotov/"><![CDATA[<p>Get rid of high cards wisely and win with the lowest score in this fiesty Jass.</p>
+
+<p><img src="../../assets/images/offenbachJass.jpg" alt="" /></p>
+
+<h2 id="setup">Setup</h2>
+<p>With a 36 card deck (6-A), shuffle and divide the deck equally between each player, dealing out in groups of three cards (with 3P 4x3, with 4P 3x3 each).</p>
+
+<h2 id="object-of-the-game">Object of the Game</h2>
+<p>The aim of the game is to score as low as possible by make as few and as cheap tricks as possible. And avoid being bombed with a molotov!</p>
+
+<h2 id="scoring">Scoring</h2>
+<p>When you win a trick, you add the cards’ point value to your score. The player that makes the final trick gets an additional five points.</p>
+
+<h3 id="molotovs">Molotovs!</h3>
+<p>If a molotov appears on the table, the winner of the trick gets bombed another 20 or 50 points. A molotov is three or four cards <strong>of the same suit</strong> in sequence.</p>
+<ul>
+  <li>Small molotov = three in a row
+    <ul>
+      <li>20 points</li>
+    </ul>
+  </li>
+  <li>Large molotov = four in a row
+    <ul>
+      <li>50 points</li>
+      <li>Only possible with 4 players</li>
+    </ul>
+  </li>
+  <li>Examples
+    <ul>
+      <li>6-7-8</li>
+      <li>J-Q-K</li>
+      <li>9-10-J-Q</li>
+    </ul>
+  </li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Cards by Trick Rank</th>
+      <th>Point Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trump Unter/Jack (“Bur”)</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Trump Nine (“Nell”)</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>Ace</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>King</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Ober/Queen</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Unter/Jack</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Ten</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Nine</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Eight</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Seven</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Six</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-Making the last trick-</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>SUM</td>
+      <td>157</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="making-tricks">Making Tricks</h2>
+<p>You win a trick by playing the highest card (by trick rank). If you win the trick, you start the next trick. As in other games, any trump card beats even the best card of another suit.</p>
+
+<h3 id="determining-trump">Determining Trump</h3>
+<p>The game begins without a trump and the first card played that can’t follow suit becomes the trump for the round.</p>
+
+<h3 id="following-suit">Following Suit</h3>
+<p>When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. If you don’t have a card of the same suit, you can play any other card (wrong suit <strong>or trump</strong>).</p>
+<ul>
+  <li>One exception: you don’t have to follow suit with the Bur (trump Unter/Jack, the game’s highest card).</li>
+</ul>
+
+<p>You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit.</p>
+
+<h2 id="scorekeeping">Scorekeeping</h2>
+<p>The two players with the lowest round score write one tally, the highest player writes a “sack” (if playing with four, one player gets neither a tally nor a sack).</p>
+<ul>
+  <li>To get “out of the sack”, the player has to make another tally, crossing through the 0 with a line:</li>
+</ul>
+
+<p><img src="../../assets/images/sack_strich.jpg" alt="" /></p>
+
+<h2 id="end-of-game">End of Game</h2>
+<ul>
+  <li>The round is over when all the cards have been played.</li>
+  <li>The game is over when one or more players reach five tallies. If several players reach five tallies simultaneosly, the lowest score of the final round decides the winner.</li>
+</ul>
+
+<h2 id="other-jass-resources">Other Jass Resources</h2>
+
+<ul>
+  <li><a href="https://jassa.at">jassa.at</a>: well-curated site of Jass rules and games (in German)</li>
+  <li><a href="https://www.jassen.at/">Book: Jassen in Vorarlberg</a>: extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)</li>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="threeplayer" /><category term="fourplayer" /><summary type="html"><![CDATA[Get rid of high cards wisely and win with the lowest score in this fiesty Jass.]]></summary></entry><entry><title type="html">Lake Constance Jass</title><link href="http://localhost:4000/lake_constance_jass/" rel="alternate" type="text/html" title="Lake Constance Jass" /><published>2022-12-10T10:39:00+01:00</published><updated>2022-12-10T10:39:00+01:00</updated><id>http://localhost:4000/lake_constance_jass</id><content type="html" xml:base="http://localhost:4000/lake_constance_jass/"><![CDATA[<p>Win the bid to choose the trump, make tricks, but don’t fall in the sack!</p>
 
 <p><img src="../../assets/images/constancejass.jpg" alt="" /></p>
 
@@ -30,7 +162,7 @@
 <p>| Cards by Trick Rank      | Point Value |
 | ———————— | ———– |
 | Trump Unter/Jack (“Bur”) | 20          |
-| Trump nine (“Nell”)      | 14          |
+| Trump Nine (“Nell”)      | 14          |
 | Ace                      | 11          |
 | King                     | 4           |
 | Ober/Queen               | 3           |
@@ -79,12 +211,12 @@
 <p>In Lake Constance Jass, <strong>you can choose to play a card from your hand or from your table cards</strong>. Once the trick is won, turn over any freshly revealed face-down cards.</p>
 
 <h3 id="following-suit">Following Suit</h3>
-<p>When an opponent starts the trick, you must play a card of the same suit or a trump card if you have one. If you dont have the same suit or a trump, you must play another card and automatically lose the trick. Note that you can always choose between following suit and playing a trump.</p>
+<p>When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. If you don’t have a card of the same suit, you can play any other card (wrong suit <strong>or trump</strong>).</p>
 <ul>
   <li>One exception: you don’t have to follow suit with the Bur (trump Unter/Jack, the game’s highest card).</li>
 </ul>
 
-<p>You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit/trump.</p>
+<p>You are not required to make a trick, and can intentionally lose a trick, as long as you follow suit.</p>
 
 <h2 id="scorekeeping">Scorekeeping</h2>
 <p>If the winner of the bid fulfills their bid, they write one tally. If they miss it, the opponent writes one tally. If either player makes 20 or less points, they are “in the sack”. This means the winner writes a tally as usual, and the big loser writes a “0”, which is equivalent to a negative tally. To get “out of the sack”, the player has to win another round, crossing through the 0 with a line:</p>
@@ -92,7 +224,14 @@
 <p><img src="../../assets/images/sack_strich.jpg" alt="" /></p>
 
 <h2 id="end-of-game">End of Game</h2>
-<p>When one player has reached enough points that it’s impossible for the opponent to win, she can say “enough!” to end the game. Otherwise, the game ends when all cards have been played.</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="two_player" /><category term="Austrian" /><category term="strategic" /><summary type="html"><![CDATA[Win the bid to choose the trump, make tricks, but don't fall in the sack!]]></summary></entry><entry><title type="html">A Two-Player Easy as Taking Out Trash: Garbage</title><link href="http://localhost:4000/https://funcardgames.net/garbage/" rel="alternate" type="text/html" title="A Two-Player Easy as Taking Out Trash: Garbage" /><published>2022-10-13T19:39:00+02:00</published><updated>2022-10-13T19:39:00+02:00</updated><id>http://localhost:4000/https://funcardgames.net/garbage</id><content type="html" xml:base="http://localhost:4000/https://funcardgames.net/garbage/"><![CDATA[<p>This easy (and fun) two-player is a good mindless accompaniment to conversation.</p>
+<p>When one player has reached enough points that it’s impossible for the opponent to win, she can say “enough!” to end the game. Otherwise, the game ends when all cards have been played.</p>
+
+<h2 id="other-jass-resources">Other Jass Resources</h2>
+
+<ul>
+  <li><a href="https://jassa.at">jassa.at</a>: well-curated site of Jass rules and games (in German)</li>
+  <li><a href="https://www.jassen.at/">Book: Jassen in Vorarlberg</a>: extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)</li>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><summary type="html"><![CDATA[Win the bid to choose the trump, make tricks, but don't fall in the sack!]]></summary></entry><entry><title type="html">A Two-Player Easy as Taking Out Trash: Garbage</title><link href="http://localhost:4000/garbage/" rel="alternate" type="text/html" title="A Two-Player Easy as Taking Out Trash: Garbage" /><published>2022-10-13T19:39:00+02:00</published><updated>2022-10-13T19:39:00+02:00</updated><id>http://localhost:4000/garbage</id><content type="html" xml:base="http://localhost:4000/garbage/"><![CDATA[<p>This easy (and fun) two-player is a good mindless accompaniment to conversation.</p>
 
 <p><img src="/assets/images/garbage.jpg" alt="" /></p>
 
@@ -118,7 +257,7 @@
 </ul>
 
 <h2 id="end-of-game">End of Game</h2>
-<p>The first person to fill all ten positions with A-10 wins!</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="two_player" /><category term="Japanese" /><category term="easy" /><summary type="html"><![CDATA[Be the first to collect the cards A-10 on a 10-card grid.]]></summary></entry><entry><title type="html">Japanese Party Hit: Pigtail!</title><link href="http://localhost:4000/https://funcardgames.net/pigtail/" rel="alternate" type="text/html" title="Japanese Party Hit: Pigtail!" /><published>2022-10-13T19:14:00+02:00</published><updated>2022-10-13T19:14:00+02:00</updated><id>http://localhost:4000/https://funcardgames.net/pigtail</id><content type="html" xml:base="http://localhost:4000/https://funcardgames.net/pigtail/"><![CDATA[<p>This Japanese party game is guaranteed to work even if even you’ve had one Sake too many…
+<p>The first person to fill all ten positions with A-10 wins!</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><category term="easy" /><summary type="html"><![CDATA[Be the first to collect the cards A-10 on a 10-card grid.]]></summary></entry><entry><title type="html">Japanese Party Hit: Pigtail!</title><link href="http://localhost:4000/pigtail/" rel="alternate" type="text/html" title="Japanese Party Hit: Pigtail!" /><published>2022-10-13T19:14:00+02:00</published><updated>2022-10-13T19:14:00+02:00</updated><id>http://localhost:4000/pigtail</id><content type="html" xml:base="http://localhost:4000/pigtail/"><![CDATA[<p>This Japanese party game is guaranteed to work even if even you’ve had one Sake too many…
 It is suitable for any number of players.</p>
 
 <p><img src="/assets/images/pigtail.jpg" alt="" /></p>
@@ -138,7 +277,7 @@ It is suitable for any number of players.</p>
 <p>If you have cards in your hand, you can alternatively play a card from your hand. This makes it easier to recover from a big loss. :grin:</p>
 
 <h2 id="end-of-game">End of Game</h2>
-<p>The person with the most cards in their hand when the pigtail ends is the LOSER :thumbsdown:</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="many_player" /><category term="Japanese" /><category term="easy" /><category term="party" /><summary type="html"><![CDATA[Turn over cards from the pigtail. Just not the same suit twice-in-a-row! :joy:]]></summary></entry><entry><title type="html">Gang Up on Opponents and Don’t be the Dummy: Durak</title><link href="http://localhost:4000/https://funcardgames.net/durak/" rel="alternate" type="text/html" title="Gang Up on Opponents and Don’t be the Dummy: Durak" /><published>2022-10-12T17:39:00+02:00</published><updated>2022-10-12T17:39:00+02:00</updated><id>http://localhost:4000/https://funcardgames.net/durak</id><content type="html" xml:base="http://localhost:4000/https://funcardgames.net/durak/"><![CDATA[<p>Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.</p>
+<p>The person with the most cards in their hand when the pigtail ends is the LOSER :thumbsdown:</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Turn over cards from the pigtail. Just not the same suit twice-in-a-row!]]></summary></entry><entry><title type="html">Gang Up on Opponents and Don’t be the Dummy: Durak</title><link href="http://localhost:4000/durak/" rel="alternate" type="text/html" title="Gang Up on Opponents and Don’t be the Dummy: Durak" /><published>2022-10-12T17:39:00+02:00</published><updated>2022-10-12T17:39:00+02:00</updated><id>http://localhost:4000/durak</id><content type="html" xml:base="http://localhost:4000/durak/"><![CDATA[<p>Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.</p>
 
 <p><img src="/assets/images/durak.jpg" alt="" /></p>
 
@@ -191,7 +330,7 @@ Any time after the first attack has hit the table, the other attacker can also a
 <p>This order is important, because the deck will run out at some point, and the fewer cards you have, the less likely you are to become the Durak!</p>
 
 <h2 id="end-of-game">End of Game</h2>
-<p>The game continues until every player except one has shed all their cards. Give that dude a funny hat and call him a Durak! The Durak starts the next round.</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="many_player" /><category term="Russian" /><category term="easy" /><category term="party" /><summary type="html"><![CDATA[Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.]]></summary></entry><entry><title type="html">Get Your Kicks With ‘66’: A Classic German Cardgame</title><link href="http://localhost:4000/https://funcardgames.net/sixty-six/" rel="alternate" type="text/html" title="Get Your Kicks With ‘66’: A Classic German Cardgame" /><published>2022-10-09T23:34:00+02:00</published><updated>2022-10-09T23:34:00+02:00</updated><id>http://localhost:4000/https://funcardgames.net/sixty-six</id><content type="html" xml:base="http://localhost:4000/https://funcardgames.net/sixty-six/"><![CDATA[<p>Use memory and strategy to make tricks and reach 66 before your opponent!</p>
+<p>The game continues until every player except one has shed all their cards. Give that dude a funny hat and call him a Durak! The Durak starts the next round.</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Gang up on (defenseless? ;) ) opponents in this souped-up version of War for 4-8 players.]]></summary></entry><entry><title type="html">Get Your Kicks With ‘66’: A Classic German Cardgame</title><link href="http://localhost:4000/sixty-six/" rel="alternate" type="text/html" title="Get Your Kicks With ‘66’: A Classic German Cardgame" /><published>2022-10-09T23:34:00+02:00</published><updated>2022-10-09T23:34:00+02:00</updated><id>http://localhost:4000/sixty-six</id><content type="html" xml:base="http://localhost:4000/sixty-six/"><![CDATA[<p>Use memory and strategy to make tricks and reach 66 before your opponent!</p>
 
 <p><img src="/assets/images/66.jpg" alt="" /></p>
 
@@ -266,7 +405,7 @@ Once the deck has been closed, the defending player does not get points for any 
       <li><strong>Seven match points wins!</strong></li>
     </ul>
   </li>
-</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="two_player" /><category term="German" /><category term="strategic" /><summary type="html"><![CDATA[Use memory and strategy to make tricks and reach 66 before your opponent!]]></summary></entry><entry><title type="html">An Electrified Upgrade on Blackjack: Blitz!</title><link href="http://localhost:4000/https://funcardgames.net/blitz/" rel="alternate" type="text/html" title="An Electrified Upgrade on Blackjack: Blitz!" /><published>2022-10-09T14:10:00+02:00</published><updated>2022-10-09T14:10:00+02:00</updated><id>http://localhost:4000/https://funcardgames.net/blitz</id><content type="html" xml:base="http://localhost:4000/https://funcardgames.net/blitz/"><![CDATA[<p>Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.</p>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><summary type="html"><![CDATA[Use memory and strategy to make tricks and reach 66 before your opponent!]]></summary></entry><entry><title type="html">An Electrified Upgrade on Blackjack: Blitz!</title><link href="http://localhost:4000/blitz/" rel="alternate" type="text/html" title="An Electrified Upgrade on Blackjack: Blitz!" /><published>2022-10-09T14:10:00+02:00</published><updated>2022-10-09T14:10:00+02:00</updated><id>http://localhost:4000/blitz</id><content type="html" xml:base="http://localhost:4000/blitz/"><![CDATA[<p>Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.</p>
 
 <p><img src="/assets/images/blitz.jpg" alt="" /></p>
 
@@ -333,4 +472,4 @@ Once the deck has been closed, the defending player does not get points for any 
       <li>Remember, the next player can take all three cards!</li>
     </ul>
   </li>
-</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="many_player" /><category term="German" /><category term="easy" /><summary type="html"><![CDATA[Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.]]></summary></entry></feed>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.]]></summary></entry></feed>

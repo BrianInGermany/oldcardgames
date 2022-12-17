@@ -18,6 +18,8 @@ collections_dir: all_collections
 collections:
   posts:
     output: true
+  extrapages:
+    output: true
 
 defaults:
   - scope:
@@ -25,4 +27,10 @@ defaults:
     values:
       layout: "post"
       permalink: /:title/
+  - scope:
+      path: "_extrapages"
+    values:
+      layout: "post"
+      permalink: /:title/
+
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]

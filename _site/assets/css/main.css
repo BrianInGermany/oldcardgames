@@ -46,7 +46,6 @@ main.blogfeed * {
 
 header {
   padding: 2rem 0 4rem 0;
-  
 }
 
 header .site-title {
@@ -54,7 +53,6 @@ header .site-title {
   font-weight: bolder;
   line-height: 110%;
   color: var(--text-dm-site-title);
-
 }
 
 #bio {
@@ -62,7 +60,6 @@ header .site-title {
   justify-content: space-between;
   align-items: center;
   gap: 3rem;
-
 }
 /* #bio-avatar-wrapper {} */
 #bio-avatar {
@@ -117,7 +114,6 @@ header .site-title {
   padding: 2rem 2.5rem;
   border-radius: var(--border-radius);
   display: flex;
-  
   flex-direction: column;
   justify-content: space-between;
   position: relative;
@@ -149,7 +145,6 @@ header .site-title {
 
 .article-bottom {
   margin-top: 1.5rem;
-
 }
 
 .article-date {
@@ -160,7 +155,6 @@ header .site-title {
   margin-top: 0.2rem;
   display: flex;
   gap: 1rem;
-
 }
 
 .article-category {
