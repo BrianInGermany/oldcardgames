@@ -30,7 +30,7 @@ The trick rank of the tarot cards is equal to their numbers, which go from 1-21.
 
 ## Setup
 At the start of the game, six cards are dealt face down in two packs of three in the center of the table. These are called the "tapp" (hence the name of the game).
-- Sixteen cards are then dealt to each player in two packs of eight.
+- Sixteen cards are then dealt to each player in four packs of four.
 - The game begins by players bidding for the chance to earn points by winning the round.
   - Depending on the bid, you can use the tapp cards to improve your hand.
 
