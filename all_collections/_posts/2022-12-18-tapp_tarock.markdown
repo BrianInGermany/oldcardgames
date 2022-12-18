@@ -6,7 +6,7 @@ date:   2022-12-18 11:39:00
 categories: ["threeplayer"]
 thumbnail: "/assets/images/tarock.jpg"
 ---
-Risk a bid and trump your way to victory with this classic tarot game.  
+Risk a bid, and trump your way to victory with this classic tarot game.  
 
 Not just for future tellling! Tapp Tarock is a fun trick-taking game with the added fascination of the fifth suit, tarot.
 
