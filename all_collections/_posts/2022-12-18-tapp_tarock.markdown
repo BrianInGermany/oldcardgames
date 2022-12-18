@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tapp Tarock: Tarot for Three"
-description: "Risk a bid and trump your way to victory with this classic tarot game."
+description: "Risk a bid, and trump your way to victory with this classic tarot game."
 date:   2022-12-18 11:39:00
 categories: ["threeplayer"]
 thumbnail: "/assets/images/tarock.jpg"
