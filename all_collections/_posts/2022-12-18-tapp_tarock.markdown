@@ -102,12 +102,12 @@ For example:
 #### __Overall Points__
 If the winner of the bid wins the game as promised, they get points for that bid according to the below table. If the bidwinner loses, each opponent gets the same points added to their score:
 
-| Rank | Bid   | Points |
-| ---- | ----- | ------ |
-| 1    | Three | 3      |
-| 2    | Two   | 4      |
-| 3    | One   | 5      |
-| 4    | Solo  | 8      |
+| Bid   | Points |
+| ----- | ------ |
+| Three | 3      |
+| Two   | 4      |
+| One   | 5      |
+| Solo  | 8      |
 
 #### __Bonus__
 If any player wins the final trick with the Pagat (1), they get two bonus points on their overall score.
