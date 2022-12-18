@@ -63,16 +63,6 @@ Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 dec
 - Player 2: "I hold"
 - Player 3: "pass"
 - END
-
-Player 1 bids, player 2 outbids, player 1 takes it, but player 2 then raises and wins the bid:
-- Player 1: "three"
-- Player 2: "two"
-- Player 3: "pass"
-- Player 1: "I hold"
-- Player 2: "one"
-- Player 3: (SKIPPED)
-- Player 1: "pass"
-- END
   
 Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp.
 
