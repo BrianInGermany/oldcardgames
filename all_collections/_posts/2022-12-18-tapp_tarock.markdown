@@ -72,6 +72,7 @@ Player 1 bids, player 2 outbids, player 1 takes it, but player 2 then raises and
 - Player 2: "one"
 - Player 3: (SKIPPED)
 - Player 1: "pass"
+- END
   
 Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp.
 
