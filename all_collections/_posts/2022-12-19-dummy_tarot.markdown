@@ -6,7 +6,7 @@ date:   2022-12-19 18:57:00
 categories: ["twoplayer"]
 thumbnail: "/assets/images/honneurs.jpg"
 ---
-A two-player version of Tarot with open cards and a hand (Strohmanntarock)
+A two-player version of Tarot with open cards and a hand (Strohmanntarock/Strohmandeln)
 
 ## The Cards
 ![](/assets/images/tarock.jpg)  
