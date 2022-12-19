@@ -63,9 +63,8 @@ In addition to the bids, there are prize announcements. They have no impact on t
 | Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
 
 #### __Bidding Examples__
-- In the biding, players can pass or bid, but once they pass they are excluded from the rest of the bidding.
-- The first bid is always "three", and goes up the scale to "two", "one", and "solo".
-- Prizes are announce with the bid ("three with pagat ultimo"), but do not influence the bid ranks.
+In the biding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
+- Prizes are announced with the bid ("three with pagat ultimo"), but do not influence the bid ranks.
 - If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but the option to raise again to the next highest bid.
 
 Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 decides not to outbid again:
