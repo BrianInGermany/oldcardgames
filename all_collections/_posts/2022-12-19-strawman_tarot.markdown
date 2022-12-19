@@ -38,7 +38,7 @@ After dealing, each player orders and checks their hand, and the player who didn
 ### Points  
 Points in Straw Man Tarot are credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning.
 
-| Win/Loss Type     | Earnings (Opponent Pays)   |
+| Win Type     | Opponent Pays You   |
 | ----------------- | ------------------------- |
 | Claim and Win   | 30  |
 | Beat Claimer | 40  |
@@ -47,7 +47,7 @@ Points in Straw Man Tarot are credits, and can be tracked on paper or with cents
 ### Bonuses
 Bonus points in Straw Man Tarot are awarded regardless of whether the player claimed the game, and do not need to be announce beforehand.
 
-| Bonus        | Description                                        | Earnings (Opponent Pays) |
+| Bonus        | Description                                        | Opponent Pays You |
 | ------------ | -------------------------------------------------- | ----- |
 | Pagat Ultimo | Win the Pagat (1) on the last trick                | 10    |
 | Honneur      | Win all three honneurs (Pagat (1),Mond (21), Sküs) | 10    |
