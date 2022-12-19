@@ -40,6 +40,8 @@ The goal of Tapp Tarock is to make points by beating your two opponents alone or
 Bidding determines who gets to be the single opponent. Beginning with the player to the right of the dealer (game is played counter-clockwise), players look at their cards and judge whether they want to attempt to win the game alone by collecting the majority of possible card points. There are 70 points in the deck, so to win, you need 36. In most cases, if you win the bid, you get to improve your hand with cards from the tapp.
 
 ### Bidding
+
+#### __Bid Levels__
 There are four bids that can be made, each subsequent level only possible after one player has bid the previous. 
 | Level | Bid   | Description                                                                   |
 | ---- | ----- | ----------------------------------------------------------------------------- |
@@ -50,11 +52,22 @@ There are four bids that can be made, each subsequent level only possible after 
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
-- Players can pass or bid, but once they pass they are excluded from the rest of the bidding.
+#### __Prizes__
+In addition to the bids, there are prize announcements. They have no impact on the bid level, but if the player wins the bid, they award extra points if successful, or points to the opponents if not. If announced, they are worth more, because the points go to each opponent if you don't fulfill it. If silent (unannounced), you have no added risk, but get less points.
+
+
+| Prize         |  Description                                              |  Points (Announced) |  Points (Silent) |
+| ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
+| Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
+| Absolut       | Win the game with at least 40 points (instead of min. 36) | 2                   | 1                |
+| Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
+
+#### __Bidding Examples__
+- In the biding, players can pass or bid, but once they pass they are excluded from the rest of the bidding.
 - The first bid is always "three", and goes up the scale to "two", "one", and "solo".
+- Prizes are announce with the bid ("three with pagat ultimo"), but do not influence the bid ranks.
 - If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but the option to raise again to the next highest bid.
 
-#### __Example Bidding__
 Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 decides not to outbid again:
 - Player 1: "pass"
 - Player 2: "three"
@@ -62,14 +75,64 @@ Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 dec
 - Player 1: (SKIPPED)
 - Player 2: "I hold"
 - Player 3: "pass"
-- END
+- END (Player 2 wins the bid.)
+
+Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid further:
+- Player 1: "three"
+- Player 2: "two"
+- Player 3: "pass"
+- Player 1: "pass"
+- END (Player 2 wins the bid.)
+
+Same arrangement, but player 1 tries to announce a Pagat Ultimo:
+- Player 1: "three, pagat ultimo"
+- Player 2: "two"
+- Player 3: "pass"
+- Player 1: "I hold"
+- Player 2: "one"
+- Player 3: (SKIPPED)
+- Player 1: "pass"
+- END (Player 2 wins the bid.)
+
+#### __Countering Examples__
+Once a bid is one, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
+- Both bids and prize announcements can be countered.
   
-Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp.
+Player 3 bids, player 1 passes and later counters:
+- Player 1: "pass"
+- Player 2: "pass"
+- Player 3: "three"
+- Player 1: "Contra on the three"
+- Player 2: "pass"
+- Player 3: "pass"
+- END (Player 3 wins the bid with a counter.)
+
+Player 3 bids with prize, others pass and then counter:
+- Player 1: "pass"
+- Player 2: "pass"
+- Player 3: "three absolute"
+- Player 1: "contra on the three and the absolute"
+- Player 2: "pass"
+- Player 3: "pass"
+- END (Player 3 playes for double stakes on both items.)
+
+In rare cases, the player may want to double down on the counter, showing she is even more sure of herself and securing even more potential points by saying "recontra":
+
+- Player 1: "pass"
+- Player 2: "pass"
+- Player 3: "three"
+- Player 1: "contra on the three"
+- Player 2: "pass"
+- Player 3: "rekontra"
+- END (Player 3 playes for quadruple stakes on the three.)
+  
+
 
 ### Exchanging Cards
-Once a player has one the bid with a "three", "two" or "one", the tapp is flipped over, and the bidwinner exchanges the specified number of cards. The discarded cards count towards the bidwinner's trick points, and the untouched tapp cards belong to the opponents' tricks. You may discard cards you just picked up.
+Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
 - Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - Tarot can only be discarded if you have no other suited cards to discard.
+- Cards are discarded face-up.
 
 ### Gameplay
 The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
