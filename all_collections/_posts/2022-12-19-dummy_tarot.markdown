@@ -104,3 +104,6 @@ For example:
 | 9/2                 | 1      |
 | 8/3                 | 1      |
 | 7/4                 | 1      |
+
+## End of the Game
+The game is over when you've run your opponent out of money/credits!
