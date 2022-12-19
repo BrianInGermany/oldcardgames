@@ -8,7 +8,7 @@ thumbnail: "/assets/images/tarock.jpg"
 ---
 Risk a bid, and trump your way to victory with this classic tarot game.  
 
-Not just for future tellling! Tapp Tarock is a fun trick-taking game with the added fascination of the fifth suit, tarot.
+Not just for fortune telling! Tapp Tarock is a fun trick-taking game with the added fascination of the fifth suit, tarot.
 
 ## The Cards
 ![](/assets/images/tarock.jpg)  
