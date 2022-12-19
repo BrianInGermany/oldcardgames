@@ -63,7 +63,7 @@ In addition to the bids, there are prize announcements. They have no impact on t
 | Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
 
 #### __Bidding Examples__
-In the biding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
+In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
 - Prizes are announced with the bid ("three with pagat ultimo"), but do not influence the bid ranks.
 - If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but the option to raise again to the next highest bid.
 
@@ -94,7 +94,7 @@ Same arrangement, but player 1 tries to announce a Pagat Ultimo:
 - END (Player 2 wins the bid.)
 
 #### __Countering Examples__
-Once a bid is one, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
+Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
 - Both bids and prize announcements can be countered.
   
 Player 3 bids, player 1 passes and later counters:
@@ -125,8 +125,6 @@ In rare cases, the player may want to double down on the counter, showing she is
 - Player 3: "rekontra"
 - END (Player 3 playes for quadruple stakes on the three.)
   
-
-
 ### Exchanging Cards
 Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
 - Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
@@ -137,6 +135,7 @@ Once the bid is won, in all games except "solo", the bidwinner can exchange card
 The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
 
 ### Scoring
+For each round of tarock, trick points are counted to determine who wins how many overall points.
 #### __Trick Points__
 Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It is actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. 
 
@@ -162,15 +161,19 @@ For example:
 | 7/4                 | 1      |
 
 #### __Overall Points__
-If the winner of the bid wins the game as promised, they get points for that bid according to the below table. If the bidwinner loses, each opponent gets the same points added to their score:
+If the winner of the bid wins the game as promised, they get points for that bid according to the below table. If the bidwinner loses, each opponent gets the same points added to their score. The same goes for the prize announcements: if the bidwinner fulfills her announcement, she gets the points from the below table. If she misses it, her opponents get these points (if the prize was neither announced nor reached, nothing happens).
 
-| Bid   | Points |
-| ----- | ------ |
-| Three | 3      |
-| Two   | 4      |
-| One   | 5      |
-| Solo  | 8      |
+| Bid   | Description                                                                   | Points |
+| ----- | ----------------------------------------------------------------------------- | ------ |
+| Three | Winner gets to choose either of the two packs of three cards from the tapp.   | 3      |
+| Two   | Winner gets to choose one of the three adjacent pairs of cards from the tapp. | 4      |
+| One   | Winner gets to choose one of the cards from the tapp.                         | 5      |
+| Solo  | Winner has to play without any cards from the tapp.                           | 8      |
 
-#### __Bonus__
-If any player wins the final trick with the Pagat (1), they get two bonus points on their overall score.
+| Prize         |  Description                                              |  Points (Announced) |  Points (Silent) |
+| ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
+| Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
+| Absolut       | Win the game with at least 40 points (instead of min. 36) | 2                   | 1                |
+| Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
+
 
