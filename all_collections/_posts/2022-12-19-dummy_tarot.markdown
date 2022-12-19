@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Dummy Tarot: More Challenging Than it Sounds!"
-description: "A two-player version of Tarot with open cards and a hand (Strohmanntarock)."
+title:  "Straw Man Tarot: Not for Dummies!"
+description: "A two-player version of Tarot with open dummy cards on the table (Strohmanntarock)."
 date:   2022-12-19 18:57:00
 categories: ["twoplayer"]
-thumbnail: "/assets/images/honneurs.jpg"
+thumbnail: "/assets/images/dummytarot.jpg"
 ---
-A two-player version of Tarot with open cards and a hand (Strohmanntarock/Strohmandeln)
+A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).
 
 ## The Cards
 ![](/assets/images/tarock.jpg)  
@@ -28,14 +28,15 @@ The trick rank of the tarot cards is equal to their numbers, which go from 1-21.
 
 ## Setup
 At the start of the game, fifteen cards are dealt face down in three packs of five to each player. These are your hand.
-- The remaining 24 cards is distributed face-down in front of each player, alternating dealing three packs of four. These cards are revealed little-by-little as the game proceeds and can be played just like cards from your hand once flipped over. This table hand is known as the dummy.
+- The remaining 24 cards are distributed face-down in front of each player, alternating dealing three packs of four. These cards are revealed little-by-little as the game proceeds and can be played just like cards from your hand once they're flipped. This table hand is known as the straw man.
 
-If a player has no tarots in their hand after dealing (before flipping the dummy cards), she can request the game be redealt by the same player.
+If a player has no tarots in their hand after dealing (before flipping the straw man cards), she can request the game be redealt by the same player.
 
-After dealing, each player orders and checks their hand, and the player who didn't deal decides whether she wants to claim the game, i.e. go for the win. If both players pass, the game is still played, but it called a simple game (vs. a claimed game).
+After dealing, each player orders and checks their hand, and the player who didn't deal decides whether she wants to claim the game, i.e. go for the win. 
+- If both players pass, the game is still played, but it called a simple game (vs. a claimed game).
 
 ### Points  
-Points in Dummy Tarot are more like credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning.
+Points in Straw Man Tarot are credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning.
 
 | Win/Loss Type     | Credit Transfer            |
 | ----------------- | ------------------------- |
@@ -44,7 +45,7 @@ Points in Dummy Tarot are more like credits, and can be tracked on paper or with
 | Unclaimed and Won | 20 from Loser to Winner   |
 
 ### Bonuses
-Bonus points in Dummy Tarot are awarded regardless of whether the player claimed the game, and do not need to be announce beforehand.
+Bonus points in Straw Man Tarot are awarded regardless of whether the player claimed the game, and do not need to be announce beforehand.
 
 | Bonus        | Description                                        | Value |
 | ------------ | -------------------------------------------------- | ----- |
@@ -56,28 +57,32 @@ Bonus points in Dummy Tarot are awarded regardless of whether the player claimed
 
 ### Example Scoring
 Player one claims the game and wins without any bonuses. Player two manages a Pagat Ultimo despite losing.
-  - Player two owes player one 30 credits for the game.
-  - Player one owes player two 10 credits for the Pagat Ultimo.
+  - Player two owes player one 30 credits for the game,
+  - and player one owes player two 10 credits for the Pagat Ultimo.
 
-No one claims the game, player two wins with 40 points and collects all the honneurs.
-  - Player one owes player two 20 credits for the win 
-  - and 10 credits for the honneurs.
+No one claims the game, player two wins with 40 points (absolut) and collects all the honneurs.
+  - Player one owes player two 20 credits for the win,
+  - another 10 for winning with 40 (absolut),
+  - and 10 more for the honneurs.
 
-## Flipping the Dummy Cards
+## Flipping the Straw Man Cards
 After inspecting and ordering your hands, each player flips the leftmost card of each of the three four-card dummy packs in front of them. 
 - If the card is a tarot or king, she takes this card into her hand after showing it to the opponent.
-- If the card is a suited card (Heart/Diamond/Spade/Club) lower than a king, the card remains in the dummy man on the table face-up and she can't flip any more cards in this dummy. The player then proceeds to the next dummy pack and repeats the process.
-me begins, and the non-dealer plays the first card. Face-up cards in the dummies can be played as if they were in the hand; the player can choose to play from hand or dummies (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).
+- If the card is a suited card (Heart/Diamond/Spade/Club) lower than a king, the card remains in the straw man on the table face-up and she can't flip any more cards in this straw man. The player then proceeds to the next straw man and repeats the process.
 
 ## Gameplay
 ![](/assets/images/dummytarot.jpg)  
-Once a card has been revealed in every dummy, the real game begins, and the non-dealer plays the first card. Face-up cards in the dummies can be played as if they were in the hand; the player can choose to play from hand or dummy (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).
+Once a card has been revealed in every straw man, and the above process ended, the real game begins. 
 
-Whenever a card from the dummy is played, the next card of that dummy is flipped, and again, if it's a tarot or king, it's taken into the player's hand after showing it.
+The non-dealer now chooses whether to claim the game. If she doesn't claim, the dealer has the option to do so, and either way the non-dealer plays the first card. 
+
+Face-up cards in the straw men can be played as if they were in the hand; the player can choose to play from hand or straw man (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).
+
+After each trick in which a card from the straw man is played, the next card of that straw man is flipped, and again, if it's a tarot or king, it's taken into the player's hand after showing it.
 
 If a player makes at least 35 points plus two cards (see point counting section below), she has won the round. If neither player reaches this amount, the game is a draw.
 
-For each round of tarock, trick points are counted to determine who wins how many overall points.
+Trick points are counted based on the scale and method described below.
 
 #### __Trick Points__
 Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It is actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. Just ensure that the left over remainder cards are one-pointers.
