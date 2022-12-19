@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dummy Tarot: More Challenging Than it Sounds"
+title:  "Dummy Tarot: More Challenging Than it Sounds!"
 description: "A two-player version of Tarot with open cards and a hand (Strohmanntarock)."
 date:   2022-12-19 18:57:00
 categories: ["twoplayer"]
