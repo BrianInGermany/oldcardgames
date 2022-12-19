@@ -36,7 +36,7 @@ After dealing, each player orders and checks their hand, and the player who didn
 - If both players pass, the game is still played, but it called a simple game (vs. a claimed game).
 
 ### Points  
-Points in Straw Man Tarot are credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning.
+Points in Straw Man Tarot are credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning. If you win, you get paid, if you lose, you pay.
 
 | Win Type     | Opponent Pays You   |
 | ----------------- | ------------------------- |
