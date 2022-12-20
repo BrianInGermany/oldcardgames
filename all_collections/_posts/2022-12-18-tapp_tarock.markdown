@@ -55,7 +55,7 @@ There are four bids that can be made, each subsequent level only possible after 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
 #### __Bonus__
-In addition to the bids, there are bonus announcements. They have no impact on the bid level/outbidding, and they award extra credits if successful, or cost credits if not. Unannounced (silent) bonuses only award credits to the bonus winner; you don't pay for missing them (they are optional).
+In addition to the bids, there is a bonus, which can be announced for extra points. It has no impact on the bid level/outbidding, and awards an extra payout if successful, or cost you credits if not. It doesn't cost you any credits to miss a bonus if you didn't announce it.
 
 
 | Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
@@ -63,12 +63,16 @@ In addition to the bids, there are bonus announcements. They have no impact on t
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
 
 
-#### __Bidding, Bonus and Countering Examples__
+#### __Bidding, Bonus and Countering__
 In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
-- Bonuses are announced with the bid ("three with pagat ultimo"), but do not influence the bid ranks. 
-  - __Only the bidwinner can announce a bonus.__
-  - But __silent bonuses can be won by any player.__
-- If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but the option to raise again to the next highest bid.
+
+If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but have the option to raise again to the next highest bid.
+
+- __Bonuses__ can be announced with the bid ("three with pagat ultimo") or after the bid has been won (before the countering phase). They have no influence on the bidding itself.
+  - __The announced bonus only applies to the bidwinner.__
+  - But __any player can win a silent bonus.__
+
+#### __Bidding Examples__
 
 Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 decides not to outbid again:
 - Player 1: "pass"
@@ -86,7 +90,7 @@ Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid f
 - Player 1: "pass"
 - END (Player 2 wins the bid.)
 
-Same arrangement, but player 1 tries to announce a Pagat Ultimo:
+Same arrangement, but player 1 tries to announce a bonus:
 - Player 1: "three, pagat ultimo"
 - Player 2: "two"
 - Player 3: "pass"
@@ -129,19 +133,19 @@ In rare cases, the player may want to double down on the counter, showing she is
 - END (Player 3 playes for quadruple stakes on the three.)
   
 ### Exchanging Cards
-Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
+Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
 - Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - Tarot can only be discarded if you have no other suited cards to discard.
 - Cards are discarded face-up.
 
-### Gameplay
+### Trick Taking
 The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
 
 ### Scoring
-For each round of tarock, trick points are counted to determine who gets paid how much.
+At the end of each game, trick points are counted to determine who gets paid how much.
 
 #### __Trick Points__
-Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It is actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. 
+Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It's actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. 
 
 For example:
 
@@ -167,7 +171,7 @@ For example:
 #### __Pay Outs__
 If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid the half. 
 
-The same goes for the bonus announcements: if the announcer succeeds, she gets paid half the pay-out by each opponent. If she misses it, she pays each her opponents half the pay out. Silent bonuses are also paid 50/50 by the other players.
+The same goes for the bonus announcements: if the announcer succeeds, she gets paid half the pay out by each opponent. If she misses it, she pays each her opponents half the pay out. Silent bonuses are also paid 50/50 by the other players.
 
 Tip: Use poker chips!
 
@@ -183,7 +187,7 @@ Tip: Use poker chips!
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
 
 ## End of Game
-The game is over when the first player goes broke.
+The game is over when the first player goes broke. :)
 
 The winner is the player with the most credits.
 
