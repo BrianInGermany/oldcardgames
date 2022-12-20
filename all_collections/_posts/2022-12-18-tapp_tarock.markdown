@@ -134,7 +134,7 @@ In rare cases, the player may want to double down on the counter, showing she is
   
 ### Exchanging Cards
 Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
-- Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
+- Kings and Sküs, Mond (XXI) and Pagat (I) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - Tarot can only be discarded if you have no other suited cards to discard.
 - Cards are discarded face-up.
 
@@ -156,8 +156,8 @@ For example:
 | Card by Trick Rank  | Points |
 | ------------------- | ------ |
 | Sküs               | 5      |
-| Mond (21)          | 5      |
-| Pagat (1)           | 5      |
+| Mond (XXI)          | 5      |
+| Pagat (I)           | 5      |
 | Other Tarots        | 1      |
 | King                | 5      |
 | Queen               | 4      |
