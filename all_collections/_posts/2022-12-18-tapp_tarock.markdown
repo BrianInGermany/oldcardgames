@@ -43,12 +43,14 @@ Bidding determines who gets to be the single opponent. Beginning with the player
 
 #### __Bid Levels__
 There are four bids that can be made, each subsequent level only possible after one player has bid the previous. 
-| Level | Bid   | Description                                                                   |
-| ---- | ----- | ----------------------------------------------------------------------------- |
-| 1    | Three | Winner gets to choose either of the two packs of three cards from the tapp.   |
-| 2    | Two   | Winner gets to choose one of the three adjacent pairs of cards from the tapp. |
-| 3    | One   | Winner gets to choose one of the cards from the tapp.                         |
-| 4    | Solo  | Winner has to play without any cards from the tapp.                           |
+
+| Bids in Ascending Order   | Description                                                                   | Pay Out |
+| ----- | ----------------------------------------------------------------------------- | ------ |
+| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 2      |
+| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 4      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 6      |
+| Solo  | Bidwinner has to play without any cards from the tapp.                           | 10      |
+
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
@@ -59,12 +61,12 @@ In addition to the bids, there are bonus announcements. They have no impact on t
 | Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
 | ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-| Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
+
 
 #### __Bidding, Bonus and Countering Examples__
 In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
 - Bonuses are announced with the bid ("three with pagat ultimo"), but do not influence the bid ranks. 
-  - __Only a bidder can announce a bonus, and announced bonuses only count for the bidwinner.__
+  - __Only the bidwinner can announce a bonus.__
   - But __silent bonuses can be won by any player.__
 - If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but the option to raise again to the next highest bid.
 
@@ -102,7 +104,7 @@ Player 3 bids, player 1 passes and later counters:
 - Player 1: "pass"
 - Player 2: "pass"
 - Player 3: "three"
-- Player 1: "Contra on the three"
+- Player 1: "contra"
 - Player 2: "pass"
 - Player 3: "pass"
 - END (Player 3 wins the bid with a counter.)
@@ -110,8 +112,8 @@ Player 3 bids, player 1 passes and later counters:
 Player 3 bids with bonus, others pass and then counter:
 - Player 1: "pass"
 - Player 2: "pass"
-- Player 3: "three grand pointe"
-- Player 1: "contra on the three and the grand pointe"
+- Player 3: "three, pagat ultimo"
+- Player 1: "contra on the three and the pagat ultimo"
 - Player 2: "pass"
 - Player 3: "pass"
 - END (Player 3 playes for double stakes on both items.)
@@ -179,7 +181,6 @@ Tip: Use poker chips!
 | Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
 | ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-| Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
 
 ## End of Game
 The game is over when the first player goes broke.
