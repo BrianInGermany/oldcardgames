@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Tapp Tarock: Tarot for Three"
-description: "Risk a bid, and trump your way to victory with this classic tarot game."
+title:  "Offenbach Tapp: Tarot for Three"
+description: "Risk a bid, and trump your way to victory with this chip-based tarot game."
 date:   2022-12-18 11:39:00
 categories: ["threeplayer","tarot"]
 thumbnail: "/assets/images/tarock.jpg"
 ---
-Risk a bid, and trump your way to victory with this classic tarot game.  
+Risk a bid, and trump your way to victory with this chip-based tarot game.
 
-Not just for fortune telling! Tapp Tarock is a fun trick-taking game with the added fascination of the fifth suit, tarot.
+Not just for fortune telling! Offenbach Tapp is a fun trick-taking game with the added fascination of the fifth suit, tarot.
 
 ## The Cards
 ![](/assets/images/tarock.jpg)  
@@ -35,7 +35,7 @@ At the start of the game, six cards are dealt face down in two packs of three in
   - Depending on the bid, you can use the tapp cards to improve your hand.
 
 ## Object of the Game
-The goal of Tapp Tarock is to make points by beating your two opponents alone or beating your one opponent together.
+The goal of Offenbach Tapp is to make points by beating your two opponents alone or beating your one opponent together.
 
 Bidding determines who gets to be the single opponent. Beginning with the player to the right of the dealer (game is played counter-clockwise), players look at their cards and judge whether they want to attempt to win the game alone by collecting the majority of possible card points. There are 70 points in the deck, so to win, you need 36. In most cases, if you win the bid, you get to improve your hand with cards from the tapp.
 
@@ -52,19 +52,20 @@ There are four bids that can be made, each subsequent level only possible after 
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
-#### __Prizes__
-In addition to the bids, there are prize announcements. They have no impact on the bid level, but if the player wins the bid, they award extra points if successful, or points to the opponents if not. If announced, they are worth more, because the points go to each opponent if you don't fulfill it. If silent (unannounced), you have no added risk, but get less points.
+#### __Bonus__
+In addition to the bids, there are bonus announcements. They have no impact on the bid level/outbidding, and they award extra credits if successful, or cost credits if not. Unannounced (silent) bonuses only award credits to the bonus winner; you don't pay for missing them (they are optional).
 
 
-| Prize         |  Description                                              |  Points (Announced) |  Points (Silent) |
+| Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
 | ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-| Absolut       | Win the game with at least 40 points (instead of min. 36) | 2                   | 1                |
 | Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
 
-#### __Bidding Examples__
+#### __Bidding, Bonus and Countering Examples__
 In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
-- Prizes are announced with the bid ("three with pagat ultimo"), but do not influence the bid ranks.
+- Bonuses are announced with the bid ("three with pagat ultimo"), but do not influence the bid ranks. 
+  - __Only a bidder can announce a bonus, and announced bonuses only count for the bidwinner.__
+  - But __silent bonuses can be won by any player.__
 - If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but the option to raise again to the next highest bid.
 
 Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 decides not to outbid again:
@@ -72,7 +73,7 @@ Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 dec
 - Player 2: "three"
 - Player 3: "two"
 - Player 1: (SKIPPED)
-- Player 2: "I hold"
+- Player 2: "I hold (the two)"
 - Player 3: "pass"
 - END (Player 2 wins the bid.)
 
@@ -95,7 +96,7 @@ Same arrangement, but player 1 tries to announce a Pagat Ultimo:
 
 #### __Countering Examples__
 Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
-- Both bids and prize announcements can be countered.
+- Both bids and bonus announcements can be countered.
   
 Player 3 bids, player 1 passes and later counters:
 - Player 1: "pass"
@@ -106,11 +107,11 @@ Player 3 bids, player 1 passes and later counters:
 - Player 3: "pass"
 - END (Player 3 wins the bid with a counter.)
 
-Player 3 bids with prize, others pass and then counter:
+Player 3 bids with bonus, others pass and then counter:
 - Player 1: "pass"
 - Player 2: "pass"
-- Player 3: "three absolute"
-- Player 1: "contra on the three and the absolute"
+- Player 3: "three grand pointe"
+- Player 1: "contra on the three and the grand pointe"
 - Player 2: "pass"
 - Player 3: "pass"
 - END (Player 3 playes for double stakes on both items.)
@@ -122,7 +123,7 @@ In rare cases, the player may want to double down on the counter, showing she is
 - Player 3: "three"
 - Player 1: "contra on the three"
 - Player 2: "pass"
-- Player 3: "rekontra"
+- Player 3: "recontra"
 - END (Player 3 playes for quadruple stakes on the three.)
   
 ### Exchanging Cards
@@ -160,20 +161,27 @@ For example:
 | 8/3                 | 1      |
 | 7/4                 | 1      |
 
-#### __Overall Points__
-If the winner of the bid wins the game as promised, they get points for that bid according to the below table. If the bidwinner loses, each opponent gets the same points added to their score. The same goes for the prize announcements: if the bidwinner fulfills her announcement, she gets the points from the below table. If she misses it, her opponents get these points (if the prize was neither announced nor reached, nothing happens).
+#### __Pay Outs__
+If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid the half. 
 
-| Bid   | Description                                                                   | Points |
+The same goes for the bonus announcements: if the announcer succeeds, she gets paid half the pay-out by each opponent. If she misses it, she pays each her opponents half the pay out. Silent bonuses are also paid 50/50 by the other players.
+
+Tip: Use poker chips!
+
+| Bid   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Winner gets to choose either of the two packs of three cards from the tapp.   | 3      |
-| Two   | Winner gets to choose one of the three adjacent pairs of cards from the tapp. | 4      |
-| One   | Winner gets to choose one of the cards from the tapp.                         | 5      |
-| Solo  | Winner has to play without any cards from the tapp.                           | 8      |
+| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 2      |
+| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 4      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 6      |
+| Solo  | Bidwinner has to play without any cards from the tapp.                           | 10      |
 
-| Prize         |  Description                                              |  Points (Announced) |  Points (Silent) |
+| Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
 | ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-| Absolut       | Win the game with at least 40 points (instead of min. 36) | 2                   | 1                |
 | Grand Pointe         | Win the game with at least 50 points (instead of min. 36) | 4                  | 2               |
 
+## End of Game
+The game is over when the first player goes broke.
+
+The winner is the player with the most credits.
 
