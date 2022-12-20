@@ -23,8 +23,8 @@ There is a difference between red and black suits, too: in hearts and diamonds, 
 
 In clubs and spades, the trick rank after the face cards is 10-9-8-7, and these again are the entirety of the cards in those suits.
 
-### Tarot Cards
-The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the "Sküs" (say "skyooz", derived from French "excusez"-- which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points.
+### Tarots
+The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the "Sküs" (say "skyooz", derived from French "excusez"-- which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and known together as the honneurs.
 
 ![](/assets/images/honneurs.jpg)
 
@@ -55,13 +55,13 @@ There are four bids that can be made, each subsequent level only possible after 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
 #### __Bonus__
-In addition to the bids, there is a bonus, which can be announced for extra points. It has no impact on the bid level/outbidding, and awards an extra payout if successful, or cost you credits if not. It doesn't cost you any credits to miss a bonus if you didn't announce it.
+In addition to the bids, there are bonuses, which can be announced for extra points. They have no impact on the bid level/outbidding, and award an extra payout if successful, or cost you credits if not. It doesn't cost you any credits to miss a bonus if you didn't announce it, but you earn credits if you make it all the same.
 
 
 | Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
 | ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
 | Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-
+| Honneur  | Win Pagat (1), Mond (21) and Sküs in your tricks           |  4                  | 2                |
 
 #### __Bidding, Bonus and Countering__
 In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
@@ -134,7 +134,7 @@ In rare cases, the player may want to double down on the counter, showing she is
   
 ### Exchanging Cards
 Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
-- Kings and Sküs, Mond (XXI) and Pagat (I) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
+- Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - Tarot can only be discarded if you have no other suited cards to discard.
 - Cards are discarded face-up.
 
@@ -156,8 +156,8 @@ For example:
 | Card by Trick Rank  | Points |
 | ------------------- | ------ |
 | Sküs               | 5      |
-| Mond (XXI)          | 5      |
-| Pagat (I)           | 5      |
+| Mond (21)          | 5      |
+| Pagat (1)           | 5      |
 | Other Tarots        | 1      |
 | King                | 5      |
 | Queen               | 4      |
@@ -182,10 +182,11 @@ Tip: Use poker chips!
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 6      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 10      |
 
+
 | Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
 | ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
-| Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-
+| Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1).              |  4                  | 2                |
+| Honneur  | Win Pagat (1), Mond (21) and Sküs in your tricks.         |  4                  | 2                |
 ## End of Game
 The game is over when the first player goes broke. :)
 
