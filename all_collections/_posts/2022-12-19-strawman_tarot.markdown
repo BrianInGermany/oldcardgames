@@ -3,7 +3,7 @@ layout: post
 title:  "Straw Man Tarot: Not for Dummies!"
 description: "A two-player version of Tarot with open dummy cards on the table (Strohmanntarock)."
 date:   2022-12-19 18:57:00
-categories: ["twoplayer"]
+categories: ["twoplayer","tarot"]
 thumbnail: "/assets/images/honneurs.jpg"
 ---
 A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).
