@@ -136,7 +136,8 @@ Once the bid is won, in all games except "solo", the bidwinner can exchange card
 The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
 
 ### Scoring
-For each round of tarock, trick points are counted to determine who wins how many overall points.
+For each round of tarock, trick points are counted to determine who gets paid how much.
+
 #### __Trick Points__
 Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It is actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. 
 
