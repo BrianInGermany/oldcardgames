@@ -39,9 +39,9 @@ To make a trick, the opponent must play a higher card of the same suit or a trum
 | Jack/Unter         | 2      |
 | 9                  | 0      |
 
-### Marrianges
+### Marriages
 
-Marriages consist of a queen and king of the same suit.
+Marriages consist of a queen and king (Ober and Unter) of the same suit.
 - You can make only announce a marriage if it's your turn to begin the trick, and you must play one of those cards after claiming it.  
 Marriages are worth the following points:  
 - 40 points for a marriage in trump
