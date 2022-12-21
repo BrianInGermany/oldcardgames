@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Electrified Upgrade on Blackjack: Blitz!"
+title:  "Blitz: an Electrified Upgrade on Blackjack"
 description: "Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat."
 date:   2022-10-09 12:10:00
 categories: ["manyplayer","easy"]
