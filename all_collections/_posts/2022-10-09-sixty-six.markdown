@@ -30,9 +30,14 @@ To make a trick, the opponent must play a higher card of the same suit or a trum
   - After each trick, each player draws another card (until the deck runs out).
   
 #### Scoring of Tricks
-- __A__:11, __10__:10, __K__:4, __Q__:3, __J__:2, __9__:0
-- *You have to remember your points as you go*. You're not allowed to look at won cards during the game. This is why memory is a big aspect of the game.
- 
+ | Card by Trick Rank | Points |
+| ------------------ | ------ |
+| Ace                | 11     |
+| 10                 | 10     |
+| King               | 4      |
+| Queen/Ober         | 3      |
+| Jack/Unter         | 2      |
+| 9                  | 0      |
 
 ### Marrianges
 
