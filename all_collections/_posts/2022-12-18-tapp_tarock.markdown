@@ -171,10 +171,10 @@ Tip: Use poker chips!
 
 | Bid   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 2      |
-| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 4      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 6      |
-| Solo  | Bidwinner has to play without any cards from the tapp.                           | 10      |
+| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 20      |
+| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 40      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
+| Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
 
 | Bonus        | Description                                        | Pay Out |
 | ------------ | -------------------------------------------------- | ----- |

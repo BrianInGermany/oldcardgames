@@ -1,5 +1,5 @@
 # Strawman Tarock Cheat Sheet
-
+- Deal 5x3 cards each as hand and 4x3 cards per person to the table as straw men.
 - 35 points plus two remainder cards to win with tradtional scoring (counting in packs of three cards minus two points)
 - 36 points to win with simplified scoring (just add the points)
 
@@ -29,5 +29,4 @@
 | Pagat Ultimo | Win the Pagat (1) on the last trick                | 10    |
 | Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 10    |
 | Four Kings   | Win all four kings                                 | 10    |
-| Absolut      | Win with 40 points or more                         | 10    |
 | Grandpoint   | Win with 50 points or more                         | 20    |

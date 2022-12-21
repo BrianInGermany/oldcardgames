@@ -1,7 +1,8 @@
 # Tapp Tarock Cheat Sheet
-
-- 36 points to win. Counters double bid payout.
-
+- Deal 8x2 cards per person and 3x2 to the tapp. 36 points to win. Counters double bid payout.
+- 35 points plus two remainder cards to win with tradtional scoring (counting in packs of three cards minus two points)
+- 36 points to win with simplified scoring (just add the points)
+  
 | Card by Trick Rank | Points (Traditional) | Points (Simplified) |
 | ------------------ | -------------------- | ------------------- |
 | Sküs               | 5                    | 5                   |
@@ -20,11 +21,12 @@
 
 | Bids in Ascending Order   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 20      |
+| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.  | 20      |
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 40      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
-| Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.     | 60      |
+| Solo  | Bidwinner has to play without any cards from the tapp.          | 100      |
 
+- Cards not exchanged count as opponents' tricks. Exchanged cards count for yours.
 
 | Bonus        | Description                                        | Pay Out |
 | ------------ | -------------------------------------------------- | ----- |
