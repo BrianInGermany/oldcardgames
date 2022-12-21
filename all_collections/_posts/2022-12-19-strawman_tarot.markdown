@@ -45,12 +45,12 @@ Points in Straw Man Tarot are credits, and can be tracked on paper or with cents
 | Win Unclaimed Game | 20          |
 
 ### Bonuses
-Bonus points in Straw Man Tarot are awarded regardless of whether the player claimed the game, and do not need to be announce beforehand.
+Bonus points in Straw Man Tarot are awarded regardless of whether the player claimed the game, and are not announced beforehand.
 
 | Bonus        | Description                                        | Opponent Pays You |
 | ------------ | -------------------------------------------------- | ----- |
 | Pagat Ultimo | Win the Pagat (1) on the last trick                | 10    |
-| Honneur      | Win all three honneurs (Pagat (1),Mond (21), Sküs) | 10    |
+| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 10    |
 | Four Kings   | Win all four kings                                 | 10    |
 | Absolut      | Win with 40 points or more                         | 10    |
 | Grandpoint   | Win with 50 points or more                         | 20    |
@@ -85,9 +85,9 @@ If a player makes at least 35 points plus two cards (see point counting section 
 Trick points are counted based on the scale and method described below.
 
 #### __Trick Points__
-Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It is actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. Just ensure that the left over remainder cards are one-pointers.
+Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It's actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you'll end up with multiple high cards in a pack of three.
 
-To win the game, you need at least 35 points and two remainder one-pointers.
+To win the game, you need at least 35 points and two remainder one-pointers. One-pointers are known as skartindels.
 
 For example:
 
@@ -95,20 +95,24 @@ For example:
 - Jack of Spades / Tarot 14 / Tarot 18 = (2 + 1 + 1) - 2 = 2
 - King of Diamonds / Tarot 12 / Sküs = (5 + 1 + 5) - 2 = 9
 
-| Card by Trick Rank  | Points |
-| ------------------- | ------ |
-| Sküs               | 5      |
-| Mond (21)          | 5      |
-| Pagat (1)           | 5      |
-| Other Tarots        | 1      |
-| King                | 5      |
-| Queen               | 4      |
-| Knight              | 3      |
-| Jack                | 2      |
-| 10/A                | 1      |
-| 9/2                 | 1      |
-| 8/3                 | 1      |
-| 7/4                 | 1      |
+>Tip: If you're not a stickler for tradition you can use a simplified point system where you just add up the cards' values normally. No need for counting in threes and subtracting two. This way you need 36 points to win the game.
+
+| Card by Trick Rank | Points (Traditional) | Points (Simplified) |
+| ------------------ | -------------------- | ------------------- |
+| Sküs               | 5                    | 5                   |
+| Mond (21)          | 5                    | 5                   |
+| Other Tarots (2-20) | 1                    | 0                   |
+| Pagat (1)          | 5                    | 5                   |
+| King               | 5                    | 5                   |
+| Queen              | 4                    | 4                   |
+| Knight             | 3                    | 3                   |
+| Jack               | 2                    | 2                   |
+| 10/A               | 1                    | 0                   |
+| 9/2                | 1                    | 0                   |
+| 8/3                | 1                    | 0                   |
+| 7/4                | 1                    | 0                   |
 
 ## End of the Game
-The game is over when you've run your opponent out of money/credits!
+The game is over when you've run your opponent out of chips!
+
+<h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download>Cheat Sheet PDF</a></h2>

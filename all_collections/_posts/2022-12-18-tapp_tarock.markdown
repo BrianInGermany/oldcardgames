@@ -145,7 +145,7 @@ The player who won the bid plays the first card. The highest ranked card takes t
 At the end of each game, trick points are counted to determine who gets paid how much.
 
 #### __Trick Points__
-Tarock uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from this number. It's actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one high-pointer card, and you can just ignore the one-pointers. 
+Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It's actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you'll end up with multiple high cards in a pack of three.
 
 For example:
 
@@ -153,20 +153,23 @@ For example:
 - Jack of Spades / Tarot 14 / Tarot 18 = (2 + 1 + 1) - 2 = 2
 - King of Diamonds / Tarot 12 / Sküs = (5 + 1 + 5) - 2 = 9
 
-| Card by Trick Rank  | Points |
-| ------------------- | ------ |
-| Sküs               | 5      |
-| Mond (21)          | 5      |
-| Pagat (1)           | 5      |
-| Other Tarots        | 1      |
-| King                | 5      |
-| Queen               | 4      |
-| Knight              | 3      |
-| Jack                | 2      |
-| 10/A                | 1      |
-| 9/2                 | 1      |
-| 8/3                 | 1      |
-| 7/4                 | 1      |
+>Tip: If you're not a stickler for tradition you can use a simplified point system where you just add up the cards' values. No need for counting in threes and subtracting two. You still win with 36.
+
+| Card by Trick Rank | Points (Traditional) | Points (Simplified) |
+| ------------------ | -------------------- | ------------------- |
+| Sküs               | 5                    | 5                   |
+| Mond (21)          | 5                    | 5                   |
+| Other Tarots (2-20)  | 1                    | 0                   |
+| Pagat (1)          | 5                    | 5                   |
+| King               | 5                    | 5                   |
+| Queen              | 4                    | 4                   |
+| Knight             | 3                    | 3                   |
+| Jack               | 2                    | 2                   |
+| 10/A               | 1                    | 0                   |
+| 9/2                | 1                    | 0                   |
+| 8/3                | 1                    | 0                   |
+| 7/4                | 1                    | 0                   |
+
 
 #### __Pay Outs__
 If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid the half. 
@@ -190,5 +193,6 @@ Tip: Use poker chips!
 ## End of Game
 The game is over when the first player goes broke. :)
 
-The winner is the player with the most credits.
+The winner is the player with the most chips.
 
+<h2><a href="/assets/pdf/TappTarockCheatSheet.pdf" download>Cheat Sheet PDF</a></h2>
