@@ -33,5 +33,5 @@
 | Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
 | Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
 | Four Kings   | Win all four kings                                 | 20    |
-| Absolut      | Win with 40 points or more                         | 20    |
+| Absolut      | Win with 40-49 points                    | 20    |
 | Grandpoint   | Win with 50 points or more                         | 40    |
