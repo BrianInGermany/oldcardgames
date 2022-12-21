@@ -39,38 +39,38 @@ The goal of Offenbach Tapp is to make points by beating your two opponents alone
 
 Bidding determines who gets to be the single opponent. Beginning with the player to the right of the dealer (game is played counter-clockwise), players look at their cards and judge whether they want to attempt to win the game alone by collecting the majority of possible card points. There are 70 points in the deck, so to win, you need 36. In most cases, if you win the bid, you get to improve your hand with cards from the tapp.
 
-### Bidding
+### Bidding, Bonuses and Countering
 
 #### __Bid Levels__
 There are four bids that can be made, each subsequent level only possible after one player has bid the previous. 
 
 | Bids in Ascending Order   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 2      |
-| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 4      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 6      |
-| Solo  | Bidwinner has to play without any cards from the tapp.                           | 10      |
+| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 20      |
+| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 40      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
+| Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
 
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
 #### __Bonus__
-In addition to the bids, there are bonuses, which can be announced for extra points. They have no impact on the bid level/outbidding, and award an extra payout if successful, or cost you credits if not. It doesn't cost you any credits to miss a bonus if you didn't announce it, but you earn credits if you make it all the same.
+In addition to the bids, there are bonuses, which can be won by any player and are also paid out by the other players 50/50.
 
 
-| Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
-| ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
-| Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1)              |  4                  | 2                |
-| Honneur  | Win Pagat (1), Mond (21) and Sküs in your tricks           |  4                  | 2                |
+| Bonus        | Description                                        | Pay Out |
+| ------------ | -------------------------------------------------- | ----- |
+| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
+| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
+| Four Kings   | Win all four kings                                 | 20    |
+| Absolut      | Win with 40 points or more                         | 20  |
+| Grandpoint   | Win with 50 points or more                         | 40    |
 
-#### __Bidding, Bonus and Countering__
+
+#### __Bidding Process__
 In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
 
-If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but have the option to raise again to the next highest bid.
-
-- __Bonuses__ can be announced with the bid ("three with pagat ultimo") or after the bid has been won (before the countering phase). They have no influence on the bidding itself.
-  - __The announced bonus only applies to the bidwinner.__
-  - But __any player can win a silent bonus.__
+If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but also the option to raise again to the next highest bid.
 
 #### __Bidding Examples__
 
@@ -91,7 +91,7 @@ Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid f
 - END (Player 2 wins the bid.)
 
 Same arrangement, but player 1 tries to announce a bonus:
-- Player 1: "three, pagat ultimo"
+- Player 1: "three"
 - Player 2: "two"
 - Player 3: "pass"
 - Player 1: "I hold"
@@ -111,16 +111,7 @@ Player 3 bids, player 1 passes and later counters:
 - Player 1: "contra"
 - Player 2: "pass"
 - Player 3: "pass"
-- END (Player 3 wins the bid with a counter.)
-
-Player 3 bids with bonus, others pass and then counter:
-- Player 1: "pass"
-- Player 2: "pass"
-- Player 3: "three, pagat ultimo"
-- Player 1: "contra on the three and the pagat ultimo"
-- Player 2: "pass"
-- Player 3: "pass"
-- END (Player 3 playes for double stakes on both items.)
+- END (Player 3 wins the bid with a counter, playing for double stakes.)
 
 In rare cases, the player may want to double down on the counter, showing she is even more sure of herself and securing even more potential points by saying "recontra":
 
@@ -172,9 +163,9 @@ For example:
 
 
 #### __Pay Outs__
-If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid the half. 
+If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid half. 
 
-The same goes for the bonus announcements: if the announcer succeeds, she gets paid half the pay out by each opponent. If she misses it, she pays each her opponents half the pay out. Silent bonuses are also paid 50/50 by the other players.
+Bonuses are also paid 50/50 by the other players.
 
 Tip: Use poker chips!
 
@@ -185,11 +176,14 @@ Tip: Use poker chips!
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 6      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 10      |
 
+| Bonus        | Description                                        | Pay Out |
+| ------------ | -------------------------------------------------- | ----- |
+| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
+| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
+| Four Kings   | Win all four kings                                 | 20    |
+| Absolut      | Win with 40 points or more                         | 20    |
+| Grandpoint   | Win with 50 points or more                         | 40    |
 
-| Bonus         |  Description                                              |  Pay Out (Announced) |  Pay Out (Silent) |
-| ------------- | --------------------------------------------------------- | ------------------- | ---------------- |
-| Pagat Ultimo  | Win the final trick with the Pagat (Tarot 1).              |  4                  | 2                |
-| Honneur  | Win Pagat (1), Mond (21) and Sküs in your tricks.         |  4                  | 2                |
 ## End of Game
 The game is over when the first player goes broke. :)
 
