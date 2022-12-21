@@ -1,6 +1,6 @@
 # Tapp Tarock Cheat Sheet
 
-- 36 points to win.
+- 36 points to win. Counters double bid payout.
 
 | Card by Trick Rank | Points (Traditional) | Points (Simplified) |
 | ------------------ | -------------------- | ------------------- |
