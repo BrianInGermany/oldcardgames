@@ -21,23 +21,16 @@ plugins:
 
 
 collections:
-  i18n:
-    de:
-      output: true
-    en: 
+  content:
       output: true
 
 defaults:
   - scope:
-      path: "_i18n/de/_posts"
+      path: "_posts"
     values:
       layout: "post"
       permalink: /:title/
-  - scope:
-      path: "_i18n/en/_posts"
-    values:
-      layout: "post"
-      permalink: /:title/
+
 
 
   
