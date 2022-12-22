@@ -5,7 +5,6 @@ description: "Win the bid to choose the trump, make tricks, but don't fall in th
 date:   2022-12-10 09:39:00
 categories: ["twoplayer","jass"]
 thumbnail: "/assets/images/constancejass.jpg"
-lang: "en"
 ---
 Win the bid to choose the trump, make tricks, but don't fall in the sack!
 

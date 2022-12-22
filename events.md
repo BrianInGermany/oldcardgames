@@ -5,7 +5,6 @@ description: "Entspannter Kartentreff in Offenbach am Main: Jass, Doppelkopf, et
 date:   2022-12-14 18:34:00
 categories: ["event"]
 thumbnail: "/assets/images/cardtable.jpg"
-lang: "en"
 ---
 Relaxed card playing meetup in Offenbach am Main: Jass, Doppelkopf, etc.  
 ![constancejass](/assets/images/constancejass.jpg)   

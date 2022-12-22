@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Do Your Worst: Offenbach Molotov!"
+title:  "Offenbach Molotov: Do Your Worst!"
 description: "Get rid of high cards wisely and win with the lowest score in this fiesty Jass."
 date:   2022-12-11 09:45:00
 categories: ["threeplayer","fourplayer", "fiveplayer","jass"]
 thumbnail: "/assets/images/offenbachJass.jpg"
-lang: "en"
 ---
 Get rid of high cards wisely and win with the lowest score in this fiesty Jass.
 

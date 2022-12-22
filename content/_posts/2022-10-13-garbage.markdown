@@ -5,7 +5,6 @@ description: "Be the first to collect the cards A-10 on a 10-card grid."
 date:   2022-10-13 17:39:00
 categories: ["twoplayer","easy"]
 thumbnail: "/assets/images/garbage.jpg"
-lang: "en"
 ---
 This easy (and fun) two-player is a good mindless accompaniment to conversation.
 

@@ -5,7 +5,6 @@ description: "Turn over cards from the pigtail. Just not the same suit as your o
 date:   2022-10-13 17:14:00
 categories: ["manyplayer","easy"]
 thumbnail: "/assets/images/pigtail.jpg"
-lang: "en"
 ---
 This Japanese party game is guaranteed to work even if even you've had one Sake too many...
 It is suitable for any number of players.

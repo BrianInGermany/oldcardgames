@@ -5,7 +5,6 @@ description: "Win the bid, and trump your way to victory with this chip-based Ta
 date:   2022-12-18 11:39:00
 categories: ["threeplayer","tarot"]
 thumbnail: "/assets/images/tarock.jpg"
-lang: "en"
 ---
 Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant.
 

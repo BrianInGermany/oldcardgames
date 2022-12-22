@@ -5,7 +5,6 @@ description: "A two-player version of Tarot with open dummy cards on the table (
 date:   2022-12-19 18:57:00
 categories: ["twoplayer","tarot"]
 thumbnail: "/assets/images/honneurs.jpg"
-lang: "en"
 ---
 A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).
 
