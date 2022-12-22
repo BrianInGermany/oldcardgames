@@ -19,10 +19,10 @@ plugins:
   - jekyll-feed
   # - jekyll-multiple-languages-plugin
 
-
+collections_dir: content
 collections:
-  content:
-      output: true
+  posts:
+    output: true
 
 defaults:
   - scope:
