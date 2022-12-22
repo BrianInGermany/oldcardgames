@@ -84,6 +84,13 @@ If a player makes at least 35 points plus two cards (see point counting section 
 
 Trick points are counted based on the scale and method described below.
 
+#### __Following Suit, Taking the Trick__
+You always are required to play the same suit as the first card if possible.
+- If you can't play the same suit, you are required to play a tarot card.
+- Only if you can't play a card of the same suit or a tarot may you discard a card of the wrong suit.
+  
+The highest card of the same suit (or the highest tarot) takes the trick, and the winner of the trick plays the next card. 
+
 #### __Trick Points__
 Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It's actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you'll end up with multiple high cards in a pack of three.
 
