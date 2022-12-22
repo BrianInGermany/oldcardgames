@@ -1,7 +1,7 @@
 title: Fun Card Games
-# markdown: kramdown
-markdown: GFM
-baseurl: "https://funcardgames.net"
+markdown: kramdown
+# markdown: GFM
+# baseurl: "https://funcardgames.net"
 
 # localization
 # language: "en"
@@ -38,15 +38,6 @@ defaults:
     values:
       layout: "post"
       permalink: /:title/
-  - scope:
-      path: "_i18n/de/_extras"
-    values:
-      layout: "post"
-      permalink: /:title/
-  - scope:
-      path: "_i18n/en/_extras"
-    values:
-      layout: "post"
-      permalink: /:title/
+  
 
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
