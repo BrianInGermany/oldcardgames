@@ -1,192 +1,194 @@
 ---
 layout: post
-title:  "Offenbach Tapp: Tarot for Three"
-description: "Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant."
+title:  "Offenbacher Tapp: Tarock zu dritt"
+description: "Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock."
 date:   2022-12-18 11:39:00
-categories: ["threeplayer","tarot"]
+categories: ["dreispieler","tarock"]
 thumbnail: "/assets/images/tarock.jpg"
 ---
-Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant.
+Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock.
 
-Not just for fortune telling! Offenbach Tapp is a fun trick-taking game with the added fascination of the fifth suit, tarot.
+Ob dein Glück in den Karten steht? Offenbacher Tapp ist eine einfach zu erlernende Variante des geselligen Dreipersonenspiels Tapp-Tarock (auch bekannt als Wiener Tappen).
 
-## The Cards
+## Die Karten
 ![](/assets/images/tarock.jpg)  
 
-This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit "tarot", which is a permanent trump suit. Fun fact: the origin of the word "trump" comes from the earlier designation of the tarots in Italian, "le trionfi".
+Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe "Tarock", die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes "Trumpf" leitet sich von der frühen Bezeichnung der Tarocks auf Italienisch, "le trionfi". Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.
 
-### Regular Suits
-In contrast to a regular deck, there are __four__ face cards: King, Queen, Knight and Jack.
-In further contrast to a regular deck, the kings are the highest cards by trick rank besides the tarots.
+### Die Farben
+Im Gegensatz zu einem französischen Blatt oder deutschen Blatt gibt es beim Tarock __vier__ Bildkarten: König, Dame, Kavall (Reiter), Bube.
+In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz auf der Stechskala der Farbkarten ein. 
 
-There is a difference between red and black suits, too: in hearts and diamonds, the trick rank after K-Q-Kn-J is A-2-3-4, and those are all the cards present in those suits.
+Des Weiteren gibt es Unterschiede zwischen den roten und schwarzen Farben: Nach den Bildkarten Kö-D-Ka-B besteht die Stichrangfolge bei den schwarzen Karten aus 10-9-8-7. Bei den roten Karten is nach den Bildkarten das As die höchste Karte der Farbe (A-2-3-4). Es gibt also insgesamt acht Karten pro Farbe.
 
-In clubs and spades, the trick rank after the face cards is 10-9-8-7, and these again are the entirety of the cards in those suits.
-
-### Tarots
-The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the "Sküs" (say "skyooz", derived from French "excusez"-- which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and known together as the honneurs.
+### Tarocks
+Der Stichrang der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der "Sküs" (leitet sich vom französischen "excusez" ab-- was man sagt, wenn man den Gegnern alle Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 ("Mond"), und Tarock 1 ("Pagat") bilden zusammen die "Trull" und sind jeder fünf Punkte wert in der Abrechnung.
 
 ![](/assets/images/honneurs.jpg)
 
-## Setup
-At the start of the game, six cards are dealt face down in two packs of three in the center of the table. These are called the "tapp" (hence the name of the game).
-- Sixteen cards are then dealt to each player in four packs of four.
-- The game begins by players bidding for the chance to earn points by winning the round.
-  - Depending on the bid, you can use the tapp cards to improve your hand.
+## Spielbeginn
+Zu Beginn des Spieles werden sechs Karten in zwei dreier Packs verdeckt in die Tischmitte gelegt. Diese Karten heißen zusammen der "Tapp".
 
-## Object of the Game
-The goal of Offenbach Tapp is to make points by beating your two opponents alone or beating your one opponent together.
+- Im Anschluss werden 16 Karten in vier vierer Packs an alle drei Spieler verteilt.
+- Das Spielen beginnt damit, dass die Teilnehmer um die Einzelspielerrolle bieten.
+  - Je nach Gebot, kann man die Tapp-Karten verwenden, um das eigene Blatt zu verbessern.
 
-Bidding determines who gets to be the single opponent. Beginning with the player to the right of the dealer (game is played counter-clockwise), players look at their cards and judge whether they want to attempt to win the game alone by collecting the majority of possible card points. There are 70 points in the deck, so to win, you need 36. In most cases, if you win the bid, you get to improve your hand with cards from the tapp.
+## Ziel des Spieles
+Bei Offenbach Tapp ist der Ziel des Spiels, die Gegner bankrott zu spielen, indem man als Einzelspieler gewinnt und ausgezahlt wird, oder als Partnerspieler versucht, den angsagten Sieg des Einzelspielers zu versauen.
 
-### Bidding, Bonuses and Countering
+Spieler bieten um die Einzelspielerrolle, die mit einer höheren Auszahlung dotiert ist bei Gewinn. Angefangen mit dem Spieler rechts vom Geber (es wird gegen den Uhrzeigersinn gespielt), gucken die Spieler ihre Blätter an und entscheiden und, ob sie das Spiel "aufnehmen" möchten und dafür bieten möchten. In die Entscheidung spielt hinein, dass man bei den meisten Geboten das eigene Blatt mit Karten aus dem Tapp verbessern darf. 
 
-#### __Bid Levels__
-There are four bids that can be made, each subsequent level only possible after one player has bid the previous. 
+Im Spiel insgesamt gibt es 70 Punkte zu gewinnen, der Gewinner muss 36 schaffen. 
 
-| Bids in Ascending Order   | Description                                                                   | Pay Out |
+### Bieten, Bonus, Kontern
+
+#### __Bietestufen__
+Es gibt vier mögliche Bietestufen, die nur der Reihe nach (hintereinander) geboten werden dürfen.
+
+| Bietestufe (aufsteigend)   | Bescheibung                                                                   | Auszahlung |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 20      |
-| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 40      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
-| Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
+| Dreier | Höchstbietende darf eins von zwei Dreierpacks aus dem Tapp aufnehmen.   | 20      |
+| Zweier   | Höchstbietende darf eins der drei Zweierpaare aus dem Tapp aufnehmen. | 40      |
+| Einser   | Höchstbietende darf eine Karte aus dem Tapp aufnehmen.                         | 60      |
+| Solo  | Höchstbietende muss ohne den Tapp auskommen.                           | 100      |
+
+In allen Bietestufen außer "solo" darf die Höchstbietende Karten aus dem eigenen Blatt mit Karten aus dem Tapp tauschen. 
+
+- Die ausgetauschten Karten dürfen keine Könige oder Trulls sein und zählen zu den eigenen Stichen. 
+- Die liegengelassenen Karten zählen zu den Stichen der Gegner.
+
+#### __Prämien__
+Zusätzlich zum Bieten gibt es Prämien, die von jedem Spieler gewonnen werden können und von den anderen Spielern 50/50 ausgezahlt werden.
 
 
-In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
-
-#### __Bonus__
-In addition to the bids, there are bonuses, which can be won by any player and are also paid out by the other players 50/50.
-
-
-| Bonus        | Description                                        | Pay Out |
+| Prämie       | Beschreibung                                        | Auszahlung |
 | ------------ | -------------------------------------------------- | ----- |
-| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
-| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
-| Four Kings   | Win all four kings                                 | 20    |
-| Absolut      | Win with 40-49 points                         | 20  |
-| Grandpoint   | Win with 50 points or more                         | 40    |
+| Pagat Ultimo | Gewinne den Pagat im letzten Stich              | 20    |
+| Trull        | Gewinne alle drei Trullstücke (Pagat (1), Mond (21), Sküs) | 20    |
+| Vier Könige  | Gewinne alle vier Könige                                | 20    |
+| Absolut      | Gewinne mit 40-49 Punkten                      | 20  |
+| Grandpoint   | Gewinne mit 50 Punkten oder mehr                     | 40    |
 
 
-#### __Bidding Process__
-In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
+#### __Das Bieten__
+Beim Bieten können Spieler schieben oder bieten, aber sobald geschoben dürfen sie nicht mehr am Bieteverfahren teilnehmen. Das erste Gebot ist immer "Dreier" und geht aufwärts zu "Zweier", "Einser" und "Solo".
 
-If a player is outbid, they have the right to accept the higher bid as their own by saying "I hold", but also the option to raise again to the next highest bid.
+Wenn ein Spieler überboten wird, hat sie die Option, das höhere Gebot zu "halten" und für sich selbst zu beanspruchen, oder aber wieder zu überbieten.
 
-#### __Bidding Examples__
+#### __Beispiele fürs Bieten__
 
-Player 2 bids, is outbid, and then takes the higher bid as his own. Player 3 decides not to outbid again:
-- Player 1: "pass"
-- Player 2: "three"
-- Player 3: "two"
-- Player 1: (SKIPPED)
-- Player 2: "I hold (the two)"
-- Player 3: "pass"
-- END (Player 2 wins the bid.)
+Spieler A schiebt. Spieler B bietet, wird überboten und hält dann dieses höhere Gebot. Spieler C verzichtet auf ein noch höheres Gebot.
+- Spieler A: "schieben"
+- Spieler B: "dreier"
+- Spieler C: "zweier"
+- Spieler A: (SKIPPED)
+- Spieler B: "ich halte (die zwei)"
+- Spieler C: "schieben"
+- ENDE (Spieler B gewinnt die Versteigerung.)
 
-Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid further:
-- Player 1: "three"
-- Player 2: "two"
-- Player 3: "pass"
-- Player 1: "pass"
-- END (Player 2 wins the bid.)
+Spieler A bietet, Spieler B überbietet, Spieler C schiebt und der Rest schiebt auch.
+- Spieler A: "Dreier"
+- Spieler B: "Zweier"
+- Spieler C: "schieben"
+- Spieler A: "schieben"
+- ENDE (Spieler B gewinnt die Versteigerung.)
 
-Same arrangement, but player 1 tries to announce a bonus:
-- Player 1: "three"
-- Player 2: "two"
-- Player 3: "pass"
-- Player 1: "I hold"
-- Player 2: "one"
-- Player 3: (SKIPPED)
-- Player 1: "pass"
-- END (Player 2 wins the bid.)
-
-#### __Countering Examples__
-Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
-- Both bids and bonus announcements can be countered.
+#### __Beispiele fürs Kontern__
+Ist das Bieteverfahren abgeschlossen, haben die anderen Spieler die Möglichkeit zu kontern.
+Durch das Kontern verdoppelt sich die Auszahlung des Spiels, ob gewonnen oder verloren.
   
-Player 3 bids, player 1 passes and later counters:
-- Player 1: "pass"
-- Player 2: "pass"
-- Player 3: "three"
-- Player 1: "contra"
-- Player 2: "pass"
-- Player 3: "pass"
-- END (Player 3 wins the bid with a counter, playing for double stakes.)
-
-In rare cases, the player may want to double down on the counter, showing she is even more sure of herself and securing even more potential points by saying "recontra":
-
-- Player 1: "pass"
-- Player 2: "pass"
-- Player 3: "three"
-- Player 1: "contra on the three"
-- Player 2: "pass"
-- Player 3: "recontra"
-- END (Player 3 playes for quadruple stakes on the three.)
+Spieler C bietet und gewinnt, nachdem alle anderen geschoben haben. Das Bieten ist hiermit abgeschlossen, aber Spieler A möchte Kontern.
+- Spieler A: "schieben"
+- Spieler B: "schieben"
+- Spieler C: "Dreier"
+- Spieler A: "kontra"
+- Spieler B: "schieben"
+- Spieler C: "schieben"
+- ENDE (Spieler C gewinnt das Bieten mit einem Kontra und spielt auf doppeltes Risiko.)
   
-### Exchanging Cards
-Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
-- Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
-- Tarot can only be discarded if you have no other suited cards to discard.
-- Cards are discarded face-up.
+In seltenen Fällen kann es sein, dass der gekonterte Spielaufnehmer so siegesbewusst ist, dass er das Kontern ausnutzen möchte zum Rekontern.
 
-### Trick Taking
-The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
+- Spieler A: "schieben"
+- Spieler B: "schieben"
+- Spieler C: "Dreier"
+- Spieler A: "kontra"
+- Spieler B: "schieben"
+- Spieler C: "rekontra"
+- ENDE (Spieler C spielt auf vervierfachtes Auszahlungsrisiko einen Dreier.)
 
-### Scoring
-At the end of each game, trick points are counted to determine who gets paid how much.
+> Man kann sich nicht selbst Kontern. Das Risiko des Konterns verteilt sich auf beide Verteidiger, nicht nur den ansagenden Spieler.
+  
+### Tappkarten Tauschen
+Sind Bieten und die Kontraphase fertig, werden alle Tappkarten aufgedeckt, damit alle sie sehen können.
 
-#### __Trick Points__
-Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It's actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you'll end up with multiple high cards in a pack of three.
+Der Spielaufnehmer tauscht die entsprechende Anzahl Karten (darf aber keine Könige oder Trullstücke aus seinem Blatt verlegen, da diese Karten viel wert sind und direkt zu den eigenen Stichen zählen). Die nicht getauschten Tappkarten kommen zu den Stichen der Gegner.
 
-For example:
+> Man darf gerade aufgenommene Karten auch wieder verlegen, vorausgesetzt, die sind keine Könige oder Trulls. Tarock kann nur verlegt werden, wenn man keine anderen Farbkarten hat (die nicht Könige sind).
 
-- Queen of Hearts / 5 of Hearts / Tarot 3 = (4 + 1 + 1) - 2 = 4
-- Jack of Spades / Tarot 14 / Tarot 18 = (2 + 1 + 1) - 2 = 2
-- King of Diamonds / Tarot 12 / Sküs = (5 + 1 + 5) - 2 = 9
+Karten werden aufgedeckt ausgetauscht.
 
->Tip: If you're not a stickler for tradition you can use a simplified point system where you just add up the cards' values. No need for counting in threes and subtracting two. You still win with 36.
+### Stiche gewinnen
+Der Spielaufnehmer spielt aus. Die Karten mit dem höchsten Stichwert dreht den Stich und der Gewinner des Stichs spielt erneut aus. 
 
-| Card by Trick Rank | Points (Traditional) | Points (Simplified) |
+### Abrechnung
+Man gewinnt mit 36 Punkten.
+
+#### __Stiche zählen__
+Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Stichpunkte zu zählen: Karten werden in "Dreierlagen" gezählt, heißt, eine wertvolle Karte wird zu zwei billigen Karten dazugelegt. Von jedem Dreier wird die Summe genommen und anschließend zwei Punkte von der Summe abgezogen. :shrug:
+
+Zum Beispiel:
+
+- Herz-Dame / Herz-5 / Tarock 3 = (4 + 1 + 1) - 2 = 4
+- Pik-Bube / Tarock 14 / Tarock 18 = (2 + 1 + 1) - 2 = 2
+- Karo-König / Tarock 12 / Sküs = (5 + 1 + 5) - 2 = 9
+
+>Tipp: Wenn du es lieber einfach haben willst, nutze die vereinfachte Punkteskala unten. Es gibt dann 71 Punkte im Spiel. 36 braucht man trotzdem zum Gewinnen.
+
+| Karte nach Stichwert | Punkte (traditionell) | Punkte (vereinfacht) |
 | ------------------ | -------------------- | ------------------- |
 | Sküs               | 5                    | 5                   |
 | Mond (21)          | 5                    | 5                   |
-| Other Tarots (2-20)  | 1                    | 0                   |
+| Andere Tarocks (2-20)  | 1                    | 0                   |
 | Pagat (1)          | 5                    | 5                   |
-| King               | 5                    | 5                   |
-| Queen              | 4                    | 4                   |
-| Knight             | 3                    | 3                   |
-| Jack               | 2                    | 2                   |
+| König               | 5                    | 5                   |
+| Dame              | 4                    | 4                   |
+| Kavall (Reiter)             | 3                    | 3                   |
+| Bube              | 2                    | 2                   |
 | 10/A               | 1                    | 0                   |
 | 9/2                | 1                    | 0                   |
 | 8/3                | 1                    | 0                   |
 | 7/4                | 1                    | 0                   |
 
 
-#### __Pay Outs__
-If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid half. 
+#### __Auszahlungen__
+Wenn der Spielaufnehmer wie versprochen gewinnt, zahlen ihn die anderen Spieler 50/50 aus.
 
-Bonuses are also paid 50/50 by the other players.
+Wenn der Spielaufnehmer verliert, zahlt er die Gegner 50/50 aus.
 
-Tip: Use poker chips!
+Prämien werden auch 50/50 von den anderen Spielern ausgezahlt.
 
-| Bid   | Description                                                                   | Pay Out |
+>Tipp: Nutze Poker-Chips!
+
+
+| Bietestufe (aufsteigend)   | Bescheibung                                                                   | Auszahlung |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 20      |
-| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 40      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
-| Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
+| Dreier | Höchstbietende darf eins von zwei Dreierpacks aus dem Tapp aufnehmen.   | 20      |
+| Zweier   | Höchstbietende darf eins der drei Zweierpaare aus dem Tapp aufnehmen. | 40      |
+| Einser   | Höchstbietende darf eine Karte aus dem Tapp aufnehmen.                         | 60      |
+| Solo  | Höchstbietende muss ohne den Tapp auskommen.                           | 100      |
 
-| Bonus        | Description                                        | Pay Out |
+| Prämie       | Beschreibung                                        | Auszahlung |
 | ------------ | -------------------------------------------------- | ----- |
-| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
-| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
-| Four Kings   | Win all four kings                                 | 20    |
-| Absolut      | Win with 40-49 points                         | 20    |
-| Grandpoint   | Win with 50 points or more                         | 40    |
+| Pagat Ultimo | Gewinne den Pagat im letzten Stich              | 20    |
+| Trull        | Gewinne alle drei Trullstücke (Pagat (1), Mond (21), Sküs) | 20    |
+| Vier Könige  | Gewinne alle vier Könige                                | 20    |
+| Absolut      | Gewinne mit 40-49 Punkten                      | 20  |
+| Grandpoint   | Gewinne mit 50 Punkten oder mehr                     | 40    |
 
-## End of Game
-The game is over when the first player goes broke. :)
 
-The winner is the player with the most chips.
+## Spielende
+Das Spiel ist zu Ende wenn der erste pleite geht. :)
 
-<h2><a href="/assets/pdf/TappTarockCheatSheet.pdf" download>Cheat Sheet PDF</a></h2>
+Der Gesamtgewinner ist derjenige mit den meisten Chips zu diesem Zeitpunkt.
+
+<h2><a href="/assets/pdf/TappTarockCheatSheet.pdf" download>Cheat Sheet PDF (EN)</a></h2>

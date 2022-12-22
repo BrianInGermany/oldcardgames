@@ -90,19 +90,8 @@ Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid f
 - Player 1: "pass"
 - END (Player 2 wins the bid.)
 
-Same arrangement, but player 1 tries to announce a bonus:
-- Player 1: "three"
-- Player 2: "two"
-- Player 3: "pass"
-- Player 1: "I hold"
-- Player 2: "one"
-- Player 3: (SKIPPED)
-- Player 1: "pass"
-- END (Player 2 wins the bid.)
-
 #### __Countering Examples__
 Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
-- Both bids and bonus announcements can be countered.
   
 Player 3 bids, player 1 passes and later counters:
 - Player 1: "pass"
