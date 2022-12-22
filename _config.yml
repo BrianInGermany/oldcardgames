@@ -1,8 +1,12 @@
 title: Fun Card Games
+# markdown: kramdown
 markdown: GFM
-# url: "https://thejunkyard.cc/oldcardgames"
 baseurl: "https://funcardgames.net"
 
+# localization
+# language: "en"
+languages: ["en", "de"]
+  
 # for atom feed
 author:
   name: Brian Junker-Latocha
@@ -13,22 +17,34 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-multiple-languages-plugin
 
-collections_dir: all_collections
+
 collections:
-  posts:
-    output: true
-  extrapages:
-    output: true
+  i18n:
+    de:
+      output: true
+    en: 
+      output: true
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "_i18n/de/_posts"
     values:
       layout: "post"
       permalink: /:title/
   - scope:
-      path: "_extrapages"
+      path: "_i18n/en/_posts"
+    values:
+      layout: "post"
+      permalink: /:title/
+  - scope:
+      path: "_i18n/de/_extras"
+    values:
+      layout: "post"
+      permalink: /:title/
+  - scope:
+      path: "_i18n/en/_extras"
     values:
       layout: "post"
       permalink: /:title/

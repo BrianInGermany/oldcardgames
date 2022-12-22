@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang }}">
   {% include head.html %}
   <body>
     <main class="blogfeed">
       {% include header.html %} {% include bio.html %}{% include events.html %}
       <section id="articles">
-      {% for post in site.posts %}
+        {% assign posts=site.posts | where: "lang", site.lang %}
+      {% for post in posts %}
         <!--  -->
   
         <article class="article">
