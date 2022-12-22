@@ -130,7 +130,13 @@ Once the bid is won, in all games except "solo", the bidwinner can exchange card
 - Cards are discarded face-up.
 
 ### Trick Taking
-The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
+The player who won the bid plays the first card. 
+
+#### __Following Suit, etc.__
+You always have to play the same suit as the first card if possible.
+- If you can't play the same suit, you have to play a tarot card.
+- Only if you can't play a card of the same suit or a tarot may you discard a card of the wrong suit.
+The highest card of the same suit (or the highest tarot) takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.
 
 ### Scoring
 At the end of each game, trick points are counted to determine who gets paid how much.
