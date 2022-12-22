@@ -23,6 +23,8 @@ collections_dir: content
 collections:
   posts:
     output: true
+  posts_de:
+    output: true
 
 defaults:
   - scope:
@@ -30,6 +32,11 @@ defaults:
     values:
       layout: "post"
       permalink: /:title/
+  - scope:
+      path: "_posts_de"
+    values:
+      layout: "post"
+      permalink: /de/:title/
 
 
 
