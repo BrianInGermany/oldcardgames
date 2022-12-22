@@ -3,10 +3,10 @@
 <p>
   {% if site.lang == "en" %}
   {% capture link1 %}{{ site.baseurl_root }}/de{{ page.url}}{% endcapture %}
-  <a href="{{ link1 }}" >{% t global.german %}</a>
+  <a href="{{ link1 }}" >{% translate global.german %}</a>
 {% elsif site.lang == "de" %}
   {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
-  <a href="{{ link2 }}" >{% t global.english %}</a>
+  <a href="{{ link2 }}" >{% translate global.english %}</a>
 {% endif %}
 </p>
 </footer>
