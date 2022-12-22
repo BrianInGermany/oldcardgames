@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/https://funcardgames.net/sitemap.xml
+Sitemap: /https://funcardgames.net/sitemap.xml
