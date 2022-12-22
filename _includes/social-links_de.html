@@ -1,0 +1,10 @@
+<section id="social-links">
+{% for i in site.data.author.contact %}
+  <a href="{{i.url}}" target="_blank">
+    <img src="{{site.url}}/assets/icons/{{i.title}}.svg" alt="" />
+  </a>
+{%endfor%}  
+<a href="{{site.url}}/">English</a>
+<a href="{{site.url}}/events">Treffen in Offenbach</a>
+
+</section>
