@@ -30,7 +30,8 @@ To make a trick, the opponent must play a higher card of the same suit or a trum
   - The player who makes the trick plays the next card. 
   - After each trick, each player draws another card (until the deck runs out). Once the deck runs out, you must follow suit and must make the trick if possible.
   
-#### Scoring of Tricks
+#### Scoring of Tricks 
+
 | Card by Trick Rank | Points |
 | ------------------ | ------ |
 | Ace                | 11     |
@@ -42,7 +43,7 @@ To make a trick, the opponent must play a higher card of the same suit or a trum
 ### Weddings
 
 Weddings consist of a queen and king of the same suit.
-- You can make only make an announcement if it's your turn to begin the trick, and you have to play one of the two cards after annoncing it.
+- You can make only announe a wedding if it's your turn to begin the trick, and you have to play one of the two cards after announcing it.
 
 Weddings are worth the following points:  
 - 40 points for a wedding in trump
@@ -65,11 +66,19 @@ Once the deck has been closed, the defending player does not get points for any 
 ## End of Game
 - If you think you have reached 66 points, just say "66" or "enough!" when it's your turn to end the round. But watch out-- if you don't actually have 66 your opponent will get extra points!
   - Even if both players actually have 66, the first one to call it wins.
-- If neither player reached 66 and the deck was not closed, the player who makes the final trick wins one point.
+- Otherwise the game ends when the deck runs out.
+
 ### Scoring
-- If you make 66 and the opponent has 33 or more, you receive one point.
-- If the opponent has less than 33, you receive two points.
-- If the opponent has made no tricks, you receive three points.
-- If you say "enough!" but don't have 66, your opponent gets at least two points, or however many you would have won if you had had 66.
-- If you closed the deck, but don't reach 66, your opponent receives two points.
+
+| Situation                                                                        | Match Points |
+| -------------------------------------------------------------------------------- | ------------ |
+| Called 66 or closed deck and opponent has 33 or more          | 1            |
+| Neither player called 66 or closed deck (winner of final trick wins)  | 1            |
+| Called 66 or closed deck and opponent has less than 33        | 2            |
+| Opponent erroneously called 66 and you made at least one trick | 2            |
+| Opponent erroneously called 66 and you have no tricks     | 3            |
+| Called 66 or closed deck and opponent made no tricks          | 3            |
+
+
+
 - __Seven match points wins!__

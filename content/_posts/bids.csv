@@ -1,6 +1,7 @@
-Card by Trick Rank,Points
-Ace,11
-10,10
-King,4
-Queen/Ober,3
-Jack/Unter,2
+Situation,Match Points
+Called 66 or closed deck</br><ul><li>opponent has 33 or more</li></ul>,1
+Called 66 or closed deck</br><ul><li>opponent has less than 33</li></ul>,2
+Called 66 or closed deck</br><ul><li>opponent made no tricks</li></ul>,3
+Opponent erroneously called 66</br><ul><li>you made at least one trick</li></ul>,2
+Opponent erroneously called 66</br><ul><li>you have no tricks</li></ul>,3
+Neither player called 66 or closed deck (winner of final trick wins)</li></ul>,1
