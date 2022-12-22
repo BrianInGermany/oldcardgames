@@ -1,7 +1,7 @@
 title: Fun Card Games
 markdown: kramdown
 # markdown: GFM
-baseurl: "https://funcardgames.net"
+url: "https://funcardgames.net"
 
 # localization
 # language: "en"

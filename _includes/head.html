@@ -16,26 +16,26 @@
 <meta property="og:url" content="{{ page.url }}">
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:description" content="{{ page.description }}">
-<meta property="og:image" content="{{ site.baseurl }}{{ page.thumbnail }}">
+<meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="{{ page.url }}">
 <meta property="twitter:title" content="{{ page.title }}">
 <meta property="twitter:description" content="{{ page.description }}">
-<meta property="twitter:image" content="{{ site.baseurl }}{{ page.thumbnail }}">
+<meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}">
 
   <title>{{site.title}} | {{page.title}}</title>
   {% if page.layout == "post" %}
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/post.css" />
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/syntax.css" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/main.css" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/post.css" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/syntax.css" />
   {% else %}
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/main.css" />
   {% endif %}
-  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/common.css" />
-  <script src="{{site.baseurl}}/assets/js/categories.js"></script>
+  <link rel="stylesheet" href="{{site.url}}/assets/css/common.css" />
+  <script src="{{site.url}}/assets/js/categories.js"></script>
   {% if page.layout == "post" %}
-  <script defer src="{{site.baseurl}}/assets/js/lbox.js"></script>
+  <script defer src="{{site.url}}/assets/js/lbox.js"></script>
   {% endif %}
 </head>
