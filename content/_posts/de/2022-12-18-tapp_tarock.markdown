@@ -136,11 +136,18 @@ Beispiel: Spieler C bietet und gewinnt, nachdem alle anderen geschoben haben. Sp
 ### Stiche gewinnen
 Der Spielaufnehmer spielt aus. Die Karte mit dem höchsten Stichwert dreht den Stich und der Gewinner des Stichs spielt erneut aus. Ausspielen ist gut, denn man kann hiermit die Farbe bestimmen und versuchen, den Gegner seiner Tarocken zu berauben damit er später keine mehr hat.
 
+#### __Farbzwang und Tarockzwang__
+Es gilt Farbzwang, d.h. man ist verpflichtet, die Farbe der ersten ausgespielten Karte zu bedienen. 
+- Wenn man Farbe nicht bedienen kann, muss man Tarock spielen (Tarockzwang)
+- Nur wenn man weder die ausgespielte Farbe noch Tarock hat darf man eine Nebenfarbe abwerfen.
+
+Die höchste Karte nach Stichwert (nicht nach Punktewert) gewinnt den Stich. Der Gewinner des Stichs spielt aus.
+
 ### Abrechnung
 Man gewinnt mit 36 Punkten.
 
 #### __Stiche zählen__
-Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Augen zu zählen: Karten werden in "Dreierlagen" gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).
+Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Punkte zu zählen: Karten werden in "Dreierlagen" gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).
 
 Beispiel:
 

@@ -52,7 +52,6 @@ Bonus points in Straw Man Tarot are awarded regardless of whether the player cla
 | Pagat Ultimo | Win the Pagat (1) on the last trick                | 10    |
 | Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 10    |
 | Four Kings   | Win all four kings                                 | 10    |
-| Absolut      | Win with 40 points or more                         | 10    |
 | Grandpoint   | Win with 50 points or more                         | 20    |
 
 ### Example Scoring
@@ -60,21 +59,19 @@ Player one claims the game and wins without any bonuses. Player two manages a Pa
   - Player two owes player one 30 credits for the game,
   - and player one owes player two 10 credits for the Pagat Ultimo.
 
-No one claims the game, player two wins with 40 points (absolut) and collects all the honneurs.
+No one claims the game, player two wins with 50 points (grandpoint) and collects all the honneurs.
   - Player one owes player two 20 credits for the win,
-  - another 10 for winning with 40 (absolut),
+  - another 20 for winning with 50 (grandpoint),
   - and 10 more for the honneurs.
 
 ## Flipping the Straw Man Cards
-After inspecting and ordering your hands, each player flips the leftmost card of each of the three four-card dummy packs in front of them. 
+After deciding whether to claim the game, after inspecting and ordering your hands, each player flips the leftmost card of each straw man in front of them (the three four-card packs). 
 - If the card is a tarot or king, she takes this card into her hand after showing it to the opponent.
 - If the card is a suited card (Heart/Diamond/Spade/Club) lower than a king, the card remains in the straw man on the table face-up and she can't flip any more cards in this straw man. The player then proceeds to the next straw man and repeats the process.
 
 ## Gameplay
 ![](/assets/images/dummytarot.jpg)  
-Once a card has been revealed in every straw man, and the above process ended, the real game begins. 
-
-The non-dealer now chooses whether to claim the game. If she doesn't claim, the dealer has the option to do so, and either way the non-dealer plays the first card. 
+Once at least one card has been revealed in every straw man, and the above process ended, the game begins. 
 
 Face-up cards in the straw men can be played as if they were in the hand; the player can choose to play from hand or straw man (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).
 
