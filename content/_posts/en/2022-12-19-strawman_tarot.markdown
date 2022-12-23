@@ -52,6 +52,7 @@ Bonus points in Straw Man Tarot are awarded regardless of whether the player cla
 | Pagat Ultimo | Win the Pagat (1) on the last trick                | 10    |
 | Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 10    |
 | Four Kings   | Win all four kings                                 | 10    |
+| Absolut   | Win with 40-49 points                         | 10    |
 | Grandpoint   | Win with 50 points or more                         | 20    |
 
 ### Example Scoring

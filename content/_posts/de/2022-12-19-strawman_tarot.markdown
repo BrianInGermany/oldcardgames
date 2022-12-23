@@ -37,7 +37,7 @@ Nach dem Austeilen prüft jeder Spieler seine Hand und die Vorhand (der Nicht-Ge
 - Wenn beide passen wird trotzdem gespielt, aber um ein "einfaches Spiel". Das einfache Spiel bringt weniger Risiko und weniger Punkte.
 
 ### Punkte 
-Die Punkte beim Strohmann-Tarock sind "wie Geld" und können auf Papier oder mit Pokerchips getrackt werden. "Wie Geld" soll heißen, jeder Gewinn ist eine Auszahlung bei dem der Gewinner genausoviel gewinnt, als der Gegner verliert. Aufgenommene Spiele bringen mehr Risiko und mehr Gewinn. Auszahlungen bringen auch bestimmte Prämien, die weiter unten aufgeführt sind.
+Die Punkte beim Strohmann-Tarock sind "wie Geld" und können auf Papier oder mit Pokerchips getrackt werden. "Wie Geld" soll heißen, jeder Gewinn ist eine Auszahlung durch den Gegner. Aufgenommene Spiele bringen mehr Risiko und mehr Gewinn. Auszahlungen bringen auch bestimmte Prämien, die weiter unten aufgeführt sind.
 
 | Gewinnart     | Auszahlung   |
 | ----------------- | ------------------------- |
@@ -53,6 +53,7 @@ am Ende des Spiels kann jeder Spieler, Spielaufnehmer oder Gegner, Prämien gewi
 | Pagat Ultimo | Gewinne den Pagat (1) im letzten Stich               | 10    |
 | Trull     | Gewinne alle drei Trulls (Pagat (1), Mond (21), Sküs) | 10    |
 | Vier Könige  | Gewinne alle vier Könige                                 | 10    |
+| Absolut   | Gewinne mit 40-49 Punkte                         | 10    |
 | Grandpoint   | Gewinne mit 50 Punkten oder mehr                         | 20    |
 
 ### Beispielsabrechnungen
