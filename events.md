@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Card Table Offenbach"
-description: "Entspannter Kartentreff in Offenbach am Main: Jass, Doppelkopf, etc."
+description: "Entspannter Kartentreff in Offenbach am Main mit Fokus auf Stichspielen"
 date:   2022-12-14 18:34:00
 categories: ["event"]
 thumbnail: "/assets/images/cardtable.jpg"
