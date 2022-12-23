@@ -1,6 +1,6 @@
 ---
 layout: post_de
-title:  "Strohmann-Tarock: Nichts für Dummys!"
+title:  "Strohmann-Tarock: Nichts für 'Dummys'!"
 description: "Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln)."
 date:   2022-12-19 18:57:00
 categories: ["zweispieler","tarock"]
