@@ -32,12 +32,12 @@ If a molotov appears on the table, the winner of the trick gets bombed another 2
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
-| Trump Unter/Jack ("Bur") | 20          |
+| Trump Jack/Unter ("Bur") | 20          |
 | Trump Nine ("Nell")      | 14          |
 | Ace                      | 11          |
 | King                     | 4           |
-| Ober/Queen               | 3           |
-| Unter/Jack               | 2           |
+| Queen/Ober              | 3           |
+| Jack/Unter             | 2           |
 | Ten                      | 10          |
 | Nine                     | 0           |
 | Eight                    | 0           |
