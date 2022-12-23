@@ -61,7 +61,7 @@ You are not required to make tricks, and can intentionally lose a trick, as long
 ## Scorekeeping
 The two players with the lowest round score write one tally, the highest player writes a "sack".
 - If playing with four, one player gets neither a tally nor a sack.
-- If playing with five, the lowest two write tallies, the highest two write sacks and the middle one writes nothing.
+- If playing with five, the lowest three write tallies, the highest writes a sack and the middle one writes nothing.
 - To get "out of the sack", the player has to make another tally, crossing through the 0 with a line:
 
 ![](../../assets/images/sack_strich.jpg)

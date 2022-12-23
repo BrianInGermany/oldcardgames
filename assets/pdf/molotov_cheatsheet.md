@@ -45,6 +45,7 @@ Think backwards: in molotov, you aim for the fewest points possible.
 ### Overall Points
 
 - 3P: Lowest two write tallies, worst writes a "sack".
-- 4P: Lowest two write tallies, third best writes nothing, worst writes a sack.
-- 5P: Lowest three write tallies, third best writes nothing, worst writes a sack. 
+- 4P: Lowest two write tallies, worst writes a sack, second worst writes nothing.
+- 5P: Lowest three write tallies, worst writes a sack, second worst writes nothing. 
 - To get "out of the sack", write another tally (sacks are like minus points):
+- First to five wins. If players hit five simultaneously, the lowest score in that round wins overall.
