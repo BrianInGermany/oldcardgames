@@ -54,7 +54,7 @@ The game begins without a trump and the first card played that can't follow suit
 
 ### Following Suit
 When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. You can play trump even if you have that suit, but you don't have to if you don't have that suit (unless the played suit is trump). If you don't have the suit played, you can play any card. If you have the suit played, but no trump, you must play the suit.
-- Exception: you don't have to follow suit with the Bur (trump Unter/Jack, the game's highest card). The nell, however, must follow suit.
+- Exception: you don't have to follow suit with the Bur (trump jack/unter, the game's highest card). The nell, however, must follow suit.
 
 You are not required to make tricks, and can intentionally lose a trick, as long as you follow suit.  
 

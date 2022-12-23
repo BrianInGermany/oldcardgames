@@ -11,7 +11,7 @@ At the beginning of the game, there is no trump. The first card that cannot foll
 
 ## Following Suit
 If you have the suit that has been played, you must 1) follow suit or 2) play a trump. You have the option to play a trump even if you could follow suit.
-- If you don't have the suit played, you can play any other card. You don't have to play a trump.
+- If you don't have the suit played, you can play any other card. You don't have to play a trump. The Bur doesn't have to follow suit.
 
 ## Scoring
 Think backwards: in molotov, you aim for the fewest points possible.
