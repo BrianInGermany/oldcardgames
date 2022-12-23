@@ -65,6 +65,8 @@ Niemand nimmt das Spiel auf und die Vorhand gewinnt mit 50 Punkten (grandpoint),
   - weitere 20 für den grandpoint
   - sowie 10 oberdrauf für die Trull
 
+>Tipp: Nutze Poker-Chips, um Punkte fassbar zu machen.
+
 ## Spielablauf
 Nachdem feststeht, ob jemand das Spiel aufnimmt und jeder seine Karten geprüft und sortiert hat, dreht jeder die erste Karten von links in jedem seiner Strohmänner offen auf. 
 - Falls die Karte Tarock oder König ist, nimmt er diese Karten in seine Hand auf, nachdem der Gegner die Karte gesehen hat.
@@ -124,12 +126,6 @@ Beispiel:
 | 9/2                | 1                    | 0                   |
 | 8/3                | 1                    | 0                   |
 | 7/4                | 1                    | 0                   |
-
-
-#### __Auszahlungen__
-Wenn man das Spiel oder eine Prämie gewinnt, zahlt ihn der Gegner aus.
-
->Tipp: Nutze Poker-Chips, um Punkte fassbar zu machen.
 
 ## Spielende
 Wenn ein Gegner bankrott ist, ist das Spiel vorbei.
