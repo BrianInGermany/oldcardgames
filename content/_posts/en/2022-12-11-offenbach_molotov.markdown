@@ -24,15 +24,11 @@ When you win a trick, you add the cards' point value to your score. The player t
 
 ### Molotovs!
 If a molotov appears on the table, the winner of the trick gets bombed another 20 or 50 points. A molotov is three or four cards __of the same suit__ in sequence.
-- Small molotov = three in a row
-  - 20 points 
-- Large molotov = four in a row
-  - 50 points
-  - Only possible with 4+ players 
-- Examples 
-  - 6-7-8
-  - J-Q-K
-  - 9-10-J-Q
+
+| Molotov | Points | Description                     | Example               |
+| ------- | ------ | ------------------------------- | --------------------- |
+| Small   | 20     | Three-in-a-row suited | 7-8-9 suited |
+| Large   | 50     | Four-in-a-row suited  | 9-10-J/U-Q/O suited        |
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
@@ -78,3 +74,5 @@ The two players with the lowest round score write one tally, the highest player 
 
 - [jassa.at](https://jassa.at): well-curated site of Jass rules and games (in German)
 - [Book: Jassen in Vorarlberg](https://www.jassen.at/): extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)
+
+<h2><a href="/assets/pdf/MolotovJassCheatSheet.pdf" download>Cheat Sheet PDF</a></h2>

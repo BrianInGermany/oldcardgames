@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Molotov Jass Cheat Sheet</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="molotov-jass-cheat-sheet">Molotov Jass Cheat Sheet</h1>
+<h2 id="setup">Setup</h2>
+<p>With a 36 card deck (6-A), shuffle and divide the deck equally between each player, dealing out in groups of three cards.</p>
+<ul>
+<li>With three players 4x3 each.</li>
+<li>With four players 3x3 each.</li>
+<li>With five players, remove the 6 of bells/diamonds and then deal 4+3 each.</li>
+</ul>
+<h2 id="trump">Trump</h2>
+<p>At the beginning of the game, there is no trump. The first card that cannot follow suit becomes the trump suit.</p>
+<ul>
+<li>The jack/unter and nine of trumps become Bur and Nell retroactively. Be wary of nines and jacks early on.</li>
+</ul>
+<h2 id="following-suit">Following Suit</h2>
+<p>If you have the suit that has been played, you must 1) follow suit or 2) play a trump. You have the option to play a trump even if you could follow suit.</p>
+<ul>
+<li>If you don't have the suit played, you can play any other card. You don't have to play a trump.</li>
+</ul>
+<h2 id="scoring">Scoring</h2>
+<p>Think backwards: in molotov, you aim for the fewest points possible.</p>
+<h3 id="trick-points">Trick Points</h3>
+<p><img style="text-align: right;" width="60%" src="file:////home/brian/Documents/repos/oldcardgames/assets/images/striche.png" align=right></img></p>
+<table>
+<thead>
+<tr>
+<th>Cards by Trick Rank</th>
+<th>Point Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trump Jack/Unter (&quot;Bur&quot;)</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Trump Nine (&quot;Nell&quot;)</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Ace</td>
+<td>11</td>
+</tr>
+<tr>
+<td>King</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Queen/Ober</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Jack/Unter</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Ten</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Nine</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Eight</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Seven</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Six</td>
+<td>0</td>
+</tr>
+<tr>
+<td>-Making the last trick-</td>
+<td>5</td>
+</tr>
+<tr>
+<td>SUM</td>
+<td>157</td>
+</tr>
+</tbody>
+</table>
+<h3 id="molotovs">Molotovs</h3>
+<ul>
+<li>Winner of the trick gets molotov'd.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Molotov</th>
+<th>Points</th>
+<th>Description</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Small</td>
+<td>20</td>
+<td>Three-in-a-row suited</td>
+<td>7-8-9 suited</td>
+</tr>
+<tr>
+<td>Large</td>
+<td>50</td>
+<td>Four-in-a-row suited</td>
+<td>9-10-J/U-Q/O suited</td>
+</tr>
+</tbody>
+</table>
+<h3 id="overall-points">Overall Points</h3>
+<ul>
+<li>3P: Lowest two write tallies, worst writes a &quot;sack&quot;.</li>
+<li>4P: Lowest two write tallies, third best writes nothing, worst writes a sack.</li>
+<li>5P: Lowest three write tallies, third best writes nothing, worst writes a sack.</li>
+<li>To get &quot;out of the sack&quot;, write another tally (sacks are like minus points):</li>
+</ul>
+
+        
+        
+    </body>
+    </html>
