@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-23T08:35:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry><title type="html">Straw Man Tarot: Not for Dummies!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for Dummies!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-23T12:11:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry xml:lang="de"><title type="html">Strohmann-Tarock: Nichts für Dummys!</title><link href="http://localhost:4000/de/strawman_tarot/" rel="alternate" type="text/html" title="Strohmann-Tarock: Nichts für Dummys!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/de/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/de/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
 
 <h2 id="the-cards">The Cards</h2>
 <p><img src="/assets/images/tarock.jpg" alt="" /></p>
@@ -233,7 +233,629 @@ Once a card has been revealed in every straw man, and the above process ended, t
 <h2 id="end-of-the-game">End of the Game</h2>
 <p>The game is over when you’ve run your opponent out of chips!</p>
 
-<h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download="">Cheat Sheet PDF</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><category term="tarot" /><summary type="html"><![CDATA[A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).]]></summary></entry><entry><title type="html">Offenbach Tapp: Tarot for Three</title><link href="http://localhost:4000/tapp_tarock/" rel="alternate" type="text/html" title="Offenbach Tapp: Tarot for Three" /><published>2022-12-18T12:39:00+01:00</published><updated>2022-12-18T12:39:00+01:00</updated><id>http://localhost:4000/tapp_tarock</id><content type="html" xml:base="http://localhost:4000/tapp_tarock/"><![CDATA[<p>Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant.</p>
+<h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download="">Cheat Sheet PDF</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="zweispieler" /><category term="tarock" /><summary type="html"><![CDATA[Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).]]></summary></entry><entry><title type="html">Straw Man Tarot: Not for Dummies!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for Dummies!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
+
+<h2 id="the-cards">The Cards</h2>
+<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+
+<p>This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit “tarot”, which is a permanent trump suit. Fun fact: the origin of the word “trump” comes from the earlier designation of the tarots in Italian, “le trionfi”.</p>
+
+<h3 id="regular-suits">Regular Suits</h3>
+<p>In contrast to a regular deck, there are <strong>four</strong> face cards: King, Queen, Knight and Jack.
+In further contrast to a regular deck, the kings are the highest cards by trick rank besides the tarots.</p>
+
+<p>There is a difference between red and black suits, too: in hearts and diamonds, the trick rank after K-Q-Kn-J is A-2-3-4, and those are all the cards present in those suits.</p>
+
+<p>In clubs and spades, the trick rank after the face cards is 10-9-8-7, and these again are the entirety of the cards in those suits.</p>
+
+<h3 id="tarot-cards">Tarot Cards</h3>
+<p>The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the “Sküs” (say “skyooz”, derived from French “excusez”– which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and are known as the “honneurs”.</p>
+
+<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+
+<h2 id="setup">Setup</h2>
+<p>At the start of the game, fifteen cards are dealt face down in three packs of five to each player. These are your hand.</p>
+<ul>
+  <li>The remaining 24 cards are distributed face-down in front of each player, alternating dealing three packs of four. These cards are revealed little-by-little as the game proceeds and can be played just like cards from your hand once they’re flipped. This table hand is known as the straw man.</li>
+</ul>
+
+<p>If a player has no tarots in their hand after dealing (before flipping the straw man cards), she can request the game be redealt by the same player.</p>
+
+<p>After dealing, each player orders and checks their hand, and the player who didn’t deal decides whether she wants to claim the game, i.e. go for the win.</p>
+<ul>
+  <li>If both players pass, the game is still played, but it called a simple game (vs. a claimed game).</li>
+</ul>
+
+<h3 id="points">Points</h3>
+<p>Points in Straw Man Tarot are credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning. If you win, you get paid, if you lose, you pay.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Win Type</th>
+      <th>Opponent Pays You</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Claim and Win</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Beat Claimer</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Win Unclaimed Game</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="bonuses">Bonuses</h3>
+<p>Bonus points in Straw Man Tarot are awarded regardless of whether the player claimed the game, and are not announced beforehand.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Bonus</th>
+      <th>Description</th>
+      <th>Opponent Pays You</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pagat Ultimo</td>
+      <td>Win the Pagat (1) on the last trick</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Honneur</td>
+      <td>Win all three honneurs (Pagat (1), Mond (21), Sküs)</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Four Kings</td>
+      <td>Win all four kings</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Absolut</td>
+      <td>Win with 40 points or more</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Grandpoint</td>
+      <td>Win with 50 points or more</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="example-scoring">Example Scoring</h3>
+<p>Player one claims the game and wins without any bonuses. Player two manages a Pagat Ultimo despite losing.</p>
+<ul>
+  <li>Player two owes player one 30 credits for the game,</li>
+  <li>and player one owes player two 10 credits for the Pagat Ultimo.</li>
+</ul>
+
+<p>No one claims the game, player two wins with 40 points (absolut) and collects all the honneurs.</p>
+<ul>
+  <li>Player one owes player two 20 credits for the win,</li>
+  <li>another 10 for winning with 40 (absolut),</li>
+  <li>and 10 more for the honneurs.</li>
+</ul>
+
+<h2 id="flipping-the-straw-man-cards">Flipping the Straw Man Cards</h2>
+<p>After inspecting and ordering your hands, each player flips the leftmost card of each of the three four-card dummy packs in front of them.</p>
+<ul>
+  <li>If the card is a tarot or king, she takes this card into her hand after showing it to the opponent.</li>
+  <li>If the card is a suited card (Heart/Diamond/Spade/Club) lower than a king, the card remains in the straw man on the table face-up and she can’t flip any more cards in this straw man. The player then proceeds to the next straw man and repeats the process.</li>
+</ul>
+
+<h2 id="gameplay">Gameplay</h2>
+<p><img src="/assets/images/dummytarot.jpg" alt="" /><br />
+Once a card has been revealed in every straw man, and the above process ended, the real game begins.</p>
+
+<p>The non-dealer now chooses whether to claim the game. If she doesn’t claim, the dealer has the option to do so, and either way the non-dealer plays the first card.</p>
+
+<p>Face-up cards in the straw men can be played as if they were in the hand; the player can choose to play from hand or straw man (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).</p>
+
+<p>After each trick in which a card from the straw man is played, the next card of that straw man is flipped, and again, if it’s a tarot or king, it’s taken into the player’s hand after showing it.</p>
+
+<p>If a player makes at least 35 points plus two cards (see point counting section below), she has won the round. If neither player reaches this amount, the game is a draw.</p>
+
+<p>Trick points are counted based on the scale and method described below.</p>
+
+<h4 id="following-suit-taking-the-trick"><strong>Following Suit, Taking the Trick</strong></h4>
+<p>You always are required to play the same suit as the first card if possible.</p>
+<ul>
+  <li>If you can’t play the same suit, you are required to play a tarot card.</li>
+  <li>Only if you can’t play a card of the same suit or a tarot may you discard a card of the wrong suit.</li>
+</ul>
+
+<p>The highest card of the same suit (or the highest tarot) takes the trick, and the winner of the trick plays the next card.</p>
+
+<h4 id="trick-points"><strong>Trick Points</strong></h4>
+<p>Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It’s actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you’ll end up with multiple high cards in a pack of three.</p>
+
+<p>To win the game, you need at least 35 points and two remainder one-pointers. One-pointers are known as skartindels.</p>
+
+<p>For example:</p>
+
+<ul>
+  <li>Queen of Hearts / 5 of Hearts / Tarot 3 = (4 + 1 + 1) - 2 = 4</li>
+  <li>Jack of Spades / Tarot 14 / Tarot 18 = (2 + 1 + 1) - 2 = 2</li>
+  <li>King of Diamonds / Tarot 12 / Sküs = (5 + 1 + 5) - 2 = 9</li>
+</ul>
+
+<blockquote>
+  <p>Tip: If you’re not a stickler for tradition you can use a simplified point system where you just add up the cards’ values normally. No need for counting in threes and subtracting two. This way you need 36 points to win the game.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>Card by Trick Rank</th>
+      <th>Points (Traditional)</th>
+      <th>Points (Simplified)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sküs</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Mond (21)</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Other Tarots (2-20)</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Pagat (1)</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>King</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Queen</td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Knight</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Jack</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>10/A</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>9/2</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>8/3</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>7/4</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="end-of-the-game">End of the Game</h2>
+<p>The game is over when you’ve run your opponent out of chips!</p>
+
+<h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download="">Cheat Sheet PDF</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><category term="tarot" /><summary type="html"><![CDATA[A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).]]></summary></entry><entry xml:lang="de"><title type="html">Offenbacher Tapp: Tarock zu dritt</title><link href="http://localhost:4000/de/tapp_tarock/" rel="alternate" type="text/html" title="Offenbacher Tapp: Tarock zu dritt" /><published>2022-12-18T12:39:00+01:00</published><updated>2022-12-18T12:39:00+01:00</updated><id>http://localhost:4000/de/tapp_tarock</id><content type="html" xml:base="http://localhost:4000/de/tapp_tarock/"><![CDATA[<p>Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock.</p>
+
+<p>Ob dein Glück in den Karten steht? Offenbacher Tapp ist eine einfach zu erlernende Variante des geselligen Dreipersonenspiels Tapp-Tarock (auch bekannt als Wiener Tappen).</p>
+
+<h2 id="die-karten">Die Karten</h2>
+<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+
+<p>Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe “Tarock”, die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes “Trumpf” leitet sich von der frühen Bezeichnung der Tarocken auf Italienisch, “le trionfi”. Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.</p>
+
+<h3 id="die-farben">Die Farben</h3>
+<p>Im Gegensatz zu einem französischen Blatt oder deutschen Blatt gibt es beim Tarock <strong>vier</strong> Bildkarten: König, Dame, Kavall (Reiter), Bube.
+In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz auf der Stechskala der Farbkarten ein.</p>
+
+<p>Des Weiteren gibt es Unterschiede zwischen den roten und schwarzen Farben: Nach den Bildkarten Kö-D-Ka-B besteht die Stichrangfolge bei den schwarzen Karten aus 10-9-8-7. Bei den roten Karten is nach den Bildkarten das As die höchste Karte der Farbe (A-2-3-4). Es gibt also insgesamt acht Karten pro Farbe.</p>
+
+<h3 id="tarockkarten">Tarockkarten</h3>
+<p>Der Stichwert der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der “Sküs” (leitet sich vom französischen “excusez” ab– was man vielleicht sagt, wenn man allen Gegnern die Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 (“Mond”), und Tarock 1 (“Pagat”) bilden zusammen die “Trull” und sind jeder fünf Punkte wert in der Abrechnung.</p>
+
+<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+
+<h2 id="spielbeginn">Spielbeginn</h2>
+<p>Zu Beginn des Spieles werden sechs Karten in zwei dreier Packs verdeckt in die Tischmitte gelegt. Diese Karten heißen zusammen der “Tapp”.</p>
+
+<ul>
+  <li>Im Anschluss werden 16 Karten in vier vierer Packs an alle drei Spieler verteilt.</li>
+  <li>Das Spielen beginnt damit, dass die Teilnehmer um die Einzelspielerrolle bieten.
+    <ul>
+      <li>Je nach Gebot kann man die Tapp-Karten verwenden, um das eigene Blatt zu verbessern.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="ziel-des-spieles">Ziel des Spieles</h2>
+<p>Bei Offenbacher Tapp ist der Ziel des Spiels, die Gegner bankrott zu spielen, indem man als Einzelspieler gewinnt und dafür ausgezahlt wird, oder als Partnerspieler versucht, den angsagten Sieg des Einzelspielers zu versauen.</p>
+
+<p>Spieler bieten um die Einzelspielerrolle, die mit einer höheren Auszahlung dotiert ist bei Gewinn. Angefangen mit dem Spieler rechts vom Geber (es wird gegen den Uhrzeigersinn gespielt), gucken die Spieler ihre Blätter an und entscheiden und, ob sie das Spiel “aufnehmen” und dafür bieten möchten. In die Entscheidung spielt hinein, dass man bei den meisten Geboten das eigene Blatt mit Karten aus dem Tapp verbessern darf.</p>
+
+<p>Im Spiel insgesamt gibt es 70 Punkte zu gewinnen, der Gewinner muss 36 schaffen.</p>
+
+<h3 id="bieten-prämien-kontern">Bieten, Prämien, Kontern</h3>
+
+<h4 id="bietestufen"><strong>Bietestufen</strong></h4>
+<p>Es gibt vier mögliche Bietestufen, die nur der Reihe nach (hintereinander) geboten werden dürfen.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Bietestufe (aufsteigend)</th>
+      <th>Bescheibung</th>
+      <th>Auszahlung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dreier</td>
+      <td>Höchstbietende darf eins von zwei Dreierpacks aus dem Tapp aufnehmen.</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Zweier</td>
+      <td>Höchstbietende darf eins der drei Zweierpaare aus dem Tapp aufnehmen.</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Einser</td>
+      <td>Höchstbietende darf eine Karte aus dem Tapp aufnehmen.</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>Solo</td>
+      <td>Höchstbietende muss ohne den Tapp auskommen.</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>In allen Bietestufen außer “solo” darf die Höchstbietende Karten aus dem eigenen Blatt mit Karten aus dem Tapp tauschen. Dies geschieht direkt nach dem Bieten.</p>
+
+<ul>
+  <li>Die ausgetauschten Karten dürfen keine Könige oder Trulls sein und zählen zu den eigenen Stichen.</li>
+  <li>Die liegengelassenen Karten zählen zu den Stichen der Gegner.</li>
+</ul>
+
+<h4 id="das-bieten"><strong>Das Bieten</strong></h4>
+<p>Beim Bieten können Spieler schieben oder bieten, aber sobald geschoben dürfen sie nicht mehr am Bieteverfahren teilnehmen. Das erste Gebot ist immer “Dreier” und es geht aufwärts zu “Zweier”, “Einser” und “Solo”.</p>
+
+<p>Wenn ein Spieler überboten wird, hat sie immer die Option, das höhere Gebot zu “halten” und für sich selbst zu beanspruchen, oder aber wieder zu überbieten.</p>
+
+<h4 id="beispiele-fürs-bieten"><strong>Beispiele fürs Bieten</strong></h4>
+
+<p>Spieler A schiebt. Spieler B bietet, wird überboten von C und hält dann dieses höhere Gebot. Spieler C verzichtet auf ein noch höheres Gebot.</p>
+<ul>
+  <li>Spieler A: “schieben”</li>
+  <li>Spieler B: “dreier”</li>
+  <li>Spieler C: “zweier”</li>
+  <li>Spieler A: (SKIPPED)</li>
+  <li>Spieler B: “ich halte (die zwei)”</li>
+  <li>Spieler C: “schieben”</li>
+  <li>ENDE (Spieler B gewinnt die Versteigerung.)</li>
+</ul>
+
+<p>Spieler A bietet, Spieler B überbietet, Spieler C schiebt und der Rest schiebt auch.</p>
+<ul>
+  <li>Spieler A: “Dreier”</li>
+  <li>Spieler B: “Zweier”</li>
+  <li>Spieler C: “schieben”</li>
+  <li>Spieler A: “schieben”</li>
+  <li>ENDE (Spieler B gewinnt die Versteigerung.)</li>
+</ul>
+
+<h3 id="tappkarten-tauschen">Tappkarten Tauschen</h3>
+<p>Ist die Bietephase fertig, werden alle Tappkarten aufgedeckt, damit alle sie sehen können (außer beim Solo, hier bleiben sie verdeckt).</p>
+
+<p>Der Spielaufnehmer tauscht die entsprechende Anzahl Karten (darf aber keine Könige oder Trullstücke aus seinem Blatt verlegen, da diese Karten viel wert sind und direkt zu den eigenen Stichen zählen). Die nicht getauschten Tappkarten kommen zu den Stichen der Gegner.</p>
+
+<blockquote>
+  <p>Man darf gerade aufgenommene Karten auch wieder verlegen, vorausgesetzt, die sind keine Könige oder Trulls. Tarock kann nur verlegt werden, wenn man keine anderen Farbkarten hat (die nicht Könige sind).</p>
+</blockquote>
+
+<p>Die ausgetauschten Karten werden nicht gezeigt und bleiben geheim. Ausgetauschte Tarocken müssen jedoch vorgezeigt werden.</p>
+
+<h4 id="prämien"><strong>Prämien</strong></h4>
+<p>Zusätzlich zum Bieten gibt es Prämien, die von jedem Spieler gewonnen werden können und von den anderen Spielern 50/50 ausgezahlt werden.</p>
+
+<p>Nach dem Bieten, nach dem Austauschen der Tappkarten hat jeder Spieler die Möglichkeit, eine oder mehrere Prämien anzusagen. Wenn sie angesagt und gewonnen werden, ist die Auszahlung höher, als wenn sie nicht angesagt (still) gespielt werden:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Prämie</th>
+      <th>Beschreibung</th>
+      <th>Auszahlung (still)</th>
+      <th>Auszahlung (angesagt)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pagat Ultimo</td>
+      <td>Gewinne den Pagat im letzten Stich</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Trull</td>
+      <td>Gewinne alle drei Trullstücke (Pagat (1), Mond (21), Sküs)</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Vier Könige</td>
+      <td>Gewinne alle vier Könige</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Absolut</td>
+      <td>Gewinne mit 40-49 Punkten</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Grandpoint</td>
+      <td>Gewinne mit 50 Punkten oder mehr</td>
+      <td>40</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="kontern"><strong>Kontern</strong></h4>
+<p>Ist das Bieteverfahren und die Prämienansage abgeschlossen, haben die anderen Spieler die Möglichkeit zu kontern.</p>
+
+<p>Durch das Kontern verdoppelt sich die Auszahlung des Spiels, ob gewonnen oder verloren.</p>
+
+<p>Beispiel: Spieler C bietet und gewinnt, nachdem alle anderen geschoben haben. Das Bieten ist hiermit abgeschlossen, Niemand möchte eine Ansage machen, aber Spieler A möchte Kontern.</p>
+<ul>
+  <li>Spieler A: “schieben”</li>
+  <li>Spieler B: “schieben”</li>
+  <li>Spieler C: “Dreier”</li>
+  <li>(Tapp wird getauscht, keine Prämienansagen)</li>
+  <li>Spieler A: “kontra”</li>
+  <li>Spieler B: “schieben”</li>
+  <li>Spieler C: “schieben”</li>
+  <li>ENDE (Spieler C gewinnt das Bieten mit einem Kontra und spielt auf doppeltes Risiko.)</li>
+</ul>
+
+<p>Beispiel: Spieler C bietet und gewinnt, nachdem alle anderen geschoben haben. Spieler C sagt Trull an. Spieler A möchte die Trull Kontern, nicht aber das Spiel.</p>
+<ul>
+  <li>Spieler A: “schieben”</li>
+  <li>Spieler B: “schieben”</li>
+  <li>Spieler C: “Dreier”</li>
+  <li>(Tapp wird getauscht, keine Prämienansagen)</li>
+  <li>Spieler A: “schieben”</li>
+  <li>Spieler B: “schieben”</li>
+  <li>Spieler C: “Trull”</li>
+  <li>Spieler A: “kontra auf die Trull”</li>
+  <li>Spieler B: “schieben”</li>
+  <li>Spieler C: “schieben”</li>
+  <li>ENDE (Spieler C gewinnt das Bieten mit einem Kontra auf Trull und spielt bzgl. der Trull auf doppeltes Risiko. Das Gewinnen des Dreiers bleibt ohne Kontra.)</li>
+</ul>
+
+<blockquote>
+  <p>Man kann sich nicht selbst Kontern. Das Risiko des Konterns verteilt sich auf die beiden anderen, nicht nur den ansagenden Spieler. Man darf sich hierzu nicht absprechen.</p>
+</blockquote>
+
+<h3 id="stiche-gewinnen">Stiche gewinnen</h3>
+<p>Der Spielaufnehmer spielt aus. Die Karte mit dem höchsten Stichwert dreht den Stich und der Gewinner des Stichs spielt erneut aus. Ausspielen ist gut, denn man kann hiermit die Farbe bestimmen und versuchen, den Gegner seiner Tarocken zu berauben damit er später keine mehr hat.</p>
+
+<h3 id="abrechnung">Abrechnung</h3>
+<p>Man gewinnt mit 36 Punkten.</p>
+
+<h4 id="stiche-zählen"><strong>Stiche zählen</strong></h4>
+<p>Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Augen zu zählen: Karten werden in “Dreierlagen” gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).</p>
+
+<p>Beispiel:</p>
+
+<ul>
+  <li>Herz-Dame / Herz-5 / Tarock 3 = (4 + 1 + 1) - 2 = 4</li>
+  <li>Pik-Bube / Tarock 14 / Tarock 18 = (2 + 1 + 1) - 2 = 2</li>
+  <li>Karo-König / Tarock 12 / Sküs = (5 + 1 + 5) - 2 = 9</li>
+</ul>
+
+<blockquote>
+  <p>Tipp: Wenn du es lieber einfach magst, nutze die vereinfachte Punkteskala unten. Es gibt dann 71 Punkte im Spiel. 36 braucht man aber trotzdem zum Gewinnen.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>Karte nach Stichwert</th>
+      <th>Punkte (traditionell)</th>
+      <th>Punkte (vereinfacht)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Sküs</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Mond (21)</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Andere Tarocken (2-20)</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Pagat (1)</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>König</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Dame</td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Kavall (Reiter)</td>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Bube</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>10/A</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>9/2</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>8/3</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>7/4</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="auszahlungen"><strong>Auszahlungen</strong></h4>
+<p>Wenn ein Spielaufnehmer oder Prämienansager wie versprochen gewinnt, zahlen ihn die anderen Spieler 50/50 aus.</p>
+
+<p>Verliert man ein angesagtes Spiel oder eine angesagte Prämie, zahlt man die Gegner 50/50 aus.</p>
+
+<blockquote>
+  <p>Tipp: Nutze Poker-Chips, um Punkte fassbar zu machen.</p>
+</blockquote>
+
+<table>
+  <thead>
+    <tr>
+      <th>Bietestufe (aufsteigend)</th>
+      <th>Bescheibung</th>
+      <th>Auszahlung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dreier</td>
+      <td>Höchstbietende darf eins von zwei Dreierpacks aus dem Tapp aufnehmen.</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Zweier</td>
+      <td>Höchstbietende darf eins der drei Zweierpaare aus dem Tapp aufnehmen.</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Einser</td>
+      <td>Höchstbietende darf eine Karte aus dem Tapp aufnehmen.</td>
+      <td>60</td>
+    </tr>
+    <tr>
+      <td>Solo</td>
+      <td>Höchstbietende muss ohne den Tapp auskommen.</td>
+      <td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Prämie</th>
+      <th>Beschreibung</th>
+      <th>Auszahlung (still)</th>
+      <th>Auszahlung (angesagt)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pagat Ultimo</td>
+      <td>Gewinne den Pagat im letzten Stich</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Trull</td>
+      <td>Gewinne alle drei Trullstücke (Pagat (1), Mond (21), Sküs)</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Vier Könige</td>
+      <td>Gewinne alle vier Könige</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Absolut</td>
+      <td>Gewinne mit 40-49 Punkten</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Grandpoint</td>
+      <td>Gewinne mit 50 Punkten oder mehr</td>
+      <td>40</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="spielende">Spielende</h2>
+<p>Das Spiel ist zu Ende wenn der erste pleite geht. :)</p>
+
+<p>Der Gesamtgewinner ist derjenige mit den meisten Chips zu diesem Zeitpunkt.</p>
+
+<h2><a href="/assets/pdf/TappTarockCheatSheet.pdf" download="">Cheat Sheet PDF (EN)</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="dreispieler" /><category term="tarock" /><summary type="html"><![CDATA[Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock.]]></summary></entry><entry><title type="html">Offenbach Tapp: Tarot for Three</title><link href="http://localhost:4000/tapp_tarock/" rel="alternate" type="text/html" title="Offenbach Tapp: Tarot for Three" /><published>2022-12-18T12:39:00+01:00</published><updated>2022-12-18T12:39:00+01:00</updated><id>http://localhost:4000/tapp_tarock</id><content type="html" xml:base="http://localhost:4000/tapp_tarock/"><![CDATA[<p>Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant.</p>
 
 <p>Not just for fortune telling! Offenbach Tapp is a fun trick-taking game with the added fascination of the fifth suit, tarot.</p>
 
@@ -310,46 +932,6 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
 
 <p>In all the bids except the “solo”, the winning bidder has the chance to improve their hand by exchanging with cards from the tapp.</p>
 
-<h4 id="bonus"><strong>Bonus</strong></h4>
-<p>In addition to the bids, there are bonuses, which can be won by any player and are also paid out by the other players 50/50.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Bonus</th>
-      <th>Description</th>
-      <th>Pay Out</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Pagat Ultimo</td>
-      <td>Win the Pagat (1) on the last trick</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Honneur</td>
-      <td>Win all three honneurs (Pagat (1), Mond (21), Sküs)</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Four Kings</td>
-      <td>Win all four kings</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Absolut</td>
-      <td>Win with 40-49 points</td>
-      <td>20</td>
-    </tr>
-    <tr>
-      <td>Grandpoint</td>
-      <td>Win with 50 points or more</td>
-      <td>40</td>
-    </tr>
-  </tbody>
-</table>
-
 <h4 id="bidding-process"><strong>Bidding Process</strong></h4>
 <p>In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always “three”, and goes up the scale to “two”, “one”, and “solo”.</p>
 
@@ -377,38 +959,88 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
   <li>END (Player 2 wins the bid.)</li>
 </ul>
 
-<h4 id="countering-examples"><strong>Countering Examples</strong></h4>
-<p>Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying “contra” or “I counter the three”, for example.</p>
+<h3 id="exchanging-cards">Exchanging Cards</h3>
+<p>Once the bidding phase is over, in all games except “solo”, the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner’s trick points, while the untouched tapp cards belong to the opponents’ tricks. Note: you can discard cards you just picked up.</p>
+<ul>
+  <li>Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.</li>
+  <li>Tarot can only be discarded if you have no other suited cards to discard.</li>
+  <li>Cards are discarded face-down, unless they are tarots.</li>
+</ul>
 
-<p>Player 3 bids, player 1 passes and later counters:</p>
+<h4 id="bonus"><strong>Bonus</strong></h4>
+<p>After the bidding phase and the exchange of tapp cards, bonus can be announced, which can be won by any player and are also paid out by the other players 50/50. Announced bonuses are worth more (and cost more) than unannounced (silent) bonuses.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Bonus</th>
+      <th>Description</th>
+      <th>Pay Out (silent)</th>
+      <th>Pay Out (announced)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pagat Ultimo</td>
+      <td>Win the Pagat (1) in the last trick</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Trull</td>
+      <td>Win all three Trulls (Pagat (1), Mond (21), Sküs)</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Four Kings</td>
+      <td>Win all four kings</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Absolut</td>
+      <td>Win with 40-49 points</td>
+      <td>20</td>
+      <td>40</td>
+    </tr>
+    <tr>
+      <td>Grandpoint</td>
+      <td>Win with 50 or more points</td>
+      <td>40</td>
+      <td>80</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="countering"><strong>Countering</strong></h4>
+<p>Once a bid is won and any bonuses announced, players have the option to counter, doubling the points to be won or lost for that game or bonus. This is done by saying “contra” or “I counter the three”, for example. Game and bonus announcements can be countered individually.</p>
+
+<p>Player 3 bids, player 1 counters:</p>
 <ul>
   <li>Player 1: “pass”</li>
   <li>Player 2: “pass”</li>
   <li>Player 3: “three”</li>
+  <li>(Tapp exchanged, no bonus announcements)</li>
   <li>Player 1: “contra”</li>
   <li>Player 2: “pass”</li>
   <li>Player 3: “pass”</li>
   <li>END (Player 3 wins the bid with a counter, playing for double stakes.)</li>
 </ul>
 
-<p>In rare cases, the player may want to double down on the counter, showing she is even more sure of herself and securing even more potential points by saying “recontra”:</p>
-
+<p>Player 3 bids, player 1 passes and later counters:</p>
 <ul>
   <li>Player 1: “pass”</li>
   <li>Player 2: “pass”</li>
   <li>Player 3: “three”</li>
-  <li>Player 1: “contra on the three”</li>
+  <li>(Tapp exchanged)</li>
+  <li>Player 1: “pass”</li>
+  <li>Player 2: “Trull”</li>
+  <li>Player 3: “pass”</li>
+  <li>Player 1: “contra on Trull”</li>
   <li>Player 2: “pass”</li>
-  <li>Player 3: “recontra”</li>
-  <li>END (Player 3 playes for quadruple stakes on the three.)</li>
-</ul>
-
-<h3 id="exchanging-cards">Exchanging Cards</h3>
-<p>Once the bid is won, in all games except “solo”, the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner’s trick points, while the untouched tapp cards belong to the opponents’ tricks. Note: you may discard cards you just picked up.</p>
-<ul>
-  <li>Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.</li>
-  <li>Tarot can only be discarded if you have no other suited cards to discard.</li>
-  <li>Cards are discarded face-up.</li>
+  <li>Player 3: “pass”</li>
+  <li>END (Player 3 wins the bid, player 2 announces a Trull, which is countered by player 1)</li>
 </ul>
 
 <h3 id="trick-taking">Trick Taking</h3>
@@ -513,11 +1145,11 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
 </table>
 
 <h4 id="pay-outs"><strong>Pay Outs</strong></h4>
-<p>If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid half.</p>
+<p>If the bidwinner wins the game or a bonus as announced, the other players pay her for the win according to the below tables, each paying half the pay out. If the announcer loses, they must pay each opponent half the value.</p>
 
-<p>Bonuses are also paid 50/50 by the other players.</p>
-
-<p>Tip: Use poker chips!</p>
+<blockquote>
+  <p>Tip: Use poker chips to make points more tangible!</p>
+</blockquote>
 
 <table>
   <thead>
@@ -556,34 +1188,40 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
     <tr>
       <th>Bonus</th>
       <th>Description</th>
-      <th>Pay Out</th>
+      <th>Pay Out (silent)</th>
+      <th>Pay Out (announced)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Pagat Ultimo</td>
-      <td>Win the Pagat (1) on the last trick</td>
+      <td>Win the Pagat (1) in the last trick</td>
       <td>20</td>
+      <td>40</td>
     </tr>
     <tr>
-      <td>Honneur</td>
-      <td>Win all three honneurs (Pagat (1), Mond (21), Sküs)</td>
+      <td>Trull</td>
+      <td>Win all three Trulls (Pagat (1), Mond (21), Sküs)</td>
       <td>20</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>Four Kings</td>
       <td>Win all four kings</td>
       <td>20</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>Absolut</td>
       <td>Win with 40-49 points</td>
       <td>20</td>
+      <td>40</td>
     </tr>
     <tr>
       <td>Grandpoint</td>
-      <td>Win with 50 points or more</td>
+      <td>Win with 50 or more points</td>
       <td>40</td>
+      <td>80</td>
     </tr>
   </tbody>
 </table>
@@ -1078,71 +1716,4 @@ If the deck was closed, the closing player must win (by reaching 66)!</li>
 
 <ul>
   <li><strong>Seven match points wins!</strong></li>
-</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><summary type="html"><![CDATA[Combine luck, strategy and weddings to reach 66 before your opponent!]]></summary></entry><entry><title type="html">Blitz: an Electrified Upgrade on Blackjack</title><link href="http://localhost:4000/blitz/" rel="alternate" type="text/html" title="Blitz: an Electrified Upgrade on Blackjack" /><published>2022-10-09T14:10:00+02:00</published><updated>2022-10-09T14:10:00+02:00</updated><id>http://localhost:4000/blitz</id><content type="html" xml:base="http://localhost:4000/blitz/"><![CDATA[<p>Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.</p>
-
-<p><img src="/assets/images/blitz.jpg" alt="" /></p>
-
-<p>Blitz is played with a 32-card deck, using only the sevens through aces.</p>
-<ul>
-  <li>For added fun, you can use a <a href="https://www.piatnik.com/spiele/spielkarten/regionale-karten/doppeldeutsche-blitz-36-blatt">German-face deck</a> as pictured above, but an ordinary pack of cards will work just as well.</li>
-  <li>The game is played best with 3-7 players.</li>
-  <li>It’s also known as 31 or Scat</li>
-</ul>
-
-<h2 id="setup">Setup</h2>
-<ul>
-  <li>At the start of the game, each player is given three lives (matchsticks, coins, etc.).</li>
-  <li>Each player is dealt three cards.
-    <ul>
-      <li>The dealer inspects her cards, and has the option to keep them or put them in the center and take three new cards.
-        <ul>
-          <li>If the dealer keeps her cards, three additional cards from the deck are placed in the center.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>The player to the left of the dealer is first to play.</li>
-</ul>
-
-<h2 id="gameplay">Gameplay</h2>
-<p>The aim of Blitz is to gather three cards of the same suit for the highest score.</p>
-<ul>
-  <li>Aces are worth 11, face cards 10, and all other cards are worth their number value.</li>
-  <li>Each turn, players may exchange <em>one or all cards, but not two</em>.</li>
-  <li>The round ends in one of three ways:
-    <ol>
-      <li>A player reaches 31 points</li>
-      <li>A player has three aces (blitz).</li>
-      <li>A player closes the round
-        <ul>
-          <li>Closing is denoted by knocking and is only possible after the first round.</li>
-          <li>If you choose to close, you may not exchange cards, and the game ends after every other player has one more chance to play.</li>
-        </ul>
-      </li>
-    </ol>
-  </li>
-</ul>
-
-<h2 id="end-of-game">End of Game</h2>
-<p>The player(s) with the lowest score loses one life. Once all a player’s lives are gone, she is “swimming” on one final life, after which she loses.</p>
-
-<h2 id="additional-important-rules">Additional Important Rules</h2>
-<ul>
-  <li>If a player gets three aces, the game is immediately over, and every other player loses one life.
-    <ul>
-      <li>“Blitz!”</li>
-    </ul>
-  </li>
-  <li>Three-of-a-kind is worth exactly 30.5 points.</li>
-  <li>You can always pass instead of exchanging cards or closing.</li>
-</ul>
-
-<h2 id="strategy-tips">Strategy Tips</h2>
-<ul>
-  <li>The earlier you can get a high score, the earlier you can “knock” to jump the gun on opponents that haven’t had time to collect points.</li>
-  <li>Make sure you don’t accidentally create a good hand in the bank by exchanging cards.
-    <ul>
-      <li>Remember, the next player can take all three cards!</li>
-    </ul>
-  </li>
-</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.]]></summary></entry></feed>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><summary type="html"><![CDATA[Combine luck, strategy and weddings to reach 66 before your opponent!]]></summary></entry></feed>

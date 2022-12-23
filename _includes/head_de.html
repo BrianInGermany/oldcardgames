@@ -1,0 +1,41 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+<!-- General Info -->
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="title" content="{{ page.title }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{site.url}}{{ page.url }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{site.url}}{{ page.url }}">
+<meta property="twitter:title" content="{{ page.title }}">
+<meta property="twitter:description" content="{{ page.description }}">
+<meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}">
+
+  <title>{{site.title}} | {{page.title}}</title>
+  {% if page.layout == "post_de" %}
+  <link rel="stylesheet" href="{{site.url}}/assets/css/main.css" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/post.css" />
+  <link rel="stylesheet" href="{{site.url}}/assets/css/syntax.css" />
+  {% else %}
+  <link rel="stylesheet" href="{{site.url}}/assets/css/main.css" />
+  {% endif %}
+  <link rel="stylesheet" href="{{site.url}}/assets/css/common.css" />
+  <script src="{{site.url}}/assets/js/categories.js"></script>
+  {% if page.layout == "post_de" %}
+  <script defer src="{{site.url}}/assets/js/lbox.js"></script>
+  {% endif %}
+</head>

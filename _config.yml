@@ -23,20 +23,19 @@ collections_dir: content
 collections:
   posts:
     output: true
-  posts_de:
-    output: true
+
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "_posts/de"
+    values:
+      layout: "post_de"
+      permalink: /de/:title/
+  - scope:
+      path: "_posts/en"
     values:
       layout: "post"
       permalink: /:title/
-  - scope:
-      path: "_posts_de"
-    values:
-      layout: "post"
-      permalink: /de/:title/
 
 
 

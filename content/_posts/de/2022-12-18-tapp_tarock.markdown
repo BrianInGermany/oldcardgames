@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: post_de
 title:  "Offenbacher Tapp: Tarock zu dritt"
 description: "Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock."
 date:   2022-12-18 11:39:00
 categories: ["dreispieler","tarock"]
 thumbnail: "/assets/images/tarock.jpg"
+lang: "de"
 ---
 Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock.
 
@@ -100,7 +101,7 @@ Nach dem Bieten, nach dem Austauschen der Tappkarten hat jeder Spieler die Mögl
 | Trull         | Gewinne alle drei Trullstücke (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
 | Vier Könige   | Gewinne alle vier Könige                                    | 20                 | 40                      |
 | Absolut       | Gewinne mit 40-49 Punkten                                   | 20                 | 40                      |
-| Grandpoint    | Gewinne mit 50 Punkten oder mehr                            | 40                 | 60                      |
+| Grandpoint    | Gewinne mit 50 Punkten oder mehr                            | 40                 | 80                      |
 
 #### __Kontern__
 Ist das Bieteverfahren und die Prämienansage abgeschlossen, haben die anderen Spieler die Möglichkeit zu kontern.
@@ -186,7 +187,7 @@ Verliert man ein angesagtes Spiel oder eine angesagte Prämie, zahlt man die Geg
 | Trull         | Gewinne alle drei Trullstücke (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
 | Vier Könige   | Gewinne alle vier Könige                                    | 20                 | 40                      |
 | Absolut       | Gewinne mit 40-49 Punkten                                   | 20                 | 40                      |
-| Grandpoint    | Gewinne mit 50 Punkten oder mehr                            | 40                 | 60                      |
+| Grandpoint    | Gewinne mit 50 Punkten oder mehr                            | 40                 | 80                      |
 
 ## Spielende
 Das Spiel ist zu Ende wenn der erste pleite geht. :)

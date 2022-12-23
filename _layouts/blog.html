@@ -6,6 +6,7 @@
       {% include header.html %} {% include bio.html %}
       <section id="articles">
       {% for post in site.posts %}
+      {% if post.lang != "de" %}
         <!--  -->
   
         <article class="article">
@@ -39,7 +40,7 @@
             </div>
           </div>
         </article>
-      
+        {% endif %}
       {% endfor %}
     </section>
       <!--  -->

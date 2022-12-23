@@ -93,7 +93,7 @@ After the bidding phase and the exchange of tapp cards, bonus can be announced, 
 | Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
 | Four Kings   | Win all four kings                                | 20                 | 40                      |
 | Absolut       | Win with 40-49 points                                  | 20                 | 40                      |
-| Grandpoint    | Win with 50 or more points                          | 40                 | 60                      |
+| Grandpoint    | Win with 50 or more points                          | 40                 | 80                      |
 
 #### __Countering__
 Once a bid is won and any bonuses announced, players have the option to counter, doubling the points to be won or lost for that game or bonus. This is done by saying "contra" or "I counter the three", for example. Game and bonus announcements can be countered individually.
@@ -178,7 +178,7 @@ If the bidwinner wins the game or a bonus as announced, the other players pay he
 | Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
 | Four Kings   | Win all four kings                                | 20                 | 40                      |
 | Absolut       | Win with 40-49 points                                  | 20                 | 40                      |
-| Grandpoint    | Win with 50 or more points                          | 40                 | 60                      |
+| Grandpoint    | Win with 50 or more points                          | 40                 | 80                      |
 
 ## End of Game
 The game is over when the first player goes broke. :)

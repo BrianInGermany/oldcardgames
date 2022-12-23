@@ -1,5 +1,5 @@
 # Tapp Tarock Cheat Sheet
-- Deal 8x2 cards per person and 3x2 to the tapp. 36 points to win. Counters double bid payout.
+- Deal 8x2 cards per person and 3x2 to the tapp. 36 points to win. Counters double the payout.
 - 35 points plus two remainder cards to win with tradtional scoring (counting in packs of three cards minus two points)
 - 36 points to win with simplified scoring (just add the points)
   
@@ -28,10 +28,10 @@
 
 - Cards not exchanged count as opponents' tricks. Exchanged cards count for yours.
 
-| Bonus        | Description                                        | Pay Out |
-| ------------ | -------------------------------------------------- | ----- |
-| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
-| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
-| Four Kings   | Win all four kings                                 | 20    |
-| Absolut      | Win with 40-49 points                    | 20    |
-| Grandpoint   | Win with 50 points or more                         | 40    |
+| Bonus        | Description                                               | Pay Out (silent) | Pay Out (announced)  |
+| ------------- | ----------------------------------------------------------- | ------------------ | ----------------------- |
+| Pagat Ultimo  | Win the Pagat (1) in the last trick                      | 20                 | 40                      |
+| Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
+| Four Kings   | Win all four kings                                | 20                 | 40                      |
+| Absolut       | Win with 40-49 points                                  | 20                 | 40                      |
+| Grandpoint    | Win with 50 or more points                          | 40                 | 80                      |
