@@ -1,7 +1,8 @@
-Situation,Match Points
-Called 66 or closed deck</br><ul><li>opponent has 33 or more</li></ul>,1
-Called 66 or closed deck</br><ul><li>opponent has less than 33</li></ul>,2
-Called 66 or closed deck</br><ul><li>opponent made no tricks</li></ul>,3
-Opponent erroneously called 66</br><ul><li>you made at least one trick</li></ul>,2
-Opponent erroneously called 66</br><ul><li>you have no tricks</li></ul>,3
-Neither player called 66 or closed deck (winner of final trick wins)</li></ul>,1
+
+| Bonus        | Description                                               | Pay Out (silent) | Pay Out (announced)  |
+| ------------- | ----------------------------------------------------------- | ------------------ | ----------------------- |
+| Pagat Ultimo  | Win the Pagat (1) in the last trick                      | 20                 | 40                      |
+| Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
+| Four Kings   | Win all four kings                                | 20                 | 40                      |
+| Absolut       | Win with 40-49 points                                  | 20                 | 40                      |
+| Grandpoint    | Win with 50 or more points                          | 40                 | 60                      |

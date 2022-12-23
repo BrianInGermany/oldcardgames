@@ -54,18 +54,6 @@ There are four bids that can be made, each subsequent level only possible after 
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
 
-#### __Bonus__
-In addition to the bids, there are bonuses, which can be won by any player and are also paid out by the other players 50/50.
-
-
-| Bonus        | Description                                        | Pay Out |
-| ------------ | -------------------------------------------------- | ----- |
-| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
-| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
-| Four Kings   | Win all four kings                                 | 20    |
-| Absolut      | Win with 40-49 points                         | 20  |
-| Grandpoint   | Win with 50 points or more                         | 40    |
-
 
 #### __Bidding Process__
 In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
@@ -90,33 +78,48 @@ Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid f
 - Player 1: "pass"
 - END (Player 2 wins the bid.)
 
-#### __Countering Examples__
-Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying "contra" or "I counter the three", for example.
+### Exchanging Cards
+Once the bidding phase is over, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you can discard cards you just picked up.
+- Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
+- Tarot can only be discarded if you have no other suited cards to discard.
+- Cards are discarded face-down, unless they are tarots.
+
+#### __Bonus__
+After the bidding phase and the exchange of tapp cards, bonus can be announced, which can be won by any player and are also paid out by the other players 50/50. Announced bonuses are worth more (and cost more) than unannounced (silent) bonuses.
+
+| Bonus        | Description                                               | Pay Out (silent) | Pay Out (announced)  |
+| ------------- | ----------------------------------------------------------- | ------------------ | ----------------------- |
+| Pagat Ultimo  | Win the Pagat (1) in the last trick                      | 20                 | 40                      |
+| Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
+| Four Kings   | Win all four kings                                | 20                 | 40                      |
+| Absolut       | Win with 40-49 points                                  | 20                 | 40                      |
+| Grandpoint    | Win with 50 or more points                          | 40                 | 60                      |
+
+#### __Countering__
+Once a bid is won and any bonuses announced, players have the option to counter, doubling the points to be won or lost for that game or bonus. This is done by saying "contra" or "I counter the three", for example. Game and bonus announcements can be countered individually.
   
-Player 3 bids, player 1 passes and later counters:
+Player 3 bids, player 1 counters:
 - Player 1: "pass"
 - Player 2: "pass"
 - Player 3: "three"
+- (Tapp exchanged, no bonus announcements)
 - Player 1: "contra"
 - Player 2: "pass"
 - Player 3: "pass"
 - END (Player 3 wins the bid with a counter, playing for double stakes.)
 
-In rare cases, the player may want to double down on the counter, showing she is even more sure of herself and securing even more potential points by saying "recontra":
-
+Player 3 bids, player 1 passes and later counters:
 - Player 1: "pass"
 - Player 2: "pass"
 - Player 3: "three"
-- Player 1: "contra on the three"
+- (Tapp exchanged)
+- Player 1: "pass"
+- Player 2: "Trull"
+- Player 3: "pass"
+- Player 1: "contra on Trull"
 - Player 2: "pass"
-- Player 3: "recontra"
-- END (Player 3 playes for quadruple stakes on the three.)
-  
-### Exchanging Cards
-Once the bid is won, in all games except "solo", the bidwinner can exchange cards from the tapp, and the tapp is flipped over for all to see. The bidwinner exchanges the specified number of cards, and the discarded cards count towards the bidwinner's trick points, while the untouched tapp cards belong to the opponents' tricks. Note: you may discard cards you just picked up.
-- Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
-- Tarot can only be discarded if you have no other suited cards to discard.
-- Cards are discarded face-up.
+- Player 3: "pass"
+- END (Player 3 wins the bid, player 2 announces a Trull, which is countered by player 1)
 
 ### Trick Taking
 The player who won the bid plays the first card. 
@@ -158,11 +161,9 @@ For example:
 
 
 #### __Pay Outs__
-If the bidwinner wins the game as promised, the other players pay her for the win according to the below table, each paying half the pay out. If the bidwinner loses, each opponent gets paid half. 
+If the bidwinner wins the game or a bonus as announced, the other players pay her for the win according to the below tables, each paying half the pay out. If the announcer loses, they must pay each opponent half the value.
 
-Bonuses are also paid 50/50 by the other players.
-
-Tip: Use poker chips!
+>Tip: Use poker chips to make points more tangible!
 
 | Bid   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
@@ -171,13 +172,13 @@ Tip: Use poker chips!
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
 
-| Bonus        | Description                                        | Pay Out |
-| ------------ | -------------------------------------------------- | ----- |
-| Pagat Ultimo | Win the Pagat (1) on the last trick                | 20    |
-| Honneur      | Win all three honneurs (Pagat (1), Mond (21), Sküs) | 20    |
-| Four Kings   | Win all four kings                                 | 20    |
-| Absolut      | Win with 40-49 points                         | 20    |
-| Grandpoint   | Win with 50 points or more                         | 40    |
+| Bonus        | Description                                               | Pay Out (silent) | Pay Out (announced)  |
+| ------------- | ----------------------------------------------------------- | ------------------ | ----------------------- |
+| Pagat Ultimo  | Win the Pagat (1) in the last trick                      | 20                 | 40                      |
+| Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 20                 | 40                      |
+| Four Kings   | Win all four kings                                | 20                 | 40                      |
+| Absolut       | Win with 40-49 points                                  | 20                 | 40                      |
+| Grandpoint    | Win with 50 or more points                          | 40                 | 60                      |
 
 ## End of Game
 The game is over when the first player goes broke. :)

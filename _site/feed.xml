@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-22T16:30:30+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry><title type="html">Straw Man Tarot: Not for Dummies!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for Dummies!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-23T08:35:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry><title type="html">Straw Man Tarot: Not for Dummies!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for Dummies!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
 
 <h2 id="the-cards">The Cards</h2>
 <p><img src="/assets/images/tarock.jpg" alt="" /></p>
@@ -131,6 +131,15 @@ Once a card has been revealed in every straw man, and the above process ended, t
 <p>If a player makes at least 35 points plus two cards (see point counting section below), she has won the round. If neither player reaches this amount, the game is a draw.</p>
 
 <p>Trick points are counted based on the scale and method described below.</p>
+
+<h4 id="following-suit-taking-the-trick"><strong>Following Suit, Taking the Trick</strong></h4>
+<p>You always are required to play the same suit as the first card if possible.</p>
+<ul>
+  <li>If you can’t play the same suit, you are required to play a tarot card.</li>
+  <li>Only if you can’t play a card of the same suit or a tarot may you discard a card of the wrong suit.</li>
+</ul>
+
+<p>The highest card of the same suit (or the highest tarot) takes the trick, and the winner of the trick plays the next card.</p>
 
 <h4 id="trick-points"><strong>Trick Points</strong></h4>
 <p>Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It’s actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you’ll end up with multiple high cards in a pack of three.</p>
@@ -368,23 +377,8 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
   <li>END (Player 2 wins the bid.)</li>
 </ul>
 
-<p>Same arrangement, but player 1 tries to announce a bonus:</p>
-<ul>
-  <li>Player 1: “three”</li>
-  <li>Player 2: “two”</li>
-  <li>Player 3: “pass”</li>
-  <li>Player 1: “I hold”</li>
-  <li>Player 2: “one”</li>
-  <li>Player 3: (SKIPPED)</li>
-  <li>Player 1: “pass”</li>
-  <li>END (Player 2 wins the bid.)</li>
-</ul>
-
 <h4 id="countering-examples"><strong>Countering Examples</strong></h4>
 <p>Once a bid is won, players have the option to counter the win, doubling the points to be won or lost in that round. This is done by saying “contra” or “I counter the three”, for example.</p>
-<ul>
-  <li>Both bids and bonus announcements can be countered.</li>
-</ul>
 
 <p>Player 3 bids, player 1 passes and later counters:</p>
 <ul>
@@ -418,7 +412,15 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
 </ul>
 
 <h3 id="trick-taking">Trick Taking</h3>
-<p>The player who won the bid plays the first card. The highest ranked card takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.</p>
+<p>The player who won the bid plays the first card.</p>
+
+<h4 id="following-suit-etc"><strong>Following Suit, etc.</strong></h4>
+<p>You always are required to play the same suit as the first card if possible.</p>
+<ul>
+  <li>If you can’t play the same suit, you are required to play a tarot card.</li>
+  <li>Only if you can’t play a card of the same suit or a tarot may you discard a card of the wrong suit.
+The highest card of the same suit (or the highest tarot) takes the trick, and the winner of the trick plays the next card. You need 36 points to win the game.</li>
+</ul>
 
 <h3 id="scoring">Scoring</h3>
 <p>At the end of each game, trick points are counted to determine who gets paid how much.</p>
