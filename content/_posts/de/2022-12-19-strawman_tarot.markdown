@@ -99,7 +99,7 @@ Die höchste Karte nach Stichwert (nicht nach Punktewert) gewinnt den Stich. Der
 ### Abrechnung
 Man gewinnt mit 35 Punkten und zwei weiteren Karten bzw. mit 36 Punkten.
 
-#### __Stiche zählen__
+#### __Punkte zählen__
 Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Punkte zu zählen: Karten werden in "Dreierlagen" gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).
 
 Beispiel:
