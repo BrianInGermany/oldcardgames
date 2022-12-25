@@ -1,9 +1,7 @@
 # Molotov Jass Cheat Sheet
 ## Setup
 With a 36 card deck (6-A), shuffle and divide the deck equally between each player, dealing out in groups of three cards.
-- With three players 4x3 each.
-- With four players 3x3 each.
-- With five players, remove the 6 of bells/diamonds and then deal 4+3 each.
+- With three players 4x3 each, with four players 3x3, with five players, remove the 6 of bells/diamonds and then deal 4+3 each, with six players 3x2 cards each.
 
 ## Trump
 At the beginning of the game, there is no trump. The first card that cannot follow suit becomes the trump suit. 
@@ -46,6 +44,7 @@ Think backwards: in molotov, you aim for the fewest points possible.
 
 - 3P: Lowest two write tallies, worst writes a "sack".
 - 4P: Lowest two write tallies, worst writes a sack, second worst writes nothing.
-- 5P: Lowest three write tallies, worst writes a sack, second worst writes nothing. 
+- 5P: Lowest three write tallies, worst writes a sack, second worst writes nothing.
+- 6P: Lowest three write tallies, worst two write a sack, middle player writes nothing. 
 - To get "out of the sack", write another tally (sacks are like minus points):
 - First to five wins. If players hit five simultaneously, the lowest score in that round wins overall.

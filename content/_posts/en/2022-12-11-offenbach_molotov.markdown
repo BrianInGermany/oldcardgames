@@ -15,6 +15,7 @@ With a 36 card deck (6-A), shuffle and divide the deck equally between each play
 - With three players 4x3 each.
 - With four players 3x3 each.
 - With five players, remove the 6 of bells/diamonds and then deal 4+3 each.
+- With six players, 3x2 each.
 
 ## Object of the Game
 The aim of the game is to score as low as possible by make as few and as cheap tricks as possible. And avoid being bombed with a molotov!
@@ -62,6 +63,7 @@ You are not required to make tricks, and can intentionally lose a trick, as long
 The two players with the lowest round score write one tally, the highest player writes a "sack".
 - If playing with four, one player gets neither a tally nor a sack.
 - If playing with five, the lowest three write tallies, the highest writes a sack and the middle one writes nothing.
+- If playing with six, the lowest three write tallies, the worst two write sacks and the middle player writes nothing.
 - To get "out of the sack", the player has to make another tally, crossing through the 0 with a line:
 
 ![](../../assets/images/sack_strich.jpg)
