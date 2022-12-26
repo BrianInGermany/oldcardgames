@@ -27,7 +27,7 @@ To remove a card, match it with another card that yields a sum of ten. Kings can
 
 > To make the game easier (though perhaps less aesthetic), leave the 8s, 9s and 10s in the deck and remove all three face cards.
 
-### Points Per Card
+### Card Values
 
 | Card | Value |
 | ---- | ----- |
