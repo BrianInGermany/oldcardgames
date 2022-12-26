@@ -3,7 +3,7 @@ layout: post
 title:  "Pyramid Solitaire: Ready Your Reflexes"
 description: "This simple solitaire from Italy can be played against the clock or with multiple players vying for the fastest win."
 date:   2022-12-26 18:15:00
-categories: ["solitaire"]
+categories: ["solitaire","easy"]
 thumbnail: "/assets/images/pyramid.jpg"
 ---
 This simple solitaire from Italy can be played against the clock or with multiple players vying for the fastest win.
