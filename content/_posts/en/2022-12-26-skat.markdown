@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skat: The Three-Player Classic"
+title:  "Skat: a Three-Player Classic"
 description: "The three-player trick-taker that's Unesco World Cultural Heritage"
 date:   2022-12-26 09:34:00
 categories: ["threeplayer"]
