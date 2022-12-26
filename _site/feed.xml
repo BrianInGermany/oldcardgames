@@ -1,44 +1,131 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-23T12:11:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry xml:lang="de"><title type="html">Strohmann-Tarock: Nichts für Dummys!</title><link href="http://localhost:4000/de/strawman_tarot/" rel="alternate" type="text/html" title="Strohmann-Tarock: Nichts für Dummys!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/de/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/de/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-26T23:26:45+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><entry><title type="html">Pyramid Solitaire: Ready Your Reflexes</title><link href="http://localhost:4000/pyramid_solitaire/" rel="alternate" type="text/html" title="Pyramid Solitaire: Ready Your Reflexes" /><published>2022-12-26T19:15:00+01:00</published><updated>2022-12-26T19:15:00+01:00</updated><id>http://localhost:4000/pyramid_solitaire</id><content type="html" xml:base="http://localhost:4000/pyramid_solitaire/"><![CDATA[<p>This simple solitaire from Italy can be played against the clock or with multiple players vying for the fastest win.</p>
 
-<h2 id="the-cards">The Cards</h2>
-<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+<p><img src="/assets/images/pyramid.jpg" alt="" /></p>
 
-<p>This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit “tarot”, which is a permanent trump suit. Fun fact: the origin of the word “trump” comes from the earlier designation of the tarots in Italian, “le trionfi”.</p>
+<h2 id="the-deck">The Deck</h2>
+<p>Pyramid Solitaire is played with a 40-card deck (A-7,J-K). You can remove the 8s,9s and 10s from a traditional 52-card deck, or use an Italian deck, which typically contains 40 cards with the same distribution.</p>
 
-<h3 id="regular-suits">Regular Suits</h3>
-<p>In contrast to a regular deck, there are <strong>four</strong> face cards: King, Queen, Knight and Jack.
-In further contrast to a regular deck, the kings are the highest cards by trick rank besides the tarots.</p>
+<h2 id="the-setup">The Setup</h2>
+<p>To begin a round of pyramid solitaire, create a pyramid of five rows of face-down cards, each new row overlapping the previous row by about half a card. Then add the final row of six cards face-up (see above picture). Each row has one more card than the previous, resulting in a pyramid.</p>
 
-<p>There is a difference between red and black suits, too: in hearts and diamonds, the trick rank after K-Q-Kn-J is A-2-3-4, and those are all the cards present in those suits.</p>
+<p>Place the remaining cards to the side of the pyramid. These are the drawpile, which you can cycle through in one direction as many times as necessary.</p>
 
-<p>In clubs and spades, the trick rank after the face cards is 10-9-8-7, and these again are the entirety of the cards in those suits.</p>
+<h2 id="gameplay">Gameplay</h2>
+<blockquote>
+  <p>Match pairs with a sum of ten.</p>
+</blockquote>
 
-<h3 id="tarot-cards">Tarot Cards</h3>
-<p>The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the “Sküs” (say “skyooz”, derived from French “excusez”– which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and are known as the “honneurs”.</p>
+<p>The object of pyramid solitaire is to disassemble the entire pyramid card by card, flipping over cards only when <strong>both</strong> the cards beneath it have been removed and it is completely uncovered.</p>
 
-<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+<p>To remove a card, match it with another card that yields a sum of ten. Kings can be removed without pairing, given they are worth ten.</p>
 
-<h2 id="setup">Setup</h2>
-<p>At the start of the game, fifteen cards are dealt face down in three packs of five to each player. These are your hand.</p>
-<ul>
-  <li>The remaining 24 cards are distributed face-down in front of each player, alternating dealing three packs of four. These cards are revealed little-by-little as the game proceeds and can be played just like cards from your hand once they’re flipped. This table hand is known as the straw man.</li>
-</ul>
+<blockquote>
+  <p>To make the game easier (though perhaps less aesthetic), leave the 8s,9s and 10s in the deck and remove all three face cards.</p>
+</blockquote>
 
-<p>If a player has no tarots in their hand after dealing (before flipping the straw man cards), she can request the game be redealt by the same player.</p>
-
-<p>After dealing, each player orders and checks their hand, and the player who didn’t deal decides whether she wants to claim the game, i.e. go for the win.</p>
-<ul>
-  <li>If both players pass, the game is still played, but it called a simple game (vs. a claimed game).</li>
-</ul>
-
-<h3 id="points">Points</h3>
-<p>Points in Straw Man Tarot are credits, and can be tracked on paper or with cents or poker chips. The game is played until the opponent runs out of credits, and a short round can be started with 100 credits each. Claimed games give you more credits for winning. If you win, you get paid, if you lose, you pay.</p>
+<h3 id="points-per-card">Points Per Card</h3>
 
 <table>
   <thead>
     <tr>
-      <th>Win Type</th>
-      <th>Opponent Pays You</th>
+      <th>Card</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>King</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Queen</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td>Jack</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="winning">Winning</h3>
+<p>Use you smartphone’s stopwatch function to measure how long you need from start to finish. But watch out– you won’t always win! Forgetting to flip cards and missing matches not only makes you slower but also increases the chance you won’t be able to reach the tip of the pyramid.</p>
+
+<p>A very good time is about 55 seconds, while a good average is somewhere around 90 seconds.</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="solitaire" /><summary type="html"><![CDATA[This simple solitaire from Italy can be played against the clock or with multiple players vying for the fastest win.]]></summary></entry><entry><title type="html">Skat: The Three-Player Classic</title><link href="http://localhost:4000/skat/" rel="alternate" type="text/html" title="Skat: The Three-Player Classic" /><published>2022-12-26T10:34:00+01:00</published><updated>2022-12-26T10:34:00+01:00</updated><id>http://localhost:4000/skat</id><content type="html" xml:base="http://localhost:4000/skat/"><![CDATA[<p>The three-player trick-taker that’s Unesco World Cultural Heritage.</p>
+
+<h2 id="under-construction">Under Construction</h2>
+<ul>
+  <li>See <a href="https://en.wikipedia.org/wiki/Skat_(card_game)">Wikipedia article on Skat</a> (with rules)
+<img src="/assets/images/skatbuben.jpg" alt="" /></li>
+</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="threeplayer" /><summary type="html"><![CDATA[The three-player trick-taker that's Unesco World Cultural Heritage]]></summary></entry><entry xml:lang="de"><title type="html">Strohmann-Tarock: Nichts für ‘Dummys’!</title><link href="http://localhost:4000/de/strawman_tarot/" rel="alternate" type="text/html" title="Strohmann-Tarock: Nichts für ‘Dummys’!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/de/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/de/strawman_tarot/"><![CDATA[<p>Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).</p>
+
+<h2 id="die-karten">Die Karten</h2>
+<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+
+<p>Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe “Tarock”, die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes “Trumpf” leitet sich von der frühen Bezeichnung der Tarocken auf Italienisch, “le trionfi”. Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.</p>
+
+<h3 id="die-farben">Die Farben</h3>
+<p>Im Gegensatz zu einem französischen Blatt oder deutschen Blatt gibt es beim Tarock <strong>vier</strong> Bildkarten: König, Dame, Kavall (Reiter), Bube.
+In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz auf der Stechskala der Farbkarten ein.</p>
+
+<p>Des Weiteren gibt es Unterschiede zwischen den roten und schwarzen Farben: Nach den Bildkarten Kö-D-Ka-B besteht die Stichrangfolge bei den schwarzen Karten aus 10-9-8-7. Bei den roten Karten is nach den Bildkarten das As die höchste Karte der Farbe (A-2-3-4). Es gibt also insgesamt acht Karten pro Farbe.</p>
+
+<h3 id="tarockkarten">Tarockkarten</h3>
+<p>Der Stichwert der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der “Sküs” (leitet sich vom französischen “excusez” ab– was man vielleicht sagt, wenn man allen Gegnern die Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 (“Mond”), und Tarock 1 (“Pagat”) bilden zusammen die “Trull” und sind jeder fünf Punkte wert in der Abrechnung.</p>
+
+<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+
+<h2 id="spielbeginn">Spielbeginn</h2>
+<p>Als Erstes werden fünfzehn Karten in drei fünfer Packen an jeden Spieler verteilt. Das sind die Handkarten bzw. das Blatt.</p>
+
+<ul>
+  <li>Die verbliebenen 24 Karten werden in drei vierer Packenauf verdeckt vor jeden Spieler auf den Tisch gelegt. Diese Karten werden im Laufe des Spiels peu à peu aufgedeckt und können, sobald aufgedeckt, wie Handkarten ausgespielt werden.</li>
+  <li>Diese drei vierer Packen werden als Strohmänner bezeichnet.</li>
+</ul>
+
+<p>Falls ein Spieler in seinen Handkarten keine Tarocken bekommt, wird neu ausgeteilt.</p>
+
+<p>Nach dem Austeilen prüft jeder Spieler seine Hand und die Vorhand (der Nicht-Geber) sagt, ob das Spiel “aufnehmen” möchte. Möchte er dies nicht wagen, kann der Geber das Spiel aufnehmen.</p>
+<ul>
+  <li>Wenn beide passen wird trotzdem gespielt, aber um ein “einfaches Spiel”. Das einfache Spiel bringt weniger Risiko und weniger Punkte.</li>
+</ul>
+
+<h3 id="punkte">Punkte</h3>
+<p>Die Punkte beim Strohmann-Tarock sind “wie Geld” und können auf Papier oder mit Pokerchips getrackt werden. “Wie Geld” soll heißen, jeder Gewinn ist eine Auszahlung durch den Gegner. Aufgenommene Spiele bringen mehr Risiko und mehr Gewinn. Auszahlungen bringen auch bestimmte Prämien, die weiter unten aufgeführt sind.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Gewinnart</th>
+      <th>Auszahlung</th>
     </tr>
   </thead>
   <tbody>
@@ -57,113 +144,127 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
   </tbody>
 </table>
 
-<h3 id="bonuses">Bonuses</h3>
-<p>Bonus points in Straw Man Tarot are awarded regardless of whether the player claimed the game, and are not announced beforehand.</p>
+<h3 id="prämien">Prämien</h3>
+<p>am Ende des Spiels kann jeder Spieler, Spielaufnehmer oder Gegner, Prämien gewinnen. Im Strohman-Tarock werden Prämien nicht angesagt.</p>
 
 <table>
   <thead>
     <tr>
-      <th>Bonus</th>
-      <th>Description</th>
-      <th>Opponent Pays You</th>
+      <th>Prämie</th>
+      <th>Beschreibung</th>
+      <th>Auszahlung</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Pagat Ultimo</td>
-      <td>Win the Pagat (1) on the last trick</td>
+      <td>Gewinne den Pagat (1) im letzten Stich</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>Honneur</td>
-      <td>Win all three honneurs (Pagat (1), Mond (21), Sküs)</td>
+      <td>Trull</td>
+      <td>Gewinne alle drei Trulls (Pagat (1), Mond (21), Sküs)</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>Four Kings</td>
-      <td>Win all four kings</td>
+      <td>Vier Könige</td>
+      <td>Gewinne alle vier Könige</td>
       <td>10</td>
     </tr>
     <tr>
       <td>Absolut</td>
-      <td>Win with 40 points or more</td>
+      <td>Gewinne mit 40-49 Punkte</td>
       <td>10</td>
     </tr>
     <tr>
       <td>Grandpoint</td>
-      <td>Win with 50 points or more</td>
+      <td>Gewinne mit 50 Punkten oder mehr</td>
       <td>20</td>
     </tr>
   </tbody>
 </table>
 
-<h3 id="example-scoring">Example Scoring</h3>
-<p>Player one claims the game and wins without any bonuses. Player two manages a Pagat Ultimo despite losing.</p>
+<h3 id="beispielsabrechnungen">Beispielsabrechnungen</h3>
+<p>Der Spielaufnehmer gewinnt ohne Prämien. Der Gegner schafft einen Pagat Ultimo trotz Verlust.</p>
 <ul>
-  <li>Player two owes player one 30 credits for the game,</li>
-  <li>and player one owes player two 10 credits for the Pagat Ultimo.</li>
+  <li>Der Gegner schuldet 30 für das Verlieren des Spiels.</li>
+  <li>Der Spielaufnehmer schuldet 10 für das Pagat Ultimo.</li>
 </ul>
 
-<p>No one claims the game, player two wins with 40 points (absolut) and collects all the honneurs.</p>
+<p>Niemand nimmt das Spiel auf und die Vorhand gewinnt mit 50 Punkten (grandpoint), sowie allen Trullstücken.</p>
 <ul>
-  <li>Player one owes player two 20 credits for the win,</li>
-  <li>another 10 for winning with 40 (absolut),</li>
-  <li>and 10 more for the honneurs.</li>
+  <li>Der Geber schuldet 20 fürs Verlieren,</li>
+  <li>weitere 20 für den grandpoint</li>
+  <li>sowie 10 oberdrauf für die Trull</li>
 </ul>
 
-<h2 id="flipping-the-straw-man-cards">Flipping the Straw Man Cards</h2>
-<p>After inspecting and ordering your hands, each player flips the leftmost card of each of the three four-card dummy packs in front of them.</p>
+<blockquote>
+  <p>Tipp: Nutze Poker-Chips, um Punkte fassbar zu machen.</p>
+</blockquote>
+
+<h2 id="spielablauf">Spielablauf</h2>
+<p>Nachdem feststeht, ob jemand das Spiel aufnimmt und jeder seine Karten geprüft und sortiert hat, dreht jeder die erste Karten von links in jedem seiner Strohmänner offen auf.</p>
 <ul>
-  <li>If the card is a tarot or king, she takes this card into her hand after showing it to the opponent.</li>
-  <li>If the card is a suited card (Heart/Diamond/Spade/Club) lower than a king, the card remains in the straw man on the table face-up and she can’t flip any more cards in this straw man. The player then proceeds to the next straw man and repeats the process.</li>
+  <li>Falls die Karte Tarock oder König ist, nimmt er diese Karten in seine Hand auf, nachdem der Gegner die Karte gesehen hat.</li>
+  <li>Falls die Karte eine Farbkarte niedriger als der König ist, bleibt die Karte offen auf dem Tisch und es dürfen in diesem Strohmann vorerst keine weiteren Karten aufgedeckt werden. Es wird dann mit dem zweiten und dritten Strohmann genauso verfahren.</li>
 </ul>
 
 <h2 id="gameplay">Gameplay</h2>
 <p><img src="/assets/images/dummytarot.jpg" alt="" /><br />
-Once a card has been revealed in every straw man, and the above process ended, the real game begins.</p>
+Nachdem in jedem Strohmann mindestens eine Karte aufgedeckt wurde, fängt man an.</p>
 
-<p>The non-dealer now chooses whether to claim the game. If she doesn’t claim, the dealer has the option to do so, and either way the non-dealer plays the first card.</p>
+<p>Aufdeckte Strohmann-Karten können alternativ zu den Handkarten ganz normal ausgespielt werden. Man kann sich aussuchen, von wo man eine Karte spielt.</p>
 
-<p>Face-up cards in the straw men can be played as if they were in the hand; the player can choose to play from hand or straw man (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).</p>
+<blockquote>
+  <p>Tipp: Es macht Sinn, die Strohmänner schnell zu verspielen.</p>
+</blockquote>
 
-<p>After each trick in which a card from the straw man is played, the next card of that straw man is flipped, and again, if it’s a tarot or king, it’s taken into the player’s hand after showing it.</p>
+<p>Nach jedem Stich, in dem eine Strohmannkarte gespielt wurde, wird die nächste Karte aus dem Strohmann aufdeckt nach dem selben Schema wie vorhin: Könige und Tarocke werden in die Hand aufgenommen, Andere Farbkarten stoppen den Prozess und bleiben liegen.</p>
 
-<p>If a player makes at least 35 points plus two cards (see point counting section below), she has won the round. If neither player reaches this amount, the game is a draw.</p>
+<p>Wenn ein Spieler nach allen Stichen 35 Punkte und zwei Leerkarten (nach traditioneller Abrechnung) oder 36 Punkte (nach vereinfachter Abrechnung) erreicht, hat er gewonnen.</p>
 
-<p>Trick points are counted based on the scale and method described below.</p>
+<p>Die Stich- und Punktewerte der Karten sind ganz unten tabellarisch abgebildet.</p>
 
-<h4 id="following-suit-taking-the-trick"><strong>Following Suit, Taking the Trick</strong></h4>
-<p>You always are required to play the same suit as the first card if possible.</p>
+<h3 id="stiche-gewinnen">Stiche gewinnen</h3>
+<p>Der Spielaufnehmer spielt aus. Die Karte mit dem höchsten Stichwert dreht den Stich und der Gewinner des Stichs spielt erneut aus.</p>
+
+<blockquote>
+  <p>Tipp: Ausspielen ist gut, denn man kann hiermit die Farbe bestimmen und versuchen, den Gegner seiner Tarocken zu berauben damit er später keine mehr hat.</p>
+</blockquote>
+
+<h4 id="farbzwang-und-tarockzwang"><strong>Farbzwang und Tarockzwang</strong></h4>
+<p>Es gilt Farbzwang, d.h. man ist verpflichtet, die Farbe der ersten ausgespielten Karte zu bedienen.</p>
 <ul>
-  <li>If you can’t play the same suit, you are required to play a tarot card.</li>
-  <li>Only if you can’t play a card of the same suit or a tarot may you discard a card of the wrong suit.</li>
+  <li>Wenn man Farbe nicht bedienen kann, muss man Tarock spielen (Tarockzwang)</li>
+  <li>Nur wenn man weder die ausgespielte Farbe noch Tarock hat darf man eine Nebenfarbe abwerfen.</li>
 </ul>
 
-<p>The highest card of the same suit (or the highest tarot) takes the trick, and the winner of the trick plays the next card.</p>
+<p>Die höchste Karte nach Stichwert (nicht nach Punktewert) gewinnt den Stich. Der Gewinner des Stichs spielt aus.</p>
 
-<h4 id="trick-points"><strong>Trick Points</strong></h4>
-<p>Tarock traditionally uses an unusual method of counting trick points. Group cards into packs of three, add the point values of each card, and then subtract two from the sum. It’s actually fairly easy to count this way, simply group two one-pointer cards like normal tarots or the numbered suits with one higher card, and you can just ignore the one-pointers. Sometimes you’ll end up with multiple high cards in a pack of three.</p>
+<h3 id="abrechnung">Abrechnung</h3>
+<p>Man gewinnt mit 35 Punkten und zwei weiteren Karten bzw. mit 36 Punkten.</p>
 
-<p>To win the game, you need at least 35 points and two remainder one-pointers. One-pointers are known as skartindels.</p>
+<h4 id="punkte-zählen"><strong>Punkte zählen</strong></h4>
+<p>Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Punkte zu zählen: Karten werden in “Dreierlagen” gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).</p>
 
-<p>For example:</p>
+<p>Beispiel:</p>
 
 <ul>
-  <li>Queen of Hearts / 5 of Hearts / Tarot 3 = (4 + 1 + 1) - 2 = 4</li>
-  <li>Jack of Spades / Tarot 14 / Tarot 18 = (2 + 1 + 1) - 2 = 2</li>
-  <li>King of Diamonds / Tarot 12 / Sküs = (5 + 1 + 5) - 2 = 9</li>
+  <li>Herz-Dame / Herz-5 / Tarock 3 = (4 + 1 + 1) - 2 = 4</li>
+  <li>Pik-Bube / Tarock 14 / Tarock 18 = (2 + 1 + 1) - 2 = 2</li>
+  <li>Karo-König / Tarock 12 / Sküs = (5 + 1 + 5) - 2 = 9</li>
 </ul>
 
 <blockquote>
-  <p>Tip: If you’re not a stickler for tradition you can use a simplified point system where you just add up the cards’ values normally. No need for counting in threes and subtracting two. This way you need 36 points to win the game.</p>
+  <p>Tipp: Wenn du es lieber einfach magst, nutze die vereinfachte Punkteskala unten. Es gibt dann 71 Punkte im Spiel. 36 braucht man aber trotzdem zum Gewinnen.</p>
 </blockquote>
 
 <table>
   <thead>
     <tr>
-      <th>Card by Trick Rank</th>
-      <th>Points (Traditional)</th>
-      <th>Points (Simplified)</th>
+      <th>Karte nach Stichwert</th>
+      <th>Punkte (traditionell)</th>
+      <th>Punkte (vereinfacht)</th>
     </tr>
   </thead>
   <tbody>
@@ -178,7 +279,7 @@ Once a card has been revealed in every straw man, and the above process ended, t
       <td>5</td>
     </tr>
     <tr>
-      <td>Other Tarots (2-20)</td>
+      <td>Andere Tarocken (2-20)</td>
       <td>1</td>
       <td>0</td>
     </tr>
@@ -188,22 +289,22 @@ Once a card has been revealed in every straw man, and the above process ended, t
       <td>5</td>
     </tr>
     <tr>
-      <td>King</td>
+      <td>König</td>
       <td>5</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>Queen</td>
+      <td>Dame</td>
       <td>4</td>
       <td>4</td>
     </tr>
     <tr>
-      <td>Knight</td>
+      <td>Kavall (Reiter)</td>
       <td>3</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>Jack</td>
+      <td>Bube</td>
       <td>2</td>
       <td>2</td>
     </tr>
@@ -230,10 +331,10 @@ Once a card has been revealed in every straw man, and the above process ended, t
   </tbody>
 </table>
 
-<h2 id="end-of-the-game">End of the Game</h2>
-<p>The game is over when you’ve run your opponent out of chips!</p>
+<h2 id="spielende">Spielende</h2>
+<p>Wenn ein Gegner bankrott ist, ist das Spiel vorbei.</p>
 
-<h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download="">Cheat Sheet PDF</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="zweispieler" /><category term="tarock" /><summary type="html"><![CDATA[Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).]]></summary></entry><entry><title type="html">Straw Man Tarot: Not for Dummies!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for Dummies!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
+<h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download="">Cheat Sheet PDF (EN)</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="zweispieler" /><category term="tarock" /><summary type="html"><![CDATA[Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).]]></summary></entry><entry><title type="html">Straw Man Tarot: Not for ‘Dummies’!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for ‘Dummies’!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
 
 <h2 id="the-cards">The Cards</h2>
 <p><img src="/assets/images/tarock.jpg" alt="" /></p>
@@ -321,7 +422,7 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
     </tr>
     <tr>
       <td>Absolut</td>
-      <td>Win with 40 points or more</td>
+      <td>Win with 40-49 points</td>
       <td>10</td>
     </tr>
     <tr>
@@ -339,15 +440,15 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
   <li>and player one owes player two 10 credits for the Pagat Ultimo.</li>
 </ul>
 
-<p>No one claims the game, player two wins with 40 points (absolut) and collects all the honneurs.</p>
+<p>No one claims the game, player two wins with 50 points (grandpoint) and collects all the honneurs.</p>
 <ul>
   <li>Player one owes player two 20 credits for the win,</li>
-  <li>another 10 for winning with 40 (absolut),</li>
+  <li>another 20 for winning with 50 (grandpoint),</li>
   <li>and 10 more for the honneurs.</li>
 </ul>
 
 <h2 id="flipping-the-straw-man-cards">Flipping the Straw Man Cards</h2>
-<p>After inspecting and ordering your hands, each player flips the leftmost card of each of the three four-card dummy packs in front of them.</p>
+<p>After deciding whether to claim the game, after inspecting and ordering your hands, each player flips the leftmost card of each straw man in front of them (the three four-card packs).</p>
 <ul>
   <li>If the card is a tarot or king, she takes this card into her hand after showing it to the opponent.</li>
   <li>If the card is a suited card (Heart/Diamond/Spade/Club) lower than a king, the card remains in the straw man on the table face-up and she can’t flip any more cards in this straw man. The player then proceeds to the next straw man and repeats the process.</li>
@@ -355,9 +456,7 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
 
 <h2 id="gameplay">Gameplay</h2>
 <p><img src="/assets/images/dummytarot.jpg" alt="" /><br />
-Once a card has been revealed in every straw man, and the above process ended, the real game begins.</p>
-
-<p>The non-dealer now chooses whether to claim the game. If she doesn’t claim, the dealer has the option to do so, and either way the non-dealer plays the first card.</p>
+Once at least one card has been revealed in every straw man, and the above process ended, the game begins.</p>
 
 <p>Face-up cards in the straw men can be played as if they were in the hand; the player can choose to play from hand or straw man (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).</p>
 
@@ -676,11 +775,20 @@ In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz 
 <h3 id="stiche-gewinnen">Stiche gewinnen</h3>
 <p>Der Spielaufnehmer spielt aus. Die Karte mit dem höchsten Stichwert dreht den Stich und der Gewinner des Stichs spielt erneut aus. Ausspielen ist gut, denn man kann hiermit die Farbe bestimmen und versuchen, den Gegner seiner Tarocken zu berauben damit er später keine mehr hat.</p>
 
+<h4 id="farbzwang-und-tarockzwang"><strong>Farbzwang und Tarockzwang</strong></h4>
+<p>Es gilt Farbzwang, d.h. man ist verpflichtet, die Farbe der ersten ausgespielten Karte zu bedienen.</p>
+<ul>
+  <li>Wenn man Farbe nicht bedienen kann, muss man Tarock spielen (Tarockzwang)</li>
+  <li>Nur wenn man weder die ausgespielte Farbe noch Tarock hat darf man eine Nebenfarbe abwerfen.</li>
+</ul>
+
+<p>Die höchste Karte nach Stichwert (nicht nach Punktewert) gewinnt den Stich. Der Gewinner des Stichs spielt aus.</p>
+
 <h3 id="abrechnung">Abrechnung</h3>
 <p>Man gewinnt mit 36 Punkten.</p>
 
 <h4 id="stiche-zählen"><strong>Stiche zählen</strong></h4>
-<p>Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Augen zu zählen: Karten werden in “Dreierlagen” gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).</p>
+<p>Im Tarock wird üblicherweise eine ungewöhnliche Methode verwendet, um Punkte zu zählen: Karten werden in “Dreierlagen” gezählt, heißt, eine Karte wird zu zwei anderen dazugelegt. Von jedem Dreierpack wird die Summe genommen und davon zwei Punkte abgezogen. Es wird einfacher, wenn man zu jeder wertigen Karte zwei Leerkarten legt (einser Karten).</p>
 
 <p>Beispiel:</p>
 
@@ -1241,6 +1349,7 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
   <li>With three players 4x3 each.</li>
   <li>With four players 3x3 each.</li>
   <li>With five players, remove the 6 of bells/diamonds and then deal 4+3 each.</li>
+  <li>With six players, 3x2 each.</li>
 </ul>
 
 <h2 id="object-of-the-game">Object of the Game</h2>
@@ -1251,26 +1360,162 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
 
 <h3 id="molotovs">Molotovs!</h3>
 <p>If a molotov appears on the table, the winner of the trick gets bombed another 20 or 50 points. A molotov is three or four cards <strong>of the same suit</strong> in sequence.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Molotov</th>
+      <th>Points</th>
+      <th>Description</th>
+      <th>Example</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Small</td>
+      <td>20</td>
+      <td>Three-in-a-row suited</td>
+      <td>7-8-9 suited</td>
+    </tr>
+    <tr>
+      <td>Large</td>
+      <td>50</td>
+      <td>Four-in-a-row suited</td>
+      <td>9-10-J/U-Q/O suited</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Cards by Trick Rank</th>
+      <th>Point Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trump Jack/Unter (“Bur”)</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Trump Nine (“Nell”)</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>Ace</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>King</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Queen/Ober</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Jack/Unter</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Ten</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Nine</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Eight</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Seven</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Six</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-Making the last trick-</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>SUM</td>
+      <td>157</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="making-tricks">Making Tricks</h2>
+<p>You win a trick by playing the highest card (by trick rank). If you win the trick, you start the next trick. As in other games, any trump card beats even the best card of another suit.</p>
+
+<h3 id="determining-trump">Determining Trump</h3>
+<p>The game begins without a trump and the first card played that can’t follow suit becomes the trump for the round. It applies retroactively, so if you already had a jack or nine whose suit is now trump, those become the bur/nell.</p>
+
+<h3 id="following-suit">Following Suit</h3>
+<p>When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. You can play trump even if you have that suit, but you don’t have to if you don’t have that suit (unless the played suit is trump). If you don’t have the suit played, you can play any card. If you have the suit played, but no trump, you must play the suit.</p>
 <ul>
-  <li>Small molotov = three in a row
+  <li>Exception: you don’t have to follow suit with the Bur (trump jack/unter, the game’s highest card). The nell, however, must follow suit.</li>
+</ul>
+
+<p>You are not required to make tricks, and can intentionally lose a trick, as long as you follow suit.</p>
+
+<h2 id="scorekeeping">Scorekeeping</h2>
+<p>The two players with the lowest round score write one tally, the highest player writes a “sack”.</p>
+<ul>
+  <li>If playing with four, one player gets neither a tally nor a sack.</li>
+  <li>If playing with five, the lowest three write tallies, the highest writes a sack and the middle one writes nothing.</li>
+  <li>If playing with six, the lowest three write tallies, the worst two write sacks and the middle player writes nothing.</li>
+  <li>To get “out of the sack”, the player has to make another tally, crossing through the 0 with a line:</li>
+</ul>
+
+<p><img src="../../assets/images/sack_strich.jpg" alt="" /></p>
+
+<h2 id="end-of-game">End of Game</h2>
+<ul>
+  <li>The round is over when all the cards have been played.</li>
+  <li>The game is over when one or more players reach five tallies. If several players reach five tallies simultaneosly, the lowest score of the final round decides the winner.</li>
+</ul>
+
+<h2 id="other-jass-resources">Other Jass Resources</h2>
+
+<ul>
+  <li><a href="https://jassa.at">jassa.at</a>: well-curated site of Jass rules and games (in German)</li>
+  <li><a href="https://www.jassen.at/">Book: Jassen in Vorarlberg</a>: extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)</li>
+</ul>
+
+<h2><a href="/assets/pdf/MolotovJassCheatSheet.pdf" download="">Cheat Sheet PDF</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="jass" /><summary type="html"><![CDATA[Get rid of high cards wisely and win with the lowest score in this fiesty Jass.]]></summary></entry><entry><title type="html">Lake Constance Jass</title><link href="http://localhost:4000/lake_constance_jass/" rel="alternate" type="text/html" title="Lake Constance Jass" /><published>2022-12-10T10:39:00+01:00</published><updated>2022-12-10T10:39:00+01:00</updated><id>http://localhost:4000/lake_constance_jass</id><content type="html" xml:base="http://localhost:4000/lake_constance_jass/"><![CDATA[<p>Win the bid to choose the trump, make tricks, but don’t fall in the sack!</p>
+
+<p><img src="../../assets/images/constancejass.jpg" alt="" /></p>
+
+<h2 id="setup">Setup</h2>
+<p>With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. Then deal cards face-up on top of them, again 2x3. These are your table cards.</p>
+
+<p>Deal another 2x3 cards per player for your hand.</p>
+
+<h2 id="object-of-the-game">Object of the Game</h2>
+<p>The aim of the game is to make tricks as fast as possible to either fulfill the bid, or keep the opponent from reaching it. Win five rounds and you are the victor.</p>
+
+<h2 id="bidding">Bidding</h2>
+<p>The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. You must bid in increments of five. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first.</p>
+<ul>
+  <li>This can be very decisive because the high bidder will attempt to choose the trump in which she has a “Bur” or “Nell” (see scoring below).</li>
+  <li>Variant rule: if you don’t want to choose a trump, you can play “Bock”, “Gais” or “Slalom” (without trumps, eights are worth eight points to compensate)
     <ul>
-      <li>20 points</li>
-    </ul>
-  </li>
-  <li>Large molotov = four in a row
-    <ul>
-      <li>50 points</li>
-      <li>Only possible with 4+ players</li>
-    </ul>
-  </li>
-  <li>Examples
-    <ul>
-      <li>6-7-8</li>
-      <li>J-Q-K</li>
-      <li>9-10-J-Q</li>
+      <li>Bock: aces highest trick rank, eights worth eight</li>
+      <li>Gais: sixes highest trick rank, eights worth eight</li>
+      <li>Slalom: alternate Bock and Gais every trick</li>
     </ul>
   </li>
 </ul>
+
+<h2 id="scoring">Scoring</h2>
+<p>When you win a trick, you add the cards’ point value to your score. The player that makes the final trick gets an additional five points.</p>
+
+<h3 id="normal-trump-game">Normal (Trump Game)</h3>
 
 <table>
   <thead>
@@ -1335,115 +1580,119 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
   </tbody>
 </table>
 
-<h2 id="making-tricks">Making Tricks</h2>
-<p>You win a trick by playing the highest card (by trick rank). If you win the trick, you start the next trick. As in other games, any trump card beats even the best card of another suit.</p>
-
-<h3 id="determining-trump">Determining Trump</h3>
-<p>The game begins without a trump and the first card played that can’t follow suit becomes the trump for the round. It applies retroactively, so if you already had a jack or nine whose suit is now trump, those become the bur/nell.</p>
-
-<h3 id="following-suit">Following Suit</h3>
-<p>When an opponent starts the trick and you have a card of that suit, you must follow suit or play a trump. You can play trump even if you have that suit, but you don’t have to if you don’t have that suit (unless the played suit is trump). If you don’t have the suit played, you can play any card. If you have the suit played, but no trump, you must play the suit.</p>
-<ul>
-  <li>Exception: you don’t have to follow suit with the Bur (trump Unter/Jack, the game’s highest card). The nell, however, must follow suit.</li>
-</ul>
-
-<p>You are not required to make tricks, and can intentionally lose a trick, as long as you follow suit.</p>
-
-<h2 id="scorekeeping">Scorekeeping</h2>
-<p>The two players with the lowest round score write one tally, the highest player writes a “sack”.</p>
-<ul>
-  <li>If playing with four, one player gets neither a tally nor a sack.</li>
-  <li>If playing with five, the lowest two write tallies, the highest two write sacks and the middle one writes nothing.</li>
-  <li>To get “out of the sack”, the player has to make another tally, crossing through the 0 with a line:</li>
-</ul>
-
-<p><img src="../../assets/images/sack_strich.jpg" alt="" /></p>
-
-<h2 id="end-of-game">End of Game</h2>
-<ul>
-  <li>The round is over when all the cards have been played.</li>
-  <li>The game is over when one or more players reach five tallies. If several players reach five tallies simultaneosly, the lowest score of the final round decides the winner.</li>
-</ul>
-
-<h2 id="other-jass-resources">Other Jass Resources</h2>
-
-<ul>
-  <li><a href="https://jassa.at">jassa.at</a>: well-curated site of Jass rules and games (in German)</li>
-  <li><a href="https://www.jassen.at/">Book: Jassen in Vorarlberg</a>: extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)</li>
-</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="jass" /><summary type="html"><![CDATA[Get rid of high cards wisely and win with the lowest score in this fiesty Jass.]]></summary></entry><entry><title type="html">Lake Constance Jass</title><link href="http://localhost:4000/lake_constance_jass/" rel="alternate" type="text/html" title="Lake Constance Jass" /><published>2022-12-10T10:39:00+01:00</published><updated>2022-12-10T10:39:00+01:00</updated><id>http://localhost:4000/lake_constance_jass</id><content type="html" xml:base="http://localhost:4000/lake_constance_jass/"><![CDATA[<p>Win the bid to choose the trump, make tricks, but don’t fall in the sack!</p>
-
-<p><img src="../../assets/images/constancejass.jpg" alt="" /></p>
-
-<h2 id="setup">Setup</h2>
-<p>With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. Then deal cards face-up on top of them, again 2x3. These are your table cards.</p>
-
-<p>Deal another 2x3 cards per player for your hand.</p>
-
-<h2 id="object-of-the-game">Object of the Game</h2>
-<p>The aim of the game is to make tricks as fast as possible to either fulfill the bid, or keep the opponent from reaching it. Win five rounds and you are the victor.</p>
-
-<h2 id="bidding">Bidding</h2>
-<p>The game starts by each player inspecting their hand and estimating how many points they will be able to make. There are 157 total points in the game, so it can make sense to start bidding around 60. You must bid in increments of five. The non-dealer begins the bidding and the winner of the bid chooses the trump and plays first.</p>
-<ul>
-  <li>This can be very decisive because the high bidder will attempt to choose the trump in which she has a “Bur” or “Nell” (see scoring below).</li>
-  <li>Variant rule: if you don’t want to choose a trump, you can play “Bock”, “Gais” or “Slalom” (without trumps, eights are worth eight points to compensate)
-    <ul>
-      <li>Bock: aces highest trick rank, eights worth eight</li>
-      <li>Gais: sixes highest trick rank, eights worth eight</li>
-      <li>Slalom: alternate Bock and Gais every trick</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="scoring">Scoring</h2>
-<p>When you win a trick, you add the cards’ point value to your score. The player that makes the final trick gets an additional five points.</p>
-
-<h3 id="normal-trump-game">Normal (Trump Game)</h3>
-<p>| Cards by Trick Rank      | Point Value |
-| ———————— | ———– |
-| Trump Unter/Jack (“Bur”) | 20          |
-| Trump Nine (“Nell”)      | 14          |
-| Ace                      | 11          |
-| King                     | 4           |
-| Ober/Queen               | 3           |
-| Unter/Jack               | 2           |
-| Ten                      | 10          |
-| Nine                     | 0           |
-| Eight                    | 0           |
-| Seven                    | 0           |
-| Six                      | 0           |
-| -Making the last trick-  | 5           |
-| SUM                      | 157         |</p>
-
 <h3 id="bock-top-down">Bock (Top-Down)</h3>
-<p>| Cards by Trick Rank      | Point Value |
-| ———————— | ———– |
-| Ace                      | 11          |
-| King                     | 4           |
-| Ober/Queen               | 3           |
-| Unter/Jack               | 2           |
-| Ten                      | 10          |
-| Nine                     | 0           |
-| Eight                    | 8           |
-| Seven                    | 0           |
-| Six                      | 0           |
-| -Making the last trick-  | 5           |
-| SUM                      | 157         |</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Cards by Trick Rank</th>
+      <th>Point Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ace</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>King</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Ober/Queen</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Unter/Jack</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Ten</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Nine</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Eight</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Seven</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Six</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>-Making the last trick-</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>SUM</td>
+      <td>157</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 id="gais-bottom-up">Gais (Bottom-Up)</h3>
-<p>| Cards by Trick Rank      | Point Value |
-| ———————— | ———– |
-| Six                      | 0           |
-| Seven                    | 0           |
-| Eight                    | 8           |
-| Nine                     | 0           |
-| Ten                      | 10          |
-| Unter/Jack               | 2           |
-| Ober/Queen               | 3           |
-| King                     | 4           |
-| Ace                      | 11          |
-| -Making the last trick-  | 5           |
-| SUM                      | 157         |</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Cards by Trick Rank</th>
+      <th>Point Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Six</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Seven</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Eight</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Nine</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>Ten</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Unter/Jack</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Ober/Queen</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>King</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Ace</td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>-Making the last trick-</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>SUM</td>
+      <td>157</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="making-tricks">Making Tricks</h2>
 <p>In Jass, you win a trick by playing the highest card (by trick rank). If you win the trick, you get to start the next trick. As in other games, any trump card can beat even the best card of another suit.</p>
@@ -1517,203 +1766,4 @@ It is suitable for any number of players.</p>
 <p>If you have cards in your hand, you can alternatively play a card from your hand. This makes it easier to recover from a big loss. :grin:</p>
 
 <h2 id="end-of-game">End of Game</h2>
-<p>The person with the most cards in their hand when the pigtail ends is the LOSER :thumbsdown:</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Turn over cards from the pigtail. Just not the same suit as your opponent!]]></summary></entry><entry><title type="html">Durak: Gang Up on Opponents and Don’t be the Dummy</title><link href="http://localhost:4000/durak/" rel="alternate" type="text/html" title="Durak: Gang Up on Opponents and Don’t be the Dummy" /><published>2022-10-12T17:39:00+02:00</published><updated>2022-10-12T17:39:00+02:00</updated><id>http://localhost:4000/durak</id><content type="html" xml:base="http://localhost:4000/durak/"><![CDATA[<p>Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.</p>
-
-<p><img src="/assets/images/durak.jpg" alt="" /></p>
-
-<p>Durak can be played with a standard 52-card deck or, for a faster version, with a 36-card (6-A) deck.</p>
-<ul>
-  <li>This fast-paced party game is popular in former Soviet countries and well-known in parts of central Europe.</li>
-  <li>The game is best with 4-8 players. If playing with more than six, use a 52-card deck.</li>
-</ul>
-
-<h2 id="setup">Setup</h2>
-<ul>
-  <li>At the start of the game, each player is dealt six cards.</li>
-  <li>An additional card is uncovered and placed under the deck perpendicularly. This is the trump for the round.</li>
-  <li>The game begins by the first player putting down a card, an attack on the player to their left.</li>
-</ul>
-
-<h2 id="object-of-the-game">Object of the Game</h2>
-<p>The aim of Durak is to shed all your cards as soon as possible. The last (wo-)man standing is the loser, and is called the Durak, or “dummy”!</p>
-
-<h2 id="attacking-and-defending">Attacking and Defending</h2>
-<p>If it’s your turn, it means you’re the first attacker, the person to your left is the defender, and the person on the other side of the defender is the second attacker.</p>
-<ul>
-  <li>The defender is always surrounded by two attackers! :smiling_imp: (until less than three players remain).</li>
-</ul>
-
-<h3 id="attacking">Attacking</h3>
-<p>To attack, lay down a card in front of the defender. If you have multiples of the same number, you may lay down as many of that same card down as you like. The defender has to produce a higher card of the same suit (or a trump) for each attacking card.</p>
-
-<p>Here’s where it gets interesting: 
-Any time after the first attack has hit the table, the other attacker can also attack with any cards of that same number. And as soon as the defender plays a card, that number, too, is now fair game for the attackers to play and double-down the offense!</p>
-
-<h3 id="defending">Defending</h3>
-<p>You don’t have to attempt a defense; sometimes its safer to just take the cards your attacked with and continue the game.</p>
-
-<p>If you succeed in fighting off each and every attack card your opponents play, you’ve succeeding in shedding some cards, and it’s now your turn to be the first attacker and shed some more.</p>
-
-<p>If you can’t defend, pick up all the cards on the table, and your turn is skipped. The player to your left continues.</p>
-
-<h4 id="special-defense">Special Defense</h4>
-<p>If you’re attacked with a number you have in your own hand, play it to push the attack off to the next player :sweat_smile:.</p>
-
-<h2 id="drawing-cards">Drawing Cards</h2>
-<p>After each failed or successful round of attacks, players draw back to six cards in the following order:</p>
-<ol>
-  <li>First Attacker</li>
-  <li>Second Attacker</li>
-  <li>Defender</li>
-</ol>
-
-<p>This order is important, because the deck will run out at some point, and the fewer cards you have, the less likely you are to become the Durak!</p>
-
-<h2 id="end-of-game">End of Game</h2>
-<p>The game continues until every player except one has shed all their cards. Give that dude a funny hat and call him a Durak! The Durak starts the next round.</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Gang up on (defenseless? ;) ) opponents in this souped-up version of War for 4-8 players.]]></summary></entry><entry><title type="html">66: A Classic German Two-Player</title><link href="http://localhost:4000/sixtysix/" rel="alternate" type="text/html" title="66: A Classic German Two-Player" /><published>2022-10-09T22:34:00+02:00</published><updated>2022-10-09T22:34:00+02:00</updated><id>http://localhost:4000/sixtysix</id><content type="html" xml:base="http://localhost:4000/sixtysix/"><![CDATA[<p>Combine luck, strategy and weddings to reach 66 before your opponent!</p>
-
-<p><img src="/assets/images/66.jpg" alt="" /></p>
-
-<p>66 is played with a 24-card deck, using only the nines through aces.</p>
-<ul>
-  <li>For added fun, you can use a <a href="https://www.piatnik.com/spiele/spielkarten/regionale-karten/blitz-salzburger">German-face deck</a> as pictured above, but an ordinary pack of cards will work just as well.</li>
-  <li>The game is played with two players.</li>
-  <li>A nearly identical Austrian variant played without the nines (Schnapsen), using only 20 cards.</li>
-</ul>
-
-<h2 id="setup">Setup</h2>
-<ul>
-  <li>At the start of the game, each player is dealt six cards (five if playing without nines).</li>
-  <li>An additional card is uncovered an placed under the deck perpendicularly. This is the trump suit.</li>
-  <li>The game begins by the first player putting down a card.</li>
-</ul>
-
-<h2 id="gameplay">Gameplay</h2>
-<p>The aim of 66 is to make tricks and weddings to accumulate 66 points before your opponent.</p>
-
-<h3 id="making-tricks">Making tricks</h3>
-<p>To make a trick, the opponent must play a higher card of the same suit or a trump card.</p>
-<ul>
-  <li>You are not required to follow suit or to make a trick
-    <ul>
-      <li>You have the option to play a card of the wrong suit or trump.</li>
-    </ul>
-  </li>
-  <li>The player who makes the trick plays the next card.</li>
-  <li>After each trick, each player draws another card (until the deck runs out). Once the deck runs out, you must follow suit and must make the trick if possible.</li>
-</ul>
-
-<h4 id="scoring-of-tricks">Scoring of Tricks</h4>
-
-<table>
-  <thead>
-    <tr>
-      <th>Card by Trick Rank</th>
-      <th>Points</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Ace</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>10</td>
-    </tr>
-    <tr>
-      <td>King</td>
-      <td>4</td>
-    </tr>
-    <tr>
-      <td>Queen/Ober</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Jack/Unter</td>
-      <td>2</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="weddings">Weddings</h3>
-
-<p>Weddings consist of a queen and king of the same suit.</p>
-<ul>
-  <li>You can make only announe a wedding if it’s your turn to begin the trick, and you have to play one of the two cards after announcing it.</li>
-</ul>
-
-<p>Weddings are worth the following points:</p>
-<ul>
-  <li>40 points for a wedding in trump</li>
-  <li>20 points for each non-trump wedding</li>
-</ul>
-
-<p>If you want to be fancy, you can say “mariage” with a French accent instead of “wedding” :smile:</p>
-
-<h3 id="closing-the-deck">Closing the deck</h3>
-<p>You can pressure your opponent by closing the deck (on your turn).</p>
-<ul>
-  <li>As soon as the deck is closed or runs out, players are <strong>required to make a trick or follow suit</strong> if possible.
-If the deck was closed, the closing player must win (by reaching 66)!</li>
-  <li>If they don’t, the opponent wins two match points.</li>
-</ul>
-
-<p>Once the deck has been closed, the defending player does not get points for any tricks or weddings they may make from that time until the end of the round.</p>
-
-<h3 id="stealing-the-trump">Stealing the trump</h3>
-<ul>
-  <li>If you have the lowest trump card, you can exchange or the trump under the deck when it’s your turn.</li>
-  <li>This can be very beneficial if that’s a good card (eventually, that card will be drawn othewise).</li>
-</ul>
-
-<h2 id="end-of-game">End of Game</h2>
-<ul>
-  <li>If you think you have reached 66 points, just say “66” or “enough!” when it’s your turn to end the round. But watch out– if you don’t actually have 66 your opponent will get extra points!
-    <ul>
-      <li>Even if both players actually have 66, the first one to call it wins.</li>
-    </ul>
-  </li>
-  <li>Otherwise the game ends when the deck runs out.</li>
-</ul>
-
-<h3 id="scoring">Scoring</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Situation</th>
-      <th>Match Points</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Called 66 or closed deck and opponent has 33 or more</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Neither player called 66 or closed deck (winner of final trick wins)</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Called 66 or closed deck and opponent has less than 33</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Opponent erroneously called 66 and you made at least one trick</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>Opponent erroneously called 66 and you have no tricks</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Called 66 or closed deck and opponent made no tricks</td>
-      <td>3</td>
-    </tr>
-  </tbody>
-</table>
-
-<ul>
-  <li><strong>Seven match points wins!</strong></li>
-</ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="twoplayer" /><summary type="html"><![CDATA[Combine luck, strategy and weddings to reach 66 before your opponent!]]></summary></entry></feed>
+<p>The person with the most cards in their hand when the pigtail ends is the LOSER :thumbsdown:</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@funcardgames.net</email></author><category term="manyplayer" /><category term="easy" /><summary type="html"><![CDATA[Turn over cards from the pigtail. Just not the same suit as your opponent!]]></summary></entry></feed>
