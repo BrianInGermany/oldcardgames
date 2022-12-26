@@ -25,7 +25,7 @@ The object of pyramid solitaire is to disassemble the entire pyramid card by car
 
 To remove a card, match it with another card that yields a sum of ten. Kings can be removed without pairing, given they are worth ten.
 
-> To make the game easier (though perhaps less aesthetic), leave the 8s,9s and 10s in the deck and remove all three face cards.
+> To make the game easier (though perhaps less aesthetic), leave the 8s, 9s and 10s in the deck and remove all three face cards.
 
 ### Points Per Card
 
