@@ -2,10 +2,12 @@
 layout: post
 title:  "Skat: The Three-Player Classic"
 description: "The three-player trick-taker that's Unesco World Cultural Heritage"
-date:   2022-12-27 09:34:00
+date:   2022-12-26 09:34:00
 categories: ["threeplayer"]
 thumbnail: "/assets/images/skatbuben.jpg"
 ---
+
+The three-player trick-taker that's Unesco World Cultural Heritage.
 
 ## Under Construction
 - See [Wikipedia article on Skat](https://en.wikipedia.org/wiki/Skat_(card_game)) (with rules)
