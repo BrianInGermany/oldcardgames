@@ -79,6 +79,5 @@ Once the deck has been closed, the defending player does not get points for any 
 | Opponent erroneously called 66 and you have no tricks     | 3            |
 | Called 66 or closed deck and opponent made no tricks          | 3            |
 
-
-
 - __Seven match points wins!__
+
