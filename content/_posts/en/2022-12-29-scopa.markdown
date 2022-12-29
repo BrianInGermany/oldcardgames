@@ -10,7 +10,7 @@ date:   2022-12-29 23:34:00
 
 categories: ["twoplayer","threeplayer","easy"]
 
-thumbnail: "/assets/images/skatbuben.jpg"
+thumbnail: "/assets/images/IMG_20221229_231229_411.jpg"
 
 ---
 
@@ -20,4 +20,4 @@ Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
 
 - See [Scopa rules on Pagat](
 
-![](/assets/images/scopafrench.jpg)
+![](/assets/images/IMG_20221229_231229_411.jpg)
