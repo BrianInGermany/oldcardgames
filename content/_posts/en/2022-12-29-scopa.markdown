@@ -8,7 +8,7 @@ description: "Sweep away table cards with this two- or four-player from Bella It
 
 date:   2022-12-29 21:34:00
 
-categories: ["twoplayer","fourplayer","easy"]
+categories: ["twoplayer","fourplayer"]
 
 thumbnail: "/assets/images/IMG_20221229_231229_411.jpg"
 
@@ -18,6 +18,6 @@ Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
 
 ## Under Construction
 
-- See [Scopa rules on Pagat](
+- See [Scopa rules on Pagat](https://www.pagat.com/fishing/scopa.html)
 
 ![](/assets/images/IMG_20221229_231229_411.jpg)
