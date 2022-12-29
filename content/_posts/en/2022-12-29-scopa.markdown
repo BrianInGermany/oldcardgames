@@ -8,7 +8,7 @@ description: "Sweep away table cards with this two- or four-player from Bella It
 
 date:   2022-12-29 23:34:00
 
-categories: ["twoplayer","threeplayer","easy"]
+categories: ["twoplayer","fourplayer","easy"]
 
 thumbnail: "/assets/images/IMG_20221229_231229_411.jpg"
 
