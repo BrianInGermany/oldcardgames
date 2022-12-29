@@ -1,0 +1,23 @@
+---
+
+layout: post
+
+title:  "Scopa! Easy to Learn, Hard to Master"
+
+description: "Sweep away table cards with this two- or four-player from Bella Italia."
+
+date:   2022-12-29 23:34:00
+
+categories: ["twoplayer","threeplayer","easy"]
+
+thumbnail: "/assets/images/skatbuben.jpg"
+
+---
+
+Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
+
+## Under Construction
+
+- See [Scopa rules on Pagat](
+
+![](/assets/images/scopafrench.jpg)
