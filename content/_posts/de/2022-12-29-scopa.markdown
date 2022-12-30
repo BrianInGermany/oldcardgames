@@ -21,7 +21,7 @@ Wenn drei oder mehr Könige in der Tischmitte landen, wir neugegeben.
 
 <figure>
   <img src="/assets/images/scopa.jpg" alt="scopa">
-  <figcaption>Scopa mit französischen Bild</figcaption>
+  <figcaption>Scopa mit französischem Bild</figcaption>
 </figure>
 
 ### Spielablauf
