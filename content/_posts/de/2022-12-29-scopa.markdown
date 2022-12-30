@@ -35,7 +35,7 @@ Ziel des Spieles ist, soviele Karten aus der Tischmitte wie möglich mit einer e
 Man darf nur eine Karte ausspielen und wenn mit einer Karte sowohl eine Karte des gleichen Werts as auch mehrere Karten verschiedenen Werts gematcht werden könnten, muss zuerst die gleiche Karte genommen werden.
 - Z.B. Wenn auf dem Tisch König, 4 und 6 liegen und man einen König ausspielen möchte, muss man zuerst den König matchen und darf erst wenn er weg is die 4 und 6 zusammen stechen (falls es noch geht).
 
-> Sehr wichtig: Wer den Tisch freifegt muss mit italienischem Akzent lauthals "Scopa!" rufen :)
+> Sehr wichtig: Wer den Tisch freifegt muss mit Gusto die Karten auf den Tisch hauen und mit italienischem Akzent lauthals "Scopa!" rufen :)
 
 #### __Kartenwerte__
 

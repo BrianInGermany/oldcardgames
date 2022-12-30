@@ -34,7 +34,7 @@ The aim of the game is to capture as many cards from the table as possible by ma
 You may only capture with one card at a time, and if a single-card and multi-card capture are possible, you must first capture the single card
 - e.g. if king, 4, 6 are on the table, and you want to play a king from your hand, you must first match the king from the table).
 
-> Very important: whenever you sweep the table clean, cry "Scopa!" with an Italian accent. :)
+> Very important: whenever you sweep the table clean, slam your hand on the cards and cry "Scopa!" with an Italian accent. :)
 
 #### __Card Values__
 
