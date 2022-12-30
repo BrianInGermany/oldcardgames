@@ -64,7 +64,7 @@ Hier eine detaillierte Beschreibung der Möglichkeiten zum Punkten:
 
 | Punkt                    | Beschreibung                                                                        |
 | ------------------------- | ----------------------------------------------------------------------------------- |
-| Scopa                     | 1 Punkt für jedes "Freifegen" des Tisches |
+| Scopa                     | 1 Punkt für jedes "Freifegen" des Tisches (außer bei den allerletzten Karten) |
 | Mehrheit der Karten        | 1 Punkt für die meisten gematchten Karten.                                              |
 | Mehrheit der Karos/Münzen | 1 Punkt für die meisten gematchten Karos/Münzen                                  |
 | Sette Bello               | 1 Punkt für die Karo 7 / Münzen 7                             |
