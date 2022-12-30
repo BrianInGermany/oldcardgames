@@ -57,7 +57,7 @@ Scopa wird bis 11 Punkte gespielt, ob als Einzelspieler oder im Vierpersonenspie
 
 Die primäre Methode, um im Scopa Punkte zu sammeln ist den Tisch durch das Matchen von Karten "freizufegen" (Scopa is italienisch für "Besen").
 
-Am Ende der Runde gewinnt der Spieler oder die Mannschaft mit den meisten Karten, mit den meisten Karos, mit der Karo 7, und mit den meisten 7 zusätzlich je einen Punkt.
+Am Ende der Runde gewinnt der Spieler oder die Mannschaft mit den meisten Karten, mit den meisten Karos, mit der Karo 7, und mit den meisten 7, zusätzlich je einen Punkt.
 - Die Regel mit den meisten 7 ist eine vereinfachte Regelvariante.
 
 Hier eine detaillierte Beschreibung der Möglichkeiten zum Punkten:
