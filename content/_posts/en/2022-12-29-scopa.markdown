@@ -34,8 +34,6 @@ The aim of the game is to capture as many cards from the table as possible by ma
 You may only capture with one card at a time, and if a single-card and multi-card capture are possible, you must first capture the single card
 - e.g. if king, 4, 6 are on the table, and you want to play a king from your hand, you must first match the king from the table).
 
-> Very important: whenever you sweep the table clean, slam your hand on the cards and cry "Scopa!" with an Italian accent. :)
-
 #### __Card Values__
 
 | Card | Matching Value |
@@ -55,6 +53,8 @@ You may only capture with one card at a time, and if a single-card and multi-car
 Scopa is a game played to 11 points, either by an individual player in 1x1, or by a team in 2x2 Scopa.
 
 The primary way to make points is to "sweep" the table clean (Scopa is Italian for "broom") by your capture.
+
+> Very important: whenever you sweep the table clean, slam your hand on the cards and cry "Scopa!" with an Italian accent. :)
 
 At the end of the round, you or your team also makes points for the majority of cards captured, majority of diamonds, having the 7 of diamonds and having the most 7s.
 - The rule with the 7s is a simplified variant of the traditional rules
