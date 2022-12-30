@@ -12,6 +12,11 @@ Fege die Tischkarten weg mit diesem Klassiker aus Bella Italia.
 ## Vorbereitung
 Scopa ist ein klassisches italienischies Kartenspiel mit einem Deck aus 40 Karten mit den Werten 1-7 für die einfachen Karten und 8-10 für die Bildkarten. Typischerweise wird es mit einem regionalen Deck aus Italien gespielt, bei dem i.d.R. die Farben Münzen, Keulen, Kelche und Schwerter verwendet werden. Allerdings geht das Spiel mit einem normalen französischen Deck auch super vonstatten. Dazu einfach die 8er-10er rausnehmen.
 
+<figure>
+  <img src="/assets/images/neapolitane.jpg" alt="scopa">
+  <figcaption>Das neapolitanische Bild</figcaption>
+</figure>
+
 ### Das Geben
 Wenn man mit zwei Personen spielt, bekommt jeder zunächst drei Karten ausgeteilt, und vier werden aufgedeckt in die Tischmitte gegeben.
 

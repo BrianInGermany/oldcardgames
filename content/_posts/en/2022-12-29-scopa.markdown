@@ -11,6 +11,10 @@ Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
 ## The Setup
 Scopa is an Italian classic played with a 40-card deck from A-7 plus three face cards worth 8, 9 and 10 points from jack to king. In Italy, regional cards are typically used with varying imagery, most adhering to the so-called Latin suits of swords, coins, sticks and cups (incidentally the same suits as many Tarot cards). Nonetheless, a regular pack of cards minus the 8s, 9s and 10s will work just fine.
 
+<figure>
+  <img src="/assets/images/neapolitane.jpg" alt="scopa">
+  <figcaption>A Neapolitan Deck</figcaption>
+</figure>
 
 ### The Deal
 If playing with two players, deal each person three cards face-down and then four cards face-up to the table.
