@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Scopa! Leicht zu spielen, schwer zu meistern"
+description: "Fege die Tischkarten weg mit diesem Klassiker aus Bella Italia."
+date:   2022-12-29 21:34:00
+categories: ["zweispieler","vierspieler"]
+thumbnail: "/assets/images/scopa.jpg"
+lang: "de"
+---
+Fege die Tischkarten weg mit diesem Klassiker aus Bella Italia.
+
+## Vorbereitung
+Scopa ist ein klassisches italienischies Kartenspiel mit einem Deck aus 40 Karten mit den Werten 1-7 für die einfachen Karten und 8-10 für die Bildkarten. Typischerweise wird es mit einem regionalen Deck aus Italien gespielt, bei dem i.d.R. die Farben Münzen, Keulen, Kelche und Schwerter verwendet werden. Allerdings geht das Spiel mit einem normalen französischen Deck auch super vonstatten.
+
+### Das Geben
+Wenn man mit zwei Personen spielt, bekommt jeder zunächst drei Karten ausgeteilt, und vier werden aufgedeckt in die Tischmitte gegeben.
+
+Wenn man mit vier spielt, werden jedem erstmal drei, dann zwei in die Tischmitte, dann jedem noch drei, dann noch zwei in die Tischmitte und zum Schluss jedem Spieler weitere drei Karten ausgeteilt, sodass jeder neun Karten hat und vier in der Tischmitte liegen.
+
+Wenn drei oder mehr Könige in der Tischmitte landen, wir neugegeben.
+
+<figure>
+  <img src="/assets/images/scopa.jpg" alt="scopa">
+  <figcaption>Scopa mit französischen Bild</figcaption>
+</figure>
+
+### Spielablauf
+Ziel des Spieles ist, soviele Karten aus der Tischmitte wie möglich mit einer einzigen Handkarte zu matchen. Zum Beispiel: Liegen 2 und 3 auf dem Tisch, kann man mit einer 5 beide matchen.
+
+Man darf nur eine Karte ausspielen und wenn mit einer Karte sowohl eine Karte des gleichen Werts as auch mehrere Karten verschiedenen Werts gematcht werden könnten, muss zuerst die gleiche Karte genommen werden.
+- Z.B. Wenn auf dem Tisch König, 4 und 6 liegen und man einen König ausspielen möchte, muss man zuerst den König matchen und darf erst wenn er weg is die 4 und 6 zusammen stechen (falls es noch geht).
+
+#### __Kartenwerte__
+
+| Karte | Match-Wert |
+| ---- | ----- |
+| K    | 10    |
+| D   | 9     |
+| B    | 8     |
+| 7    | 7     |
+| 6    | 6     |
+| 5    | 5     |
+| 4    | 4     |
+| 3    | 3     |
+| 2    | 2     |
+| A    | 1     |
+
+### Punkte sammeln
+Scopa wird bis 11 Punkte gespielt, ob als Einzelspieler oder im Vierpersonenspiel als Zweierteam.
+
+Die primäre Methode, um im Scopa Punkte zu sammeln ist den Tisch durch das Matchen von Karten "freizufegen" (Scopa is italienisch für "Besen").
+
+Am Ende der Runde gewinnt der Spieler oder die Mannschaft mit den meisten Karten, mit den meisten Karos, mit der Karo 7, und mit den meisten 7 zusätzlich je einen Punkt.
+- Die Regel mit den meisten 7 ist eine vereinfachte Regelvariante.
+
+Hier eine detaillierte Beschreibung der Möglichkeiten zum Punkten:
+
+| Punkt                    | Beschreibung                                                                        |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| Scopa                     | 1 Punkt für jedes "Freifegen" des Tisches |
+| Mehrheit der Karten        | 1 Punkt für die meisten gematchten Karten.                                              |
+| Mehrheit der Karos/Münzen | 1 Punkt für die meisten gematchten Karos/Münzen                                  |
+| Sette Bello               | 1 Punkt für die Karo 7 / Münzen 7                             |
+| Primiera                  | 1 Punkt für die meisten 7, bei Gleichstand für die meisten 6, bei Gleichstand für die meisten Asse                 |
+

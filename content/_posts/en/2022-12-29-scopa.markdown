@@ -1,23 +1,63 @@
 ---
-
 layout: post
-
 title:  "Scopa! Easy to Learn, Hard to Master"
-
 description: "Sweep away table cards with this two- or four-player from Bella Italia."
-
 date:   2022-12-29 21:34:00
-
 categories: ["twoplayer","fourplayer"]
-
-thumbnail: "/assets/images/IMG_20221229_231229_411.jpg"
-
+thumbnail: "/assets/images/scopa.jpg"
 ---
-
 Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
 
-## Under Construction
+## The Setup
+Scopa is an Italian classic played with a 40-card deck from A-7 plus three face cards worth 8, 9 and 10 points from jack to king. In Italy, regional cards are typically used with varying imagery, most adhering to the so-called Latin suits of swords, coins, sticks and cups (incidentally the same suits as many Tarot cards). Nonetheless, a regular pack of cards minus the 8s, 9s and 10s will work just fine.
 
-- See [Scopa rules on Pagat](https://www.pagat.com/fishing/scopa.html)
 
-![](/assets/images/IMG_20221229_231229_411.jpg)
+### The Deal
+If playing with two players, deal each person three cards face-down and then four cards face-up to the table.
+
+If playing with four players, deal each person three cards, then two to the table, then three more each, two more to the table and finally three more to each player. Each player should have nine cards and four should be face-up on the table.
+
+If three or more kings land on the table in the initial deal, the cards are redealt.
+
+<figure>
+  <img src="/assets/images/scopa.jpg" alt="scopa">
+  <figcaption>Scopa with a regular deck</figcaption>
+</figure>
+
+### Gameplay
+The aim of the game is to capture as many cards from the table as possible by matching their sum with a single card from your hand. For example, if a 2 and a 3 are on the table, you could capture both with a 5. 
+
+You may only capture with one card at a time, and if a single-card and multi-card capture are possible, you must first capture the single card
+- e.g. if king, 4, 6 are on the table, and you want to play a king from your hand, you must first match the king from the table).
+
+#### __Card Values__
+
+| Card | Matching Value |
+| ---- | ----- |
+| K    | 10    |
+| Q    | 9     |
+| J    | 8     |
+| 7    | 7     |
+| 6    | 6     |
+| 5    | 5     |
+| 4    | 4     |
+| 3    | 3     |
+| 2    | 2     |
+| A    | 1     |
+
+### Making Points
+Scopa is a game played to 11 points, either by an individual player in 1x1, or by a team in 2x2 Scopa.
+
+The primary way to make points is to "sweep" the table clean (Scopa is Italian for "broom") by your capture.
+
+At the end of the round, you or your team also makes points for the majority of cards captured, majority of diamonds, having the 7 of diamonds and having the most 7s.
+- The rule with the 7s is a simplified variant of the traditional rules
+
+| Point                     | Description                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| Scopa                     | 1 point for each time you "sweep" the table clean (doen't apply to the final play). |
+| Majority of Cards         | 1 point if you capture the most cards.                                              |
+| Majority of Coins/Diamond | 1 point if you capture the most coins/diamonds.                                     |
+| Sette Bello               | 1 point if you captured the seven of coins/diamonds.                                |
+| Primiera                  | 1 point if you have the most 7s. If tie: most 6s. If tie: most aces                 |
+
