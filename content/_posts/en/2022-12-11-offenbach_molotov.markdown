@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Offenbach Molotov: Do Your Worst!"
+title:  "Molotov Jass: Do Your Worst!"
 description: "Get rid of high cards wisely and win with the lowest score in this fiesty Jass."
 date:   2022-12-11 09:45:00
 categories: ["manyplayer","jass"]
