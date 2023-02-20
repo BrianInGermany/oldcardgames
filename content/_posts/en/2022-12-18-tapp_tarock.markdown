@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Offenbach Tapp: Tarot for Three"
+title:  "Tapp Tarock: Tarot for Three"
 description: "Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant."
 date:   2022-12-18 11:39:00
 categories: ["threeplayer","tarot"]
 thumbnail: "/assets/images/tarock.jpg"
 ---
-Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant.
+Win the bid, and trump your way to victory with this three-person Tarock.
 
-Not just for fortune telling! Offenbach Tapp is a fun trick-taking game with the added fascination of the fifth suit, tarot.
+Not just for fortune telling! Tapp Tarock is a fun trick-taking game with the added fascination of the fifth suit, tarot.
 
 ## The Cards
 ![](/assets/images/tarock.jpg)  

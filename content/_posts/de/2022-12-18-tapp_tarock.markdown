@@ -1,6 +1,6 @@
 ---
 layout: post_de
-title:  "Offenbacher Tapp: Tarock zu dritt"
+title:  "Tapp Tarock: Tarock zu dritt"
 description: "Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock."
 date:   2022-12-18 11:39:00
 categories: ["dreispieler","tarock"]
@@ -9,7 +9,7 @@ lang: "de"
 ---
 Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock.
 
-Ob dein Glück in den Karten steht? Offenbacher Tapp ist eine einfach zu erlernende Variante des geselligen Dreipersonenspiels Tapp-Tarock (auch bekannt als Wiener Tappen).
+Ob dein Glück in den Karten steht? Tapp Tarock ist eine einfach zu erlernende Variante des geselligen Dreipersonenspiels Tapp-Tarock (auch bekannt als Wiener Tappen).
 
 ## Die Karten
 ![](/assets/images/tarock.jpg)  
