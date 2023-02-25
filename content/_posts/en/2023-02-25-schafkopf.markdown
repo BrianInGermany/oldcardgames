@@ -1,0 +1,206 @@
+---
+layout: post
+title:  "Schafkopf"
+description: "Partner up and call an ace, or prevail three-to-one in this strategic trick-taker!"
+date:   2023-02-25 11:39:00
+categories: ["fourplayer"]
+thumbnail: "/assets/images/schafkopf.jpg"
+---
+Partner up and call an ace, or prevail three-to-one in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" is actually a reference to the flat top of the beer barrels this game was once frequently played on.
+
+![](../../assets/images/schafkopf.jpg)
+
+## Setup
+Schafkopf is typically played with a 36-card German-face (Bavarian or Franconian) deck, from which the sixes have been removed.
+
+After shuffling, the player to the right of the dealer must cut the deck, after which eight cards are dealt to each player, either in two packs of four, or four packs of two.
+
+The game is dealt and played clockwise.
+
+## Object of the Game
+The aim of the game is, as a player, to take 61 points, or, as a defender, to take at least 60 points (of 120 total).
+
+Tricks are made by playing the highest ranked card, and you must follow suit.
+
+After dealing, players bid for the right to choose the game, starting with the player left of the dealer (the *forehand*).
+
+Schafkopf has three game options:
+1. Ace game
+2. Wenz 
+3. Solo
+
+### Ace Game
+The most frequent game in Schafkopf and statistically the easiest is the *ace game*, in which the player calls an ace she doesn't hold, but in whose suit she holds at least one card.
+
+The aces that can be called are:
+- ace of acorns
+- ace of leaves
+- ace of bells
+
+The ace of hearts can't be called, because in ace games it is one of the trump cards. There are 14 trumps in an ace game, ranked as follows:
+
+| Cards by Trick Rank      | Point Value |
+| ------------------------ | ----------- |
+| Ober of Acorns                  | 3           |
+| Ober of Leaves                 | 3           |
+| Ober of Hearts                 | 3           |
+| Ober of Bells                  | 3           |
+| Unter of Acorns                  | 2           |
+| Unter of Leaves                  | 2           |
+| Unter of Hearts                   | 2           |
+| Unter of Bells                   | 2           |
+| Ace of Hearts                   | 11          |
+| Ten of Hearts                  | 10          |
+| King of Hearts                    | 4           |
+| Nine of Hearts                     | 0           |
+| Eight of Hearts                   | 0           |
+| Seven of Hearts                 | 0           |
+| Ace of other suit             | 11          |
+| Ten of other suit             | 10           |
+| Nine of other suit                    | 0           |
+| Eight of other suit                   | 0           |
+| Seven of other suit                 | 0           |
+| SUM                      | 120         |
+
+#### Gameplay 
+In an ace game, the defender team will try to *search* for the called ace as soon as possible by playing a card of that suit. Knowing who has that ace will ensure you don't accidentally give away points to the wrong person. If someone searches for the called ace, you are required to play it if you have it, even if it will be lost. You also are not allowed to *butter* the called ace, meaning toss it into your partner's trick when you couldn't follow suit.
+
+As the offense team (the players), you hopefully chose to play because you have a lot of trumps, so it's your aim to play these again and again to *pull trumps* from the opponents. Once the opponents are trumpless, it's much easier to make tricks, even with low cards (because you have to follow suit).
+
+### Wenz
+Wenz is a game with only the four unders as trumps. It can be a good game to play if you have lots of aces, but few potential trumps and equally distributed suits. Wenz and solo are the two games you play alone, one against three--but you still need to take home 61 points!
+
+| Cards by Trick Rank      | Point Value |
+| ------------------------ | ----------- |
+| Unter of Acorns                  | 2           |
+| Unter of Leaves                  | 2           |
+| Unter of Hearts                   | 2           |
+| Unter of Bells                   | 2           |
+| Ace           | 11          |
+| Ten            | 10           |
+| Ober           | 3          |
+| Nine                  | 0           |
+| Eight                 | 0           |
+| Seven               | 0           |
+| SUM                      | 120         |
+
+#### Gameplay
+In a wenz, it's very important which unters you have and whose turn it is to be forehand, or the person to play the first card.
+
+Even if you have only one or two unters, if you play the first card you can sometimes pull all the opponents' unters in a single attempt. Whenever you don't play first, it's best you dont have any high scoring cards like a ten without also holding the respective ace-- otherwise these high-scorers may fall prey to opponents' aces.
+
+### Solo
+A solo is a one-on-three game in which the *player* gets to choose the trump suit. Solos have 14 trumps, just like ace games:
+
+| Cards by Trick Rank      | Point Value |
+| ------------------------ | ----------- |
+| Ober of Acorns                  | 3           |
+| Ober of Leaves                 | 3           |
+| Ober of Hearts                | 3           |
+| Ober of Bells                  | 3           |
+| Unter of Acorns                  | 2           |
+| Unter of Leaves                  | 2           |
+| Unter of Hearts                  | 2           |
+| Unter of Bells                   | 2           |
+| Ace of Trump                   | 11          |
+| Ten of Trump                  | 10          |
+| King of Trump                    | 4           |
+| Nine of Trump                     | 0           |
+| Eight of Trump                   | 0           |
+| Seven of Trump                 | 0           |
+| Ace of other suit             | 11          |
+| Ten of other suit             | 10           |
+| Nine of other suit                    | 0           |
+| Eight of other suit                   | 0           |
+| Seven of other suit                 | 0           |
+| SUM                      | 120         |
+
+#### Gameplay
+
+In a solo, it's beneficial to have as few non-trump suits as possible, especially if you are not the first to play. If an opponent plays an ace of a non-trump you also have in your hand, you are not able to take it with a trump, because you have to follow suit. In this case your opponents may butter in high value cards for their team to take home.
+
+## How to Determine the Game: Bidding
+The forehand (player left of dealer) is the first person to bid, and she indicates her willingness to take a game by saying "I would play" (regardless of the game she has in mind).
+
+The next player then can either bid a higher game (ace game < wenz < solo), or say "pass".
+If the next player passes, the remaining players also have the chance to bid a game or pass. If a player wants to outbid, they must say what they would play (ace game/wenz/solo), and then the original bidder has a chance to outbid (if not already the maximum, solo) or to rescind their bid and let the higher bidder play. If everyone passes, a negative game called *Ramsch* or *junk* is played, each man for himself trying to make the __least__ number of points possible.
+
+### Examples:
+A: I would play
+B: pass
+C: pass
+D: I would also play, a wenz
+A: ok, it's yours.
+Result: Player D plays a wenz
+
+A: pass
+B: I would play
+C: pass
+D: pass
+Result: Player B plays whatever she chooses.
+
+A: I would play
+B: I would also play, a wenz
+C: pass
+D: pass
+A: I have a solo
+Result: Player A plays a solo
+
+A: pass
+B: pass
+C: pass
+D: pass
+Result: Everyone plays "junk" for the least points possible.
+
+
+## Scoring
+The ways of scoring Schafkopf vary from round to round and group to group.
+Nonetheless, there are a few constant elements.
+
+### Ace Game, Wenz, Solo 
+Three-on-one games (wenz and solo) are worth the same score, and ace games are worth a lesser score. A typical approach to scoring is to assign ace games the value 20 and wenz and solo 50.
+
+This means that if the solo/wenz player wins, each other "pays" them 50 points:
+
+| Brian | Hans | Christian | Jürgen |
+| ----- | ---- | --------- | ------ |
+| 150    | -50   | -50        | -50     |
+
+if the solo/wenz player loses, the opposite happens:
+
+| Brian | Hans | Christian | Jürgen |
+| ----- | ---- | --------- | ------ |
+| -150    | +50   | +50        | +50     |
+
+In an ace game, both members of the offense win or lose together:
+
+| Brian | Hans | Christian | Jürgen |
+| ----- | ---- | --------- | ------ |
+| 20    | -20   | 20        | -20    |
+
+
+### Schneider, Schwarz
+#### Schneider
+If the playing party scores 61 or the defending scores 60, they have won the game.
+
+If they did a really good job, they may have won "schneider" meaning with a huge point majority. For this, the playing party must score 91 or the defending party 90. 
+
+Winning "schneider" makes the game worth another ten points:
+
+| Brian | Hans | Christian | Jürgen |
+| ----- | ---- | --------- | ------ |
+| 30    | -30   | 30        | -30    |
+
+#### Schwarz
+If either party wins __every single trick__, it's called winning "schwarz" or *black*.
+This makes the game worth yet another 10 points. Thus, an ace game won *black* would be scored as such:
+
+| Brian | Hans | Christian | Jürgen |
+| ----- | ---- | --------- | ------ |
+| 40    | -40   | 40        | -40    |
+
+## End of Game
+Before starting, it is typically agreed to play a "list" of a given number of games which is a multiple of four (to give everyone an equal number of times as *forehand*).
+
+At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the won with the most points, and the loser buys the next round :D
+
