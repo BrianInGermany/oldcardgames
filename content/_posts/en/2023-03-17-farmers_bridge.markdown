@@ -60,14 +60,14 @@ On a piece of paper, each bid is written in a column under the player's name.
 
 If they hit their target, this earns them 10 points plus the number they bid.
 E.G. 
-- I bid 3 and take 3 tricks: I get 13 points. 
-- I bid 0 and take 0 tricks: I get 10 points
+- Bid 3 and take 3 tricks: get 13 points. 
+- Bid 0 and take 0 tricks: get 10 points
 
 If you miss your target, you get the difference in negative!
 E.G.
-- I bid 3 and take 2 tricks: I get -1 points.
-- I bid 5 and take 2 tricks: I get -3 points.
-- I bid 1 and take 4 tricks: I get -3 points.
+- Bid 3 and take 2 tricks: get -1 points.
+- Bid 5 and take 2 tricks: get -3 points.
+- Bid 1 and take 4 tricks: get -3 points.
 
 Here is an example of a short round with three people:
   
