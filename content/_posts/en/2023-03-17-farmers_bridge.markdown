@@ -4,11 +4,11 @@ title:  "Farmers' Bridge"
 description: "How many tricks will you make? Judge wisely, but watch out-- sixes are high!"
 date:   2023-03-17 13:15:00
 categories: ["manyplayer", "easy"]
-thumbnail: "/assets/images/offenbachJass.jpg"
+thumbnail: "/assets/images/britsch.jpg"
 ---
 How many tricks will you make? Judge wisely, but watch out-- sixes are high! This game is known in Bavaria as "Baure'-Britsch".
 
-![](/assets/images/offenbachJass.jpg)
+![](/assets/images/britsch.jpg)
 
 ## Background
 Farmers' Bridge is played with a 36-card deck (6-A), and the aim of the game is to estimate exactly how many tricks you will make with the hand you've been dealt. 
@@ -50,6 +50,8 @@ Sixes are the highest cards in the game and *count as trumps* (not as their nomi
 Note that you are required to follow trump with a six just like any other trump.
 
 ## Starting the Round: Bidding
+![](/assets/images/britschhand.jpg)
+
 Before each round, on the count of three, each player shows on one or two hands how many tricks they will take. This must be simultaneous to be fair.
 
 ## Scoring
