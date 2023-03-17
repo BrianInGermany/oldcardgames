@@ -39,7 +39,7 @@ And there's more!
 In farmers' bridge you must follow suit if you can. If you cannot, you *must* play a trump (any trump).
 Thus there is:
 - *Farbzwang* (requirement to following suit), 
-- *Trumpfzwang* (requirement to play a trump if you can't follow suit), 
+- *Trumpfzwang* (requirement to play a trump if you can't follow suit),  
 but no:
 - *Stechzwang* (requirement to use a higher card and try to take the trick).
 
