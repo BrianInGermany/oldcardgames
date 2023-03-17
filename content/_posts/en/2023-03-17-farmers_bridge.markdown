@@ -74,5 +74,5 @@ Here is an example of a short round with three people:
 | 2 |  12   |-2 |10 |
 | 3 |  11   |12 |-1 |
 | 4 |  -1   |14 |-2 |
-| 5 |  15   |10 |-5 |
+| 5 |  15   |10 |-5 |  
 ...
