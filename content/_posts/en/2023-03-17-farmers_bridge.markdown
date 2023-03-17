@@ -41,7 +41,7 @@ Thus there is:
 - *Farbzwang* (requirement to following suit), 
 - *Trumpfzwang* (requirement to play a trump if you can't follow suit),  
   
-but no:
+but not:
 - *Stechzwang* (requirement to use a higher card and try to take the trick).
 
 ### Sixes
