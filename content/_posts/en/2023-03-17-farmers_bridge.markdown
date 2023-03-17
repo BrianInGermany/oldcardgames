@@ -33,7 +33,7 @@ After dealing each player a hand, the next card from the stack is turned over an
 
 ### Only sixes
 And there's more! 
-- If a six is turned over, instead of a particular suit, only the four sixes are trumps for that round (the first six played takes the trick).
+- If a six is turned over instead of a particular suit, only the four sixes are trumps for that round (the first six played takes the trick).
 
 ## Following suit
 In farmers' bridge you must follow suit if you can. If you cannot, you *must* play a trump (any trump).
