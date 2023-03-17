@@ -67,7 +67,7 @@ E.G.
 - I bid 1 and take 4 tricks: I get -3 points.
 
 Here is an example of a short round with three people:
-
+  
 | Hand Size | Jim | Eva | Brian |
 | ---- | ----- | ----- | ---- |
 | 1  | 10   | -1 | -1 |
@@ -75,4 +75,5 @@ Here is an example of a short round with three people:
 | 3 |  11   | 12 | -1 |
 | 4 |  -1   | 14 | -2 |
 | 5 |  15   | 10 | -5 |  
+
 ...
