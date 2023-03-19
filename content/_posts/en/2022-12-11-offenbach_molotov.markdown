@@ -59,6 +59,8 @@ When an opponent starts the trick and you have a card of that suit, you must fol
 
 You are not required to make tricks, and can intentionally lose a trick, as long as you follow suit.  
 
+Note: unlike other Jass games, undertrumping is allowed in Molotiov (if you don't understand this, it doesn't matter :) )
+
 ## Scorekeeping
 The two players with the lowest round score write one tally, the highest player writes a "sack".
 - If playing with four, one player gets neither a tally nor a sack.
