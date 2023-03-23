@@ -138,7 +138,7 @@ For example:
 
 
 #### __Pay Outs__
-If the bidwinner wins the game or if any player wins a bonus, the other players pay her according to the below tables, each paying the amount to the winner. If a bid game is lost or an announced bonus missed, that player must pay each other player the payout. Sometimes a player is paid for a win at the same time as she has to pay a bonus to another player. Every row of your scoring table should sum up to 0, giving scoring is absolute.
+If the bidwinner wins the game or if any player wins a bonus, the other players pay her according to the below tables, each paying the amount to the winner. If a bid game is lost or an announced bonus missed, that player must pay each other player the payout. Sometimes a player is paid for a win at the same time as she has to pay a bonus to another player. Every row of your scoring table should sum up to 0, given scoring is absolute.
 
 Pay Out Examples
 
