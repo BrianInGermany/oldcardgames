@@ -81,7 +81,8 @@ Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid f
 - END (Player 2 wins the bid.)
 
 ### Exchanging Cards
-Once the bidding phase is over, in all games except "solo", the whole tapp is flipped over for all to see, and the bidwinner can exchange cards. The bidwinner exchanges the specified number of cards, and the exchanged cards/the rest of that card pack counts towards his trick points, while the untouched tapp packs belong to the opponents' tricks. Note: you may discard cards you just picked up.
+Once the bidding phase is over, in all games except "solo", the whole tapp is flipped over for all to see, and the bidwinner can exchange cards. The bidwinner exchanges the specified number of cards, and the exchanged cards/the rest of that card pack counts towards his trick points, while the untouched tapp packs belong to the opponents' tricks. If you play a solo, opponents get the whole tapp.  
+- NB: you may discard cards you just picked up.
 - NB: Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - NB: Tarot can only be discarded if you have no other suited cards to discard.
 - NB: Hand cards are exchanged face-down, unless they are tarots.
