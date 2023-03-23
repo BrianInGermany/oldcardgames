@@ -46,10 +46,10 @@ There are four bids that can be made, each subsequent level only possible after 
 
 | Bids in Ascending Order   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
-| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 20      |
-| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 40      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 60      |
-| Solo  | Bidwinner has to play without any cards from the tapp.                           | 100      |
+| Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 10      |
+| Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 40      |
+| Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
 
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
