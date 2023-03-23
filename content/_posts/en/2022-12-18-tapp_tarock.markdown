@@ -39,7 +39,7 @@ The goal of Tapp Tarock is to make points by beating your two opponents alone or
 
 Bidding determines who gets to be the single opponent. Beginning with the player to the right of the dealer (game is played counter-clockwise), players look at their cards and judge whether they want to attempt to win the game alone by collecting the majority of possible card points. There are 70 points in the deck, so to win, you need 36. In most cases, if you win the bid, you get to improve your hand with cards from the tapp.
 
-### Bidding, Bonuses and Countering
+### Bidding and Bonuses
 
 #### __Bid Levels__
 There are four bids that can be made, each subsequent level only possible after one player has bid the previous. 
