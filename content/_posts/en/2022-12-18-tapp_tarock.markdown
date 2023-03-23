@@ -149,7 +149,7 @@ Pay Out Examples
 | Player 1 pays others for a lost "three"                                  | -20      | 10       | 10        |
 | Player 1 is paid for a "three". Player two is paid for a "pagat ultimo". | 10       | 10       | -20       |
 
-Bid and Bonus Values
+Bid Values
 
 | Bid   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
@@ -157,6 +157,8 @@ Bid and Bonus Values
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 30      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
+
+Bonus Values
 
 | Bonus        | Description                                               | Pay Out (silent) | Pay Out (announced)  |
 | ------------- | ----------------------------------------------------------- | ------------------ | ----------------------- |
