@@ -85,7 +85,7 @@ Once the bidding phase is over, in all games except "solo", the whole tapp is fl
 - NB: you may discard cards you just picked up.
 - NB: Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - NB: Tarot can only be discarded if you have no other suited cards to discard.
-- NB: Hand cards are exchanged face-down, unless they are tarots.
+- NB: Hand cards are exchanged face-down, unless they are tarots (discarded tarots must be shown to opponents).
 
 #### __Bonus__
 After the bidding phase and the exchange of tapp cards, bonus can be announced, which can be won by any player and are also paid out by the other players if successful or by the announcer if failed. Announced bonuses are worth more (and cost more) than unannounced (silent) bonuses.
