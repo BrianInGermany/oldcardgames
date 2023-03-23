@@ -48,7 +48,7 @@ There are four bids that can be made, each subsequent level only possible after 
 | ----- | ----------------------------------------------------------------------------- | ------ |
 | Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 10      |
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
-| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 40      |
+| One   | Bidwinner gets to choose one of the cards from the tapp.                         | 30      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
 
 
