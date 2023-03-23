@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tapp Tarock: Tarot for Three"
+title:  "Tapp Tarock: A Simple Tarot for Three"
 description: "Win the bid, and trump your way to victory with this credit-based three-player."
 date:   2022-12-18 11:39:00
 categories: ["threeplayer","tarot"]
