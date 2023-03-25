@@ -50,7 +50,7 @@ There are four bids that can be made, each subsequent must be higher than the pr
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 30      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
-| Bridscher  | Player with most points loses.                           | 10      |
+| Bridscher  | Player with most points loses.                           | 10 (doubled for each virgin)      |
 
 In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp, and the exchanged cards count toward his points (in bridscher no cards are exchanged either).
 
@@ -58,6 +58,7 @@ In all the bids except the "solo", the winning bidder has the chance to improve 
 In the bidding, players can pass or bid, but once they pass, they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
 
 If all players pass, a "bridscher" is played, in which the player with the most points loses.
+- NB: For each person who ends the bridger without any tricks ("virgin"), the payout is doubled.
 
 ### Exchanging Cards
 Once the bidding phase is over, in all games except "solo" and "bridscher", the whole tapp is flipped over for all to see, and the bidwinner can exchange cards. The bidwinner exchanges the specified number of cards, and the exchanged cards/the rest of that card pack counts towards his trick points, while the untouched tapp packs belong to the opponents' tricks. If you play a solo, opponents get the whole tapp.  
@@ -137,7 +138,7 @@ Bid/Game Values
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 30      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
-| Bridscher  | Everyone tries to get the least points possible.                           | 10      |
+| Bridscher  | Everyone tries to get the least points possible.                           | 10 (doubled for each virgin)   |
 
 
 Bonus Values
