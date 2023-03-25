@@ -42,7 +42,7 @@ Bidding determines who gets to be the single opponent. Beginning with the player
 ### Bidding and Bonuses
 
 #### __Bid Levels__
-There are four bids that can be made, each subsequent level only possible after one player has bid the previous. 
+There are four bids that can be made, each subsequent must be higher than the previous. If no one bids, a "bridscher" is played.
 
 | Bids in Ascending Order   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
@@ -50,38 +50,17 @@ There are four bids that can be made, each subsequent level only possible after 
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 30      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
+| Bridscher  | Player with most points loses.                           | 10      |
 
-
-In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp. 
-
+In all the bids except the "solo", the winning bidder has the chance to improve their hand by exchanging with cards from the tapp, and the exchanged cards count toward his points (in bridscher no cards are exchanged either).
 
 #### __Bidding Process__
-In the bidding, players can pass or bid, but once they pass they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
+In the bidding, players can pass or bid, but once they pass, they are excluded from the rest of the bidding. The first bid is always "three", and goes up the scale to "two", "one", and "solo".
 
-If a player is outbid, they have the right to take over the higher bid by saying "I hold", but can still be outbid again.
-
-#### __Bidding Examples__
-
-Player 2 bids, is outbid, and then takes over the higher bid. Player 3 decides to outbid and player 2 gives it to him by passing:
-- Player 1: "pass"
-- Player 2: "three"
-- Player 3: "two"
-- Player 1: (SKIPPED)
-- Player 2: "I hold (the two)"
-- Player 3: "one"
-- Player 1: (SKIPPED)
-- Player 2: "pass"
-- END (Player 3 wins the bid.)
-
-Player 1 bids, player 2 outbids, player 3 passes and players 1 and 2 don't bid further:
-- Player 1: "three"
-- Player 2: "two"
-- Player 3: "pass"
-- Player 1: "pass"
-- END (Player 2 wins the bid.)
+If all players pass, a "bridscher" is played, in which the player with the most points loses.
 
 ### Exchanging Cards
-Once the bidding phase is over, in all games except "solo", the whole tapp is flipped over for all to see, and the bidwinner can exchange cards. The bidwinner exchanges the specified number of cards, and the exchanged cards/the rest of that card pack counts towards his trick points, while the untouched tapp packs belong to the opponents' tricks. If you play a solo, opponents get the whole tapp.  
+Once the bidding phase is over, in all games except "solo" and "bridscher", the whole tapp is flipped over for all to see, and the bidwinner can exchange cards. The bidwinner exchanges the specified number of cards, and the exchanged cards/the rest of that card pack counts towards his trick points, while the untouched tapp packs belong to the opponents' tricks. If you play a solo, opponents get the whole tapp.  
 - NB: you may discard cards you just picked up.
 - NB: Kings and Sküs, Mond (21) and Pagat (1) may not be discarded, because they are worth five points each, and would immediately land in your tricks, giving you an unfair advantage.
 - NB: Tarot can only be discarded if you have no other suited cards to discard.
@@ -95,8 +74,9 @@ After the bidding phase and the exchange of tapp cards, bonus can be announced, 
 | Pagat Ultimo  | Win the Pagat (1) in the last trick                      | 10                 | 20                      |
 | Trull         | Win all three Trulls (Pagat (1), Mond (21), Sküs)  | 10                 | 20                      |
 | Four Kings   | Win all four kings                                | 10                 | 20                      |
-| Absolut       | Win with 40-49 points                                  | 10                 | 20                      |
-| Grandpointe    | Win with 50 or more points                          | 20                 | 40                      |
+| With 40       | Win with 40-49 points                                  | 10                 | 20                      |
+| With 50    | Win with 50 or more points                          | 20                 | 40                      |
+
 
 ### Trick Taking
 The player who won the bid plays the first card. 
@@ -149,14 +129,16 @@ Pay Out Examples
 | Player 1 pays others for a lost "three"                                  | -20      | 10       | 10        |
 | Player 1 is paid for a "three". Player two is paid for a "pagat ultimo". | 10       | 10       | -20       |
 
-Bid Values
+Bid/Game Values
 
-| Bid   | Description                                                                   | Pay Out |
+| Bid/Game   | Description                                                                   | Pay Out |
 | ----- | ----------------------------------------------------------------------------- | ------ |
 | Three | Bidwinnner gets to choose either of the two packs of three cards from the tapp.   | 10      |
 | Two   | Bidwinner gets to choose one of the three adjacent pairs of cards from the tapp. | 20      |
 | One   | Bidwinner gets to choose one of the cards from the tapp.                         | 30      |
 | Solo  | Bidwinner has to play without any cards from the tapp.                           | 50      |
+| Bridscher  | Everyone tries to get the least points possible.                           | 10      |
+
 
 Bonus Values
 
