@@ -7,7 +7,7 @@ categories: ["twoplayer"]
 thumbnail: "/assets/images/66.jpg"
 ---
 
-# Rules
+# Sixty-Six
 ![](https://brianingermany.github.io/assets/images/66.jpg)
 
 We play 66 with a 20-card deck, using only the tens through aces. This version of the game is also known as "Schnapsen", and is very popular in Austria.
