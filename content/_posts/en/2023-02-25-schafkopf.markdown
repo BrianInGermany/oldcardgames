@@ -91,8 +91,6 @@ In a wenz, it's very important which unters you have and whose turn it is to be 
 
 Even if you have only one or two unters, if you play the first card you can sometimes pull all the opponents' unters in a single attempt. Whenever you don't play first, it's best you dont have any high scoring cards like a ten without also holding the respective ace-- otherwise these high-scorers may fall prey to opponents' aces.
 
-#### Variant
-As an addition to wenz (only unters), some groups play with Geier (only overs).   
 ### Solo
 A solo is a one-on-three game in which the *bid winner* gets to choose the trump suit. Solos have 14 trumps, just like Partner Games:
 
@@ -203,12 +201,28 @@ This makes the game worth yet another 10 points. Thus, an Partner Game won *blac
 | ----- | ---- | --------- | ------ |
 | 40    | -40   | 40        | -40    |
 
+### Contra
+As a member of the *defender* team, at any time before you play your first card, you may say "contra" to double the value of the game (Whether won or lost). Only do this if you are very certain of yourself, i.e. you have a ton of trumps.
+
 ## End of Game
 Before starting, it is typically agreed to play a "list" of a given number of games which is a multiple of four (to give everyone an equal number of times as *forehand*).
 
 At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the won with the most points, and the loser buys the next round :D
 
-## Playing with Three
+## Variants
+
+### Farbwenz and Geier
+In addition to wenz and solo, some rounds also allow:
+- Geier: only the obers a trump (four trumps total)  
+- Farbwenz: only the unters and a whole suit of your choice are trump (11 trumps total)  
+
+### Matadors (Laufende)
+Some rounds play that the value of the game is increased if one team has 3 or more matadors (German "Laufende"). Matadors are the highest trumps in sequential order. E.G: if one team has the Ober of Acorns, Ober of Leaves and Ober of Hearts, that game costs 5 more each, for a total of 15 more-- whether lost or won.
+
+### Doubling
+Some rounds allow doubling of the game value. To play this way, you must deal the cards in packages of four-- before looking at the second package, you can put a chip or token on the table to double the value of the round. But be careful! Your next four cards could be junk.
+
+### Playing with Three
 It is possible to play an informal version of Schafkopf with three players.   
 - Remove the 7s and 8s
 - Only solos are possible (Geier, Wenz, Solo)  
