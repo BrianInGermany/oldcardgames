@@ -89,8 +89,10 @@ In a wenz, it's very important which unters you have and whose turn it is to be 
 
 Even if you have only one or two unters, if you play the first card you can sometimes pull all the opponents' unters in a single attempt. Whenever you don't play first, it's best you dont have any high scoring cards like a ten without also holding the respective ace-- otherwise these high-scorers may fall prey to opponents' aces.
 
+#### Variant
+As an addition to wenz (only unters), some groups play with Geier (only overs).   
 ### Solo
-A solo is a one-on-three game in which the *player* gets to choose the trump suit. Solos have 14 trumps, just like Partner Games:
+A solo is a one-on-three game in which the *bid winner* gets to choose the trump suit. Solos have 14 trumps, just like Partner Games:
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
@@ -203,4 +205,10 @@ This makes the game worth yet another 10 points. Thus, an Partner Game won *blac
 Before starting, it is typically agreed to play a "list" of a given number of games which is a multiple of four (to give everyone an equal number of times as *forehand*).
 
 At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the won with the most points, and the loser buys the next round :D
+
+## Playing with Three
+It is possible to play an informal version of Schafkopf with three players.   
+- Remove the 7s and 8s
+- Only solos are possible (Farbwernz, Geier, Wenz, Solo)  
+The rest of the game is as with four-person Schafkopf.
 
