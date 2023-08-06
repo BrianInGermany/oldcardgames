@@ -1,22 +1,18 @@
 ---
-layout: post
-title:  "66: A Classic German Two-Player"
-description: "Combine luck, strategy and weddings to reach 66 before your opponent!"
-date:   2022-10-09 21:34:00 +0100
-categories: ["twoplayer"]
-thumbnail: "/assets/images/66.jpg"
+layout: page
+title:  "Offenbach 66 League"
+description: "Homepage of the Offenbach 66ers"
+thumbnail: "https://brianingermany.github.io/assets/images/66.jpg"
 ---
-Combine luck, strategy and weddings to reach 66 before your opponent!
 
-![](/assets/images/66.jpg)
+# Rules
+![](https://brianingermany.github.io/assets/images/66.jpg)
 
-66 is played with a 24-card deck, using only the nines through aces.
+We play 66 with a 20-card deck, using only the tens through aces. This version of the game is also known as "Schnapsen", and is very popular in Austria.
 - For added fun, you can use a [German-face deck](https://www.piatnik.com/spiele/spielkarten/regionale-karten/blitz-salzburger) as pictured above, but an ordinary pack of cards will work just as well.
 - The game is played with two players.  
-- A nearly identical Austrian variant played without the nines (Schnapsen), using only 20 cards.
-
 ## Setup
-- At the start of the game, each player is dealt six cards (five if playing without nines).
+- At the start of the game, each player is dealt five cards.
 - An additional card is uncovered an placed under the deck perpendicularly. This is the trump suit.
 - The game begins by the first player putting down a card.
 
@@ -43,14 +39,12 @@ To make a trick, the opponent must play a higher card of the same suit or a trum
 ### Weddings
 
 Weddings consist of a queen and king of the same suit.
-- You can make only announe a wedding if it's your turn to begin the trick, and you have to play one of the two cards after announcing it.
+- You can make only announce a wedding if it's your turn to begin the trick, and you have to play one of the two cards after announcing it.
 
 Weddings are worth the following points:  
 - 40 points for a wedding in trump
 - 20 points for each non-trump wedding
   
-If you want to be fancy, you can say "mariage" with a French accent instead of "wedding" :smile:
-
 ### Closing the deck
 You can pressure your opponent by closing the deck (on your turn).
 - As soon as the deck is closed or runs out, players are __required to make a trick or follow suit__ if possible.
@@ -64,9 +58,10 @@ Once the deck has been closed, the defending player does not get points for any 
 - This can be very beneficial if that's a good card (eventually, that card will be drawn othewise).
 
 ## End of Game
-- If you think you have reached 66 points, just say "66" or "enough!" when it's your turn to end the round. But watch out-- if you don't actually have 66 your opponent will get extra points!
+- If you think you have reached 66 points, just say "66" when it's your turn to end the round. But watch out-- if you don't actually have 66, you lose!
   - Even if both players actually have 66, the first one to call it wins.
-- Otherwise the game ends when the deck runs out.
+- Otherwise the game ends when all the cards have been played.
+- If no one has reached 66 or closed by this point, the last trick wins!
 
 ### Scoring
 

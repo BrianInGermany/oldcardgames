@@ -25,19 +25,19 @@ Tricks are made by playing the highest ranked card, and you must follow suit.
 After dealing, players bid for the right to choose the game, starting with the player left of the dealer (the *forehand*).
 
 Schafkopf has three game options:
-1. Ace game
+1. Partner Game
 2. Wenz 
 3. Solo
 
-### Ace Game
-The most frequent game in Schafkopf and statistically the easiest is the *ace game*, in which the player calls an ace she doesn't hold, but in whose suit she holds at least one card.
+### Partner Game
+The most frequent game in Schafkopf and statistically the easiest is the *partner game*, in which the player calls an ace she doesn't hold, but in whose suit she holds at least one card.
 
 The aces that can be called are:
 - ace of acorns
 - ace of leaves
 - ace of bells
 
-The ace of hearts can't be called, because in ace games it is one of the trump cards. There are 14 trumps in an ace game, ranked as follows:
+The ace of hearts can't be called, because in Partner Games it is one of the trump cards. There are 14 trumps in an Partner Game, ranked as follows:
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
@@ -63,7 +63,7 @@ The ace of hearts can't be called, because in ace games it is one of the trump c
 | SUM                      | 120         |
 
 #### Gameplay 
-In an ace game, the defender team will try to *search* for the called ace as soon as possible by playing a card of that suit. Knowing who has that ace will ensure you don't accidentally give away points to the wrong person. If someone searches for the called ace, you are required to play it if you have it, even if it will be lost. You also are not allowed to *butter* the called ace, meaning toss it into your partner's trick when you couldn't follow suit.
+In an Partner Game, the defender team will try to *search* for the called ace as soon as possible by playing a card of that suit. Knowing who has that ace will ensure you don't accidentally give away points to the wrong person. If someone searches for the called ace, you are required to play it if you have it, even if it will be lost. You also are not allowed to *butter* the called ace, meaning toss it into your partner's trick when you couldn't follow suit.
 
 As the offense team (the players), you hopefully chose to play because you have a lot of trumps, so it's your aim to play these again and again to *pull trumps* from the opponents. Once the opponents are trumpless, it's much easier to make tricks, even with low cards (because you have to follow suit).
 
@@ -90,7 +90,7 @@ In a wenz, it's very important which unters you have and whose turn it is to be 
 Even if you have only one or two unters, if you play the first card you can sometimes pull all the opponents' unters in a single attempt. Whenever you don't play first, it's best you dont have any high scoring cards like a ten without also holding the respective ace-- otherwise these high-scorers may fall prey to opponents' aces.
 
 ### Solo
-A solo is a one-on-three game in which the *player* gets to choose the trump suit. Solos have 14 trumps, just like ace games:
+A solo is a one-on-three game in which the *player* gets to choose the trump suit. Solos have 14 trumps, just like Partner Games:
 
 | Cards by Trick Rank      | Point Value |
 | ------------------------ | ----------- |
@@ -122,34 +122,34 @@ In a solo, it's beneficial to have as few non-trump suits as possible, especiall
 ## How to Determine the Game: Bidding
 The forehand (player left of dealer) is the first person to bid, and she indicates her willingness to take a game by saying "I would play" (regardless of the game she has in mind).
 
-The next player then can either bid a higher game (ace game < wenz < solo), or say "pass".
-If the next player passes, the remaining players also have the chance to bid a game or pass. If a player wants to outbid, they must say what they would play (ace game/wenz/solo), and then the original bidder has a chance to outbid (if not already the maximum, solo) or to rescind their bid and let the higher bidder play. If everyone passes, a negative game called *Ramsch* or *junk* is played, each man for himself trying to make the __least__ number of points possible.
+The next player then can either bid a higher game (Partner Game < wenz < solo), or say "pass".
+If the next player passes, the remaining players also have the chance to bid a game or pass. If a player wants to outbid, they must say what they would play (Partner Game/wenz/solo), and then the original bidder has a chance to outbid (if not already the maximum, solo) or to rescind their bid and let the higher bidder play. If everyone passes, a negative game called *Ramsch* or *junk* is played, each man for himself trying to make the __least__ number of points possible.
 
 ### Examples:
-A: I would play
-B: pass
-C: pass
-D: I would also play, a wenz
-A: ok, it's yours.
-Result: Player D plays a wenz
+A: I would play  
+B: pass  
+C: pass  
+D: I would also play, a wenz  
+A: ok, it's yours.  
+Result: Player D plays a wenz  
 
-A: pass
-B: I would play
-C: pass
-D: pass
-Result: Player B plays whatever she chooses.
+A: pass  
+B: I would play  
+C: pass  
+D: pass  
+Result: Player B plays whatever she chooses.  
 
-A: I would play
-B: I would also play, a wenz
-C: pass
-D: pass
-A: I have a solo
-Result: Player A plays a solo
+A: I would play  
+B: I would also play, a wenz  
+C: pass  
+D: pass  
+A: I have a solo  
+Result: Player A plays a solo  
 
-A: pass
-B: pass
-C: pass
-D: pass
+A: pass  
+B: pass  
+C: pass  
+D: pass  
 Result: Everyone plays "junk" for the least points possible.
 
 
@@ -157,22 +157,22 @@ Result: Everyone plays "junk" for the least points possible.
 The ways of scoring Schafkopf vary from round to round and group to group.
 Nonetheless, there are a few constant elements.
 
-### Ace Game, Wenz, Solo 
-Three-on-one games (wenz and solo) are worth the same score, and ace games are worth a lesser score. A typical approach to scoring is to assign ace games the value 20 and wenz and solo 50.
+### Partner Game, Wenz, Solo 
+Three-on-one games (wenz and solo) are worth the same score, and Partner Games are worth a lesser score. A typical approach to scoring is to assign Partner Games the value 20 and wenz and solo 40.
 
-This means that if the solo/wenz player wins, each other "pays" them 50 points:
+This means that if the solo/wenz player wins, each other "pays" them 40 points:
 
 | Brian | Hans | Christian | Jürgen |
 | ----- | ---- | --------- | ------ |
-| 150    | -50   | -50        | -50     |
+| 120    | -40   | -40        | -40     |
 
 if the solo/wenz player loses, the opposite happens:
 
 | Brian | Hans | Christian | Jürgen |
 | ----- | ---- | --------- | ------ |
-| -150    | +50   | +50        | +50     |
+| -120    | +40   | +40        | +40     |
 
-In an ace game, both members of the offense win or lose together:
+In an Partner Game, both members of the offense win or lose together:
 
 | Brian | Hans | Christian | Jürgen |
 | ----- | ---- | --------- | ------ |
@@ -193,7 +193,7 @@ Winning "schneider" makes the game worth another ten points:
 
 #### Schwarz
 If either party wins __every single trick__, it's called winning "schwarz" or *black*.
-This makes the game worth yet another 10 points. Thus, an ace game won *black* would be scored as such:
+This makes the game worth yet another 10 points. Thus, an Partner Game won *black* would be scored as such:
 
 | Brian | Hans | Christian | Jürgen |
 | ----- | ---- | --------- | ------ |
