@@ -1,8 +1,10 @@
 ---
-layout: page
-title:  "Offenbach 66 League"
-description: "Homepage of the Offenbach 66ers"
-thumbnail: "https://brianingermany.github.io/assets/images/66.jpg"
+layout: post
+title:  "66: a tête-à-tête with tricks and marriages"
+description: "This zesty two-player is a great way to spend time in your local bar or living room."
+date:   2023-08-04 15:39:00
+categories: ["twoplayer"]
+thumbnail: "/assets/images/66.jpg"
 ---
 
 # Rules
