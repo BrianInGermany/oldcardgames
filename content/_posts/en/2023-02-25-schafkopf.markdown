@@ -218,6 +218,7 @@ In addition to wenz and solo, some rounds also allow:
 
 ### Matadors (Laufende)
 Some rounds play that the value of the game is increased if one team has 3 or more matadors (German "Laufende"). Matadors are the highest trumps in sequential order. E.G: if one team has the Ober of Acorns, Ober of Leaves and Ober of Hearts, that game costs 5 more each, for a total of 15 more-- whether lost or won.
+- In a wenz or geier, matadors are counted from two or more.
 
 ### Doubling
 Some rounds allow doubling of the game value. To play this way, you must deal the cards in packages of four-- before looking at the second package, each player can put a chip or token on the table to double the value of the round. But be careful! Your next four cards could be junk. And sometimes multiple players double.
