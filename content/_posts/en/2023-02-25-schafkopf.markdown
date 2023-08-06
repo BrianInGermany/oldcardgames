@@ -211,6 +211,7 @@ At the end of the list, if you kept score right, the final sums will themselves 
 ## Playing with Three
 It is possible to play an informal version of Schafkopf with three players.   
 - Remove the 7s and 8s
-- Only solos are possible (Farbwernz, Geier, Wenz, Solo)  
+- Only solos are possible (Geier, Wenz, Solo)  
+  
 The rest of the game is as with four-person Schafkopf.
 
