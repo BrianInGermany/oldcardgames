@@ -63,7 +63,9 @@ The ace of hearts can't be called, because in Partner Games it is one of the tru
 | SUM                      | 120         |
 
 #### Gameplay 
-In an Partner Game, the defender team will try to *search* for the called ace as soon as possible by playing a card of that suit. Knowing who has that ace will ensure you don't accidentally give away points to the wrong person. If someone searches for the called ace, you are required to play it if you have it, even if it will be lost. You also are not allowed to *butter* the called ace, meaning toss it into your partner's trick when you couldn't follow suit.
+In an Partner Game, the defender team will try to *search* for the called ace as soon as possible by playing a card of that suit. Knowing who has that ace will ensure you don't accidentally give away points to the wrong person. If someone searches for the called ace, you are required to play it if you have it, even if it will be lost. You also are not allowed to *butter* the called ace, meaning toss it into your partner's trick when you couldn't follow suit. You are always allowed to lead with the called ace.
+
+> Special rule "running away": if you have four cards of the suit of the called ace, you are allowed to "run away" by playing a different card of that suit *when you lead*. You can only do this when you lead (play out the first card). If you ran away like this, you are then allowed play the ace like any other card and even butter it into a partner's trick.  
 
 As the offense team (the players), you hopefully chose to play because you have a lot of trumps, so it's your aim to play these again and again to *pull trumps* from the opponents. Once the opponents are trumpless, it's much easier to make tricks, even with low cards (because you have to follow suit).
 
