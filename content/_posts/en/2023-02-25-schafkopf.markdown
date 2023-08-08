@@ -112,6 +112,7 @@ A solo is a one-on-three game in which the *bid winner* gets to choose the trump
 | Seven of Trump                 | 0           |
 | Ace of other suit             | 11          |
 | Ten of other suit             | 10           |
+| King of other suit                    | 4           |
 | Nine of other suit                    | 0           |
 | Eight of other suit                   | 0           |
 | Seven of other suit                 | 0           |
@@ -168,18 +169,24 @@ This means that if the solo/wenz player wins, each other "pays" them 40 points:
 | ----- | ---- | --------- | ------ |
 | 120    | -40   | -40        | -40     |
 
-if the solo/wenz player loses, the opposite happens:
+If the solo/wenz player loses, the opposite happens:
 
 | Brian | Hans | Christian | Jürgen |
 | ----- | ---- | --------- | ------ |
 | -120    | +40   | +40        | +40     |
 
-In an Partner Game, both members of the offense win or lose together:
+In a partner game, both members of the offense win or lose together:
 
 | Brian | Hans | Christian | Jürgen |
 | ----- | ---- | --------- | ------ |
 | 20    | -20   | 20        | -20    |
 
+### Ramsch
+Ramsch can be scored with each winner earning +10 and each "virgin" earning +20 (a virgin is a player with no points at the end of the round). The loser pays. In the below example, Jürgen had the most points and Hans had 0 points:  
+
+| Brian | Hans | Christian | Jürgen |
+| ----- | ---- | --------- | ------ |
+| 10    | 20   | 10        | -40    |
 
 ### Schneider, Schwarz
 #### Schneider
