@@ -57,6 +57,7 @@ The ace of hearts can't be called, because in Partner Games it is one of the tru
 | Seven of Hearts                 | 0           |
 | Ace of other suit             | 11          |
 | Ten of other suit             | 10           |
+| King of other suit                    | 4           |
 | Nine of other suit                    | 0           |
 | Eight of other suit                   | 0           |
 | Seven of other suit                 | 0           |
@@ -80,6 +81,7 @@ Wenz is a game with only the four unders as trumps. It can be a good game to pla
 | Unter of Bells                   | 2           |
 | Ace           | 11          |
 | Ten            | 10           |
+| King           | 4           |
 | Ober           | 3          |
 | Nine                  | 0           |
 | Eight                 | 0           |
