@@ -128,7 +128,7 @@ In a solo, it's beneficial to have as few non-trump suits as possible, especiall
 The forehand (player left of dealer) is the first person to bid, and she indicates her willingness to take a game by saying "I would play" (regardless of the game she has in mind).
 
 The next player then can either bid a higher game (Partner Game < wenz < solo), or say "pass".
-If the next player passes, the remaining players also have the chance to bid a game or pass. If a player wants to outbid, they must say what they would play (Partner Game/wenz/solo), and then the original bidder has a chance to outbid (if not already the maximum, solo) or to rescind their bid and let the higher bidder play. If everyone passes, a negative game called *Ramsch* or *junk* is played, each man for himself trying to make the __least__ number of points possible.
+If the next player passes, the remaining players also have the chance to bid a game or pass. If a player wants to outbid, they must say what they would play (Partner Game/wenz/solo), and then the original bidder has a chance to outbid (if not already the maximum, solo) or to rescind their bid and let the higher bidder play. If everyone passes, a negative game called *Ramsch* (German for *junk*) is played, each man for himself trying to make the __least__ number of points possible.
 
 ### Examples:
 A: I would play  
@@ -155,7 +155,7 @@ A: pass
 B: pass  
 C: pass  
 D: pass  
-Result: Everyone plays "junk" for the least points possible.
+Result: Everyone plays "Ramsch" for the least points possible.
 
 
 ## Scoring
