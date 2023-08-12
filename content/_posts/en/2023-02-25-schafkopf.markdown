@@ -71,6 +71,7 @@ In an Partner Game, the defender team will try to *search* for the called ace as
 As the offense team (the players), you hopefully chose to play because you have a lot of trumps, so it's your aim to play these again and again to *pull trumps* from the opponents. Once the opponents are trumpless, it's much easier to make tricks, even with low cards (because you have to follow suit).
 
 ### Wenz
+![](/assets/images/wenz.jpg)  
 Wenz is a game with only the four unders as trumps. It can be a good game to play if you have lots of aces, but few potential trumps and equally distributed suits. Wenz and solo are the two games you play alone, one against three--but you still need to take home 61 points!
 
 | Cards by Trick Rank      | Point Value |
