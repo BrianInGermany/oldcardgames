@@ -240,3 +240,13 @@ It is possible to play an informal version of Schafkopf with three players.
   
 The rest of the game is as with four-person Schafkopf.
 
+## Recommended Apps
+- [Schafkopf from Isar Interactive](https://www.bayerisch-schafkopf.de/)
+  - Nice for statistics.
+  - Also has great introductory "training" lessons that are interactive (but in German).  
+- [Schafkopf Luduspecto (Android)](https://play.google.com/store/apps/details?id=com.luduspecto.Schafkopfen)
+    - This one is great for practicing against the computer and is worth the modest price.
+    - Unlike most other apps, you can double after four cards in this one.
+    - Also it has a vertical orientation.
+- [Schafkopf Palast](https://www.schafkopf-palast.de/)
+  - Popular for online playing.

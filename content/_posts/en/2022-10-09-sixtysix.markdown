@@ -10,9 +10,9 @@ thumbnail: "/assets/images/66.jpg"
 # Sixty-Six
 ![](https://brianingermany.github.io/assets/images/66.jpg)
 
-We play 66 with a 20-card deck, using only the tens through aces. This version of the game is also known as "Schnapsen", and is very popular in Austria.
+66 can be played with a 20-card deck, using only the tens through aces. This version of the game is also known as "Schnapsen", and is very popular in Austria.
 - For added fun, you can use a [German-face deck](https://www.piatnik.com/spiele/spielkarten/regionale-karten/blitz-salzburger) as pictured above, but an ordinary pack of cards will work just as well.
-- The game is played with two players.  
+- The game is played with two players.   
 ## Setup
 - At the start of the game, each player is dealt five cards.
 - An additional card is uncovered an placed under the deck perpendicularly. This is the trump suit.
@@ -77,4 +77,20 @@ Once the deck has been closed, the defending player does not get points for any 
 | Called 66 or closed deck and opponent made no tricks          | 3            |
 
 - __Seven match points wins!__
+
+## Variants
+### Playing with the 9s  
+You can also play 66 with 24 cards (inlcluding the 9s). In this case, the 9s are worth 0 points, and each player is initially dealt 6 cards instead of 5. All else remains the same.  
+
+## Recommended Apps
+- [Schnopsen.com](https://schnopsn.com/)
+  - The most popular Schnapsen/66 app. This one lets you switch between various card faces and usually works very well (with ads).
+  - Great for playing online.  
+- [Schnapsen Offline (Android)](https://play.google.com/store/apps/details?id=com.zariba.schnapsen.offline)
+  - Nice offline implementation with pretty German-suited cards.
+  - Also nice is that you can opt to hide or show your points.
+- [66 Offline (Android)](https://play.google.com/store/apps/details?id=com.zariba.sechsundsechzig.offline)
+  - Nice implementation of 66 with the 9s and six-card hands.
+  - You can choose to show your points or not.
+  - Only French-suited cards are possible.
 
