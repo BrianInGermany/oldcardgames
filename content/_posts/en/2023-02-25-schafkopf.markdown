@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Schafkopf: A Bavarian Classic"
-description: "Partner up and call an ace, or prevail three-to-one in this strategic trick-taker!"
+description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
 date:   2023-08-05 05:39:00
 categories: ["fourplayer"]
 thumbnail: "/assets/images/schafkopf.jpg"
 ---
-Partner up and call an ace, or prevail three-to-one in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" is actually a reference to the flat top of the beer barrels this game was once frequently played on.
+Partner up and call an ace, or prevail one-on-three in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" may actually be a reference to the flat top of the beer barrels this game was once frequently played on.
 
 ![](../../assets/images/schafkopf.jpg)
 
