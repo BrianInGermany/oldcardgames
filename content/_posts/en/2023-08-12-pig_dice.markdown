@@ -23,6 +23,7 @@ Each player may roll the die as many times as they want to rack up points-- just
 Your turn ends when you choose to stop rolling or, at the latest, when you roll a one.
 
 ### Example
+
 | Times Rolled | Rolled Value     | Cumulative Points |
 |-----| ------------------------ | ----------- |
 |1| 6     | 6           |
@@ -30,6 +31,7 @@ Your turn ends when you choose to stop rolling or, at the latest, when you roll 
 |3| 3                  | 14          |
 |4| 5                 | 19          |
 |5| 1        | 0         |
+
 
 
 ## Scoring
@@ -41,5 +43,5 @@ To keep score you need a paper with a column for each player in which you record
 |0| 20                 | 11           |
 |0| 0                 | 25          |
 |0| 33                 | 0        |
-|SUM|SUM|SUM|SUM|
+|SUM|SUM|SUM|
 |19|53|36|
