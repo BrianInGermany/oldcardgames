@@ -4,12 +4,12 @@ title:  "Straw Man Tarot: Not for 'Dummies'!"
 description: "A two-player version of Tarot with open dummy cards on the table (Strohmanntarock)."
 date:   2022-12-19 18:57:00
 categories: ["twoplayer","tarot"]
-thumbnail: "/assets/images/honneurs.jpg"
+thumbnail: "/assets/images/cego_trull.jpg"
 ---
 A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).
 
 ## The Cards
-![](/assets/images/tarock.jpg)  
+![](/assets/images/cego.jpg)  
 
 This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit "tarot", which is a permanent trump suit. Fun fact: the origin of the word "trump" comes from the earlier designation of the tarots in Italian, "le trionfi".
 
@@ -24,7 +24,7 @@ In clubs and spades, the trick rank after the face cards is 10-9-8-7, and these 
 ### Tarot Cards
 The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the "Sküs" (say "skyooz", derived from French "excusez"-- which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and are known as the "honneurs".
 
-![](/assets/images/honneurs.jpg)
+![](/assets/images/cego_trull.jpg)
 
 ## Setup
 At the start of the game, fifteen cards are dealt face down in three packs of five to each player. These are your hand.
