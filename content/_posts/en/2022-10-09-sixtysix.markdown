@@ -4,14 +4,14 @@ title:  "66: a tête-à-tête with tricks and marriages"
 description: "This zesty two-player is a great way to spend time in your local bar or living room."
 date:   2023-08-04 15:39:00
 categories: ["twoplayer"]
-thumbnail: "/assets/images/66.jpg"
+thumbnail: "/assets/images/preussisch.jpg"
 ---
 
 # Sixty-Six
-![](https://brianingermany.github.io/assets/images/66.jpg)
+![](https://brianingermany.github.io/assets/images/preussisch.jpg)
 
 66 can be played with a 20-card deck, using only the tens through aces. This version of the game is also known as "Schnapsen", and is very popular in Austria.
-- For added fun, you can use a [German-face deck](https://www.piatnik.com/spiele/spielkarten/regionale-karten/blitz-salzburger) as pictured above, but an ordinary pack of cards will work just as well.
+- For added fun, you can use a [German-face deck](https://mepel.pl/skat-tradycyjny) as pictured above, but an ordinary pack of cards will work just as well.
 - The game is played with two players.   
 ## Setup
 - At the start of the game, each player is dealt five cards.
