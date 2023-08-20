@@ -2,7 +2,7 @@
 layout: post
 title:  "Schafkopf: A Bavarian Classic"
 description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
-date:   2023-08-05 05:39:00
+date:   2023-08-13 05:39:00
 categories: ["fourplayer"]
 thumbnail: "/assets/images/schafkopf.jpg"
 ---
