@@ -89,11 +89,11 @@ Remember: as soon as bullshit is called, the necessary score is reset to the low
 ## Variants
 ### 21 is tops
 The standard version of this game considers 21 to be untoppable, not even with another 21. 
-- In this version, you get one minus point even for accepting the 21, two for getting caught in a lie, or three for mistakenly doubting it.
+- In this version, you get one minus point even for accepting the 21, two for getting caught in a lie about the 21, or three for mistakenly doubting it.
 - Either way, the score resets before the next player rolls.
   
 ### Drinking Version
-This game is often played as a drinking game, where instead of minus points you have to take a drink.
+This game is often played as a drinking game, where instead of each point, you have to take a drink.
 
 ## Important Note on Scoring
 Many rulesets for 21/Mäxchen state you get an equal number of minus points for lying or for mistakenly calling a bluff. 
