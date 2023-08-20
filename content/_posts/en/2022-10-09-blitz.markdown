@@ -47,4 +47,8 @@ The player(s) with the lowest score loses one life. Once all a player's lives ar
 - Make sure you don't accidentally create a good hand in the bank by exchanging cards.
   - Remember, the next player can take all three cards!
 
+## App Recommendation
+There is a great Android app that lets you play with different types of cards (German suits, reguar suits):  
+[31 App](https://play.google.com/store/apps/details?id=com.donkeycat.hosnobeol&pcampaignid=web_share)
+
 
