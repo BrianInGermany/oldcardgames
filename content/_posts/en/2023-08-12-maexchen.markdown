@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Mäxchen: Bluff Your Way to Victory"
-description: "A two-dice game-of-luck made for a good liar."
+description: "A two-dice party game made for good liars."
 date:   2023-08-16 18:15:00
 categories: ["manyplayer", "easy"]
 thumbnail: "/assets/images/maexchen.jpg"
 ---
-A super easy party game about racking up points-- without going bust!
-
-![](/assets/images/maexchen.jpg)
+A two-dice party game made for good liars.
 
 ## Setup
 You'll need two dice, a dice cup and pen & paper. A beer coaster is useful to hold the dice in the cup.
@@ -18,7 +16,7 @@ Each turn, players both dice and looks at the result without showing it to the o
 
 The crux of the game is that each subsequent roll must have a higher rank than the roll before! So fake it till you make it: if you don't roll higher, you're forced to lie. 
 
-The top result is a "Mäxchen", or a 21, and next best are all the doubles starting with 66.
+The top result is a "Mäxchen", or a 21, and next best are all the doubles starting with 66. Then comes everything else.
 
 To read your score, always count the higher die as the tens digit and the lower die as the ones. 
 
@@ -73,6 +71,14 @@ For this reason, you want to avoid mistakenly calling bullshit on a 21. Luckily,
 - If your predecessor calls a 21, you have the choice 1) to call their bluff, or 2) to believe them, and then yourself roll another 21!
 - The chances of two 21s in a row are minimal, so your bullshit will probably be called. 
   - But: if you lie about having a 21, you only get two minus points-- whereas it's three for mistakenly calling bullshit on a 21.
+
+#### Score Overview
+| Situation | Score |
+|-----|-----|
+| Roller gets caught in a lie | 1 for the roller |
+| Another player calls bullshit mistakenly | 2 for the doubter |
+| Roller gets caught in a lie (21) | 2 for the roller |
+| Another player calls bullshit mistakenly (21) | 3 for the doubter |
 
 ## Strategy
 While any player call call bullshit, depending on where you're sitting it may make sense to keep your mouth shut and let the subsequent player assume the risk. They are the ones in the hot seat, given they are required to roll higher if they don't call it.
