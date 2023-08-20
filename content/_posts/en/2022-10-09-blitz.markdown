@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blitz: an Electrified Upgrade on Blackjack"
+title:  "Schnauz!: German Blackjack"
 description: "Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat."
 date:   2022-10-09 12:10:00
 categories: ["manyplayer","easy"]
@@ -10,7 +10,7 @@ Win by not losing! In this fun Blackjack predecessor, keep your lives to stay af
 
 ![](/assets/images/blitz.jpg)
 
-Blitz is played with a 32-card deck, using only the sevens through aces.
+Schnauz is played with a 32-card deck, using only the sevens through aces.
 - For added fun, you can use a [German-face deck](https://www.piatnik.com/spiele/spielkarten/regionale-karten/doppeldeutsche-blitz-36-blatt) as pictured above, but an ordinary pack of cards will work just as well.
 - The game is played best with 3-7 players.  
 - It's also known as 31 or Scat
@@ -23,12 +23,12 @@ Blitz is played with a 32-card deck, using only the sevens through aces.
 - The player to the left of the dealer is first to play.
 
 ## Gameplay
-The aim of Blitz is to gather three cards of the same suit for the highest score.
+The aim of Schnauz is to gather three cards of the same suit for the highest score.
 - Aces are worth 11, face cards 10, and all other cards are worth their number value.
 - Each turn, players may exchange *one or all cards, but not two*.
 - The round ends in one of three ways:
-  1. A player reaches 31 points
-  2. A player has three aces (blitz).
+  1. A player reaches 31 points ("Schnauz!")
+  2. A player has three aces ("fire").
   3. A player closes the round 
      - Closing is denoted by knocking and is only possible after the first round.
      - If you choose to close, you may not exchange cards, and the game ends after every other player has one more chance to play.
@@ -38,7 +38,7 @@ The player(s) with the lowest score loses one life. Once all a player's lives ar
 
 ## Additional Important Rules
 - If a player gets three aces, the game is immediately over, and every other player loses one life.
-  - "Blitz!"
+  - "Schnauz!" (pronounced Sh-now-ts)
 - Three-of-a-kind is worth exactly 30.5 points.
 - You can always pass instead of exchanging cards or closing.
 
