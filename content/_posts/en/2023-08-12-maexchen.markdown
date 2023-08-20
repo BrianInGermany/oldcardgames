@@ -73,6 +73,7 @@ For this reason, you want to avoid mistakenly calling bullshit on a 21. Luckily,
   - But: if you lie about having a 21, you only get two minus points-- whereas it's three for mistakenly calling bullshit on a 21.
 
 #### Score Overview
+
 | Situation | Score |
 |-----|-----|
 | Roller gets caught in a lie | 1 for the roller |
