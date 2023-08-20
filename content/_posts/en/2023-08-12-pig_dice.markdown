@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pig Dice: How high can you roll!?"
+title:  "Pig Dice: How High Can You Roll!?"
 description: "An super easy party game about racking up points-- without going bust!"
 date:   2023-08-12 13:15:00
 categories: ["manyplayer", "easy"]
