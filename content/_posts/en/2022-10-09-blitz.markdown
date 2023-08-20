@@ -28,7 +28,7 @@ The aim of Schnauz is to gather three cards of the same suit for the highest sco
 - Each turn, players may exchange *one or all cards, but not two*.
 - The round ends in one of three ways:
   1. A player reaches 31 points ("Schnauz!")
-  2. A player has three aces ("fire").
+  2. A player has three aces ("fire")
   3. A player closes the round 
      - Closing is denoted by knocking and is only possible after the first round.
      - If you choose to close, you may not exchange cards, and the game ends after every other player has one more chance to play.
