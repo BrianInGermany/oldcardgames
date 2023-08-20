@@ -82,7 +82,7 @@ For this reason, you want to avoid mistakenly calling bullshit on a 21. Luckily,
 | Another player calls bullshit mistakenly (21) | 3 for the doubter |
 
 ## Strategy
-While any player call call bullshit, depending on where you're sitting it may make sense to keep your mouth shut and let the subsequent player assume the risk. They are the ones in the hot seat, given they are required to roll higher if they don't call it.
+While any player call call bullshit, depending on where you're sitting it may make sense to keep your mouth shut and let the subsequent player assume the risk. They are the ones in the hot seat, given they are required to roll higher if they don't call the lie.
 
 Remember: as soon as bullshit is called, the necessary score is reset to the lowest value of at least 31.
 
