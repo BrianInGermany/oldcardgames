@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schafkopf: A Bavarian Classic"
+title:  "Schafkopf: Rules in English"
 description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
 date:   2023-08-13 05:39:00
 categories: ["fourplayer"]
@@ -218,6 +218,8 @@ As a member of the *defender* team, at any time before you play your first card,
 Before starting, it is typically agreed to play a "list" of a given number of games which is a multiple of four (to give everyone an equal number of times as *forehand*).
 
 At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the won with the most points, and the loser buys the next round :D
+
+![](/assets/images/slateSchafkopf.jpg)
 
 ## Variants
 
