@@ -4,11 +4,11 @@ title:  "Schafkopf: Rules in English"
 description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
 date:   2023-08-13 05:39:00
 categories: ["fourplayer"]
-thumbnail: "/assets/images/schafkopf.jpg"
+thumbnail: "/assets/images/slateSchafkopf.jpg"
 ---
 Partner up and call an ace, or prevail one-on-three in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" may actually be a reference to the flat top of the beer barrels this game was once frequently played on.
 
-![](../../assets/images/schafkopf.jpg)
+![](/assets/images/slateSchafkopf.jpg)
 
 ## Setup
 Schafkopf is typically played with a 36-card German-face (Bavarian or Franconian) deck, from which the sixes have been removed.
@@ -219,7 +219,7 @@ Before starting, it is typically agreed to play a "list" of a given number of ga
 
 At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the won with the most points, and the loser buys the next round :D
 
-![](/assets/images/slateSchafkopf.jpg)
+![](/assets/images/schafkopf.jpg)
 
 ## Variants
 
