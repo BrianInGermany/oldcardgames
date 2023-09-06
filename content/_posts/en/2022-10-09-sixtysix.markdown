@@ -78,6 +78,8 @@ Once the deck has been closed, the defending player does not get points for any 
 
 - __Seven match points wins!__
 
+![](/assets/images/66case.jpg)
+
 ## Variants
 ### Playing with the 9s  
 You can also play 66 with 24 cards (inlcluding the 9s). In this case, the 9s are worth 0 points, and each player is initially dealt 6 cards instead of 5. All else remains the same.  
