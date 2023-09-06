@@ -252,4 +252,7 @@ The rest of the game is as with four-person Schafkopf.
     - Unlike most other apps, you can double after four cards in this one.
     - Also it has a vertical orientation.
 - [Schafkopf Palast](https://www.schafkopf-palast.de/)
-  - Popular for online playing.
+  - Popular for online playing.  
+- [Sauspiel.de](https://sauspiel.de)
+  - There is an iPhone app and it runs in the browser with Android.
+  - The rules allow doubling and the format is quite nice for a few quick games with human opponents.
