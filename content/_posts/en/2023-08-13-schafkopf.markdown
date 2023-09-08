@@ -217,7 +217,7 @@ As a member of the *defender* team, at any time before you play your first card,
 ## End of Game
 Before starting, it is typically agreed to play a "list" of a given number of games which is a multiple of four (to give everyone an equal number of times as *forehand*).
 
-At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the won with the most points, and the loser buys the next round :D
+At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the one with the most points, and the loser buys the next round :D
 
 ![](/assets/images/slateSchafkopf.jpg)
 
