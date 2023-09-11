@@ -241,7 +241,7 @@ It is possible to play a version of Schafkopf with three players with ten cards 
 - Deal each player three, two to the middle, each player four, then each player three.
 - Partner games are not possible: only Geier, Wenz or Solo. 
 - The winner of the bid gets to exchange two cards from her hand from the two in the middle.
-- The rest is as in regular, four-person Schafkopf.
+- The trumps are the same as in four-person Schafkopf.
 
 #### Bidding
 The forehand (player left of the dealer) beginns bidding by saying: "I would play".
@@ -249,22 +249,22 @@ The forehand (player left of the dealer) beginns bidding by saying: "I would pla
 - To outbid the person before you, you must offer to win with more points:
   - Example:
     - Forehand: I would play!
-    - Middlehand: 65!
+    - Middlehand: would you play 65?
     - Forehand: yes, I would play 65.
-    - Middlehand: How about 70?
+    - Middlehand: how about 70?
     - Forehand: no, I pass. 
     - Rearhand: I pass.
   - The bidwinner must make at least this number to win. In this case, the middlehand wins it for 70 points (if she gets 69, she loses).
   - Another, less likely, example:
     - Forehand: I would play!
-    - Middlehand: 65!
+    - Middlehand: would you play 65?
     - Forehand: yes, I would play 65.
-    - Middlehand: How about 70?
+    - Middlehand: how about 70?
     - Forehand: no, I pass. 
-    - Rearhand: Can you do 75?
+    - Rearhand: can you do 75?
     - Middlehand: no, I pass.
   - In this case, the forehand was outbid by the middlehand, who again was outbid by the rearhand, who now must score 75 points to win.
-  - 
+  
 #### Exchanging
 The biddwinner has the option to exchange cards from the blind before declaring the game she will play.
 - The exchanged cards are not revealed to the others, and they count toward her tricks. 
@@ -275,7 +275,7 @@ The biddwinner has the option to exchange cards from the blind before declaring 
 #### Scoring
 As in regular Schafkopf, defenders are schneider-free with 30 points, and schwarz with zero tricks.
 - A won game can be valued at 40 points, with each loser paying this price to the winner, or the single loser to the two winners.
-- Schneider gives you 10 points more, scharz yet another ten, just as in the four-person game.
+- Schneider gives you 10 points more, schwarz yet another ten, just as in the four-person game.
 - "Hand" (without exchanging) doubles the value of the game.
   
 ## Recommended Apps
