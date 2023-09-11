@@ -191,10 +191,6 @@ Ramsch can be scored with each winner earning +10 and each "virgin" earning +20 
 | ----- | ---- | --------- | ------ |
 | 10    | 20   | 10        | -40    |
 
-#### Durchmarsch in Ramsch
-If any single player accumulates 90 points, the tables turn, and they win the Ramsch! A Durchmarsch is worth the same as a solo!
-- So be careful.
-
 ### Schneider, Schwarz
 #### Schneider
 If the playing party scores 61 or the defending scores 60, they have won the game.
@@ -239,7 +235,10 @@ Some rounds play that the value of the game is increased if one team has 3 or mo
 ### Doubling
 Some rounds allow doubling of the game value. To play this way, you must deal the cards in packages of four-- before looking at the second package, each player can put a chip or token on the table to double the value of the round. But be careful! Your next four cards could be junk. And sometimes multiple players double.
 - When someone doubles, take that as a signal that they have good cards.
- 
+
+### Durchmarsch in Ramsch
+Usually the highest score loses in Ramsch. But if you play with "Durchmarsch", accumulate 90 points and the tables turn: you win the Ramsch for the value of a solo!
+
 ### Playing with Three
 It is possible to play a version of Schafkopf with three players with ten cards each and a blind of two cards.   
 - Deal each player three, two to the middle, each player four, then each player three.
