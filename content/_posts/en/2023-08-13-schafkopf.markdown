@@ -191,6 +191,10 @@ Ramsch can be scored with each winner earning +10 and each "virgin" earning +20 
 | ----- | ---- | --------- | ------ |
 | 10    | 20   | 10        | -40    |
 
+#### Durchmarsch in Ramsch
+If any single player accumulates 90 points, they win the Ramsch! A Durchmarsch is worth the same as a solo!
+- So be careful.
+
 ### Schneider, Schwarz
 #### Schneider
 If the playing party scores 61 or the defending scores 60, they have won the game.
@@ -277,6 +281,8 @@ As in regular Schafkopf, defenders are schneider-free with 30 points, and schwar
 - A won game can be valued at 40 points, with each loser paying this price to the winner, or the single loser to the two winners.
 - Schneider gives you 10 points more, schwarz yet another ten, just as in the four-person game.
 - "Hand" (without exchanging) doubles the value of the game.
+- "Tout" (announcing you'll take all the tricks) doubles the value of the game. 
+  - But if you lose any trick, you lose.
   
 ## Recommended Apps
 - [Schafkopf from Isar Interactive](https://www.bayerisch-schafkopf.de/)
