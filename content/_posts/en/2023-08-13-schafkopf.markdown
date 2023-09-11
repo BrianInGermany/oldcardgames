@@ -3,7 +3,7 @@ layout: post
 title:  "Schafkopf: Rules in English"
 description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
 date:   2023-08-13 05:39:00
-categories: ["fourplayer"]
+categories: ["fourplayer", "threeplayer"]
 thumbnail: "/assets/images/slateSchafkopf.jpg"
 ---
 Partner up and call an ace, or prevail one-on-three in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" may actually be a reference to the flat top of the beer barrels this game was once frequently played on.
@@ -228,21 +228,56 @@ In addition to wenz and solo, some rounds also allow:
 - Geier: only the obers a trump (four trumps total)  
 - Farbwenz: only the unters and a whole suit of your choice are trump (11 trumps total)  
 
-### Matadors (Laufende)
-Some rounds play that the value of the game is increased if one team has 3 or more matadors (German "Laufende"). Matadors are the highest trumps in sequential order. E.G: if one team has the Ober of Acorns, Ober of Leaves and Ober of Hearts, that game costs 5 more each, for a total of 15 more-- whether lost or won.
-- In a wenz or geier, matadors are counted from two or more.
+### Laufende
+Some rounds play that the value of the game is increased if one team has 3 or more "Laufende". Laufende are the highest trumps in sequential order. E.G: if one team has the Ober of Acorns, Ober of Leaves and Ober of Hearts, that game costs 5 more each, for a total of 15 more-- whether lost or won.
+- In a wenz or geier, Laufende are counted from two or more.
 
 ### Doubling
 Some rounds allow doubling of the game value. To play this way, you must deal the cards in packages of four-- before looking at the second package, each player can put a chip or token on the table to double the value of the round. But be careful! Your next four cards could be junk. And sometimes multiple players double.
 - When someone doubles, take that as a signal that they have good cards.
  
 ### Playing with Three
-It is possible to play an informal version of Schafkopf with three players.   
-- Remove the 7s and 8s
-- Only solos are possible (Geier, Wenz, Solo)  
-  
-The rest of the game is as with four-person Schafkopf.
+It is possible to play a version of Schafkopf with three players with ten cards each and a blind of two cards.   
+- Deal each player three, two to the middle, each player four, then each player three.
+- Partner games are not possible: only Geier, Wenz or Solo. 
+- The winner of the bid gets to exchange two cards from her hand from the two in the middle.
+- The rest is as in regular, four-person Schafkopf.
 
+#### Bidding
+The forehand (player left of the dealer) beginns bidding by saying: "I would play".
+- Geier, Wenz and Solo are all equally ranked.
+- To outbid the person before you, you must offer to win with more points:
+  - Example:
+    - Forehand: I would play!
+    - Middlehand: 65!
+    - Forehand: yes, I would play 65.
+    - Middlehand: How about 70?
+    - Forehand: no, I pass. 
+    - Rearhand: I pass.
+  - The bidwinner must make at least this number to win. In this case, the middlehand wins it for 70 points (if she gets 69, she loses).
+  - Another, less likely, example:
+    - Forehand: I would play!
+    - Middlehand: 65!
+    - Forehand: yes, I would play 65.
+    - Middlehand: How about 70?
+    - Forehand: no, I pass. 
+    - Rearhand: Can you do 75?
+    - Middlehand: no, I pass.
+  - In this case, the forehand was outbid by the middlehand, who again was outbid by the rearhand, who now must score 75 points to win.
+  - 
+#### Exchanging
+The biddwinner has the option to exchange cards from the blind before declaring the game she will play.
+- The exchanged cards are not revealed to the others, and they count toward her tricks. 
+  - This gives a chance to become empty in one or more suits, or to already rack up points!
+- "Hand": if you win the bid and believe you don't need to exchange to win, play Hand!
+  - Hand games are worth double.
+
+#### Scoring
+As in regular Schafkopf, defenders are schneider-free with 30 points, and schwarz with zero tricks.
+- A won game can be valued at 40 points, with each loser paying this price to the winner, or the single loser to the two winners.
+- Schneider gives you 10 points more, scharz yet another ten, just as in the four-person game.
+- "Hand" (without exchanging) doubles the value of the game.
+  
 ## Recommended Apps
 - [Schafkopf from Isar Interactive](https://www.bayerisch-schafkopf.de/)
   - Nice for statistics.
