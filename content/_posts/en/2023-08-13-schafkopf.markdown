@@ -192,7 +192,7 @@ Ramsch can be scored with each winner earning +10 and each "virgin" earning +20 
 | 10    | 20   | 10        | -40    |
 
 #### Durchmarsch in Ramsch
-If any single player accumulates 90 points, they win the Ramsch! A Durchmarsch is worth the same as a solo!
+If any single player accumulates 90 points, the tables turn, and they win the Ramsch! A Durchmarsch is worth the same as a solo!
 - So be careful.
 
 ### Schneider, Schwarz
