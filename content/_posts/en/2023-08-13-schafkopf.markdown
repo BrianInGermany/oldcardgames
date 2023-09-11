@@ -240,13 +240,13 @@ Some rounds allow doubling of the game value. To play this way, you must deal th
 It is possible to play a version of Schafkopf with three players with ten cards each and a blind of two cards.   
 - Deal each player three, two to the middle, each player four, then each player three.
 - Partner games are not possible: only Geier, Wenz or Solo. 
-- The winner of the bid gets to exchange two cards from her hand from the two in the middle.
+- The winner of the bid gets to exchange two cards from her hand with the two in the middle.
 - The trumps are the same as in four-person Schafkopf.
 
 #### Bidding
 The forehand (player left of the dealer) beginns bidding by saying: "I would play".
 - Geier, Wenz and Solo are all equally ranked.
-- To outbid the person before you, you must offer to win with more points:
+- To outbid the person before you, you must offer to win with more points (in increments of five):
   - Example:
     - Forehand: I would play!
     - Middlehand: would you play 65?
