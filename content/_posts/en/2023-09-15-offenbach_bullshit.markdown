@@ -2,7 +2,7 @@
 layout: post
 title:  "Offenbach Bullshit"
 description: "A two-dice party game made for liars and risk takers."
-date:   2030-08-14 18:15:00
+date:   2023-09-15 18:15:00
 categories: ["manyplayer", "easy"]
 thumbnail: "/assets/images/maexchen.jpg"
 ---
@@ -72,4 +72,4 @@ After a 21 (or whenever the dice are revealed), the loser drinks the value of th
 - After a bullshit, the loser must roll (even if they just did).
 
 ## Strategy
-To be continued...
+Play with the probabilities... If 
