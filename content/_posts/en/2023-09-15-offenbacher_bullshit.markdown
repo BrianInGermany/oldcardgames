@@ -9,8 +9,8 @@ thumbnail: "/assets/images/maexchen.jpg"
 A two-dice party game made for liars and risk takers.
 
 ## Setup
-You'll need two dice and a dice cup If you don't want to take score with drinks, you'll need pen & paper. 
-- A beer coaster is useful to hold the dice in the cup.
+You'll need two dice, a dice cup and a beer coaster.
+- If you don't want to take score with drinks, you'll need pen & paper. 
   
 ## Roll Values
 To read your roll, always count the higher die as the tens digit and the lower die as the ones. 
