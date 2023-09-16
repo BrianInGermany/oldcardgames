@@ -19,29 +19,8 @@ To read your roll, always count the higher die as the tens digit and the lower d
 
 The picture above shows a 53.
 
-| Possible Rolls Ranked |
-|-----|
-|21|
-|66| 
-|55| 
-|44| 
-|33| 
-|22|
-|11|
-|65|
-|64|
-|63|
-|62|
-|61|
-|54|
-|53|
-|52|
-|51|
-|43|
-|42|
-|41|
-|32|
-|31|
+### Rolls in Rank Order
+21, 66, 55, 44, 33, 22, 11, 65, 64, 63, 62, 61, 54, 53, 53, 51, 43, 42, 41, 32, 31
 
 ## Gameplay
 Each turn, the player rolls both dice and looks at the result without showing it to the others, and then announces that number to the rest of the table, along with the current value of the cup.
