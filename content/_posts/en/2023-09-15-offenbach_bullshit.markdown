@@ -72,4 +72,4 @@ After a 21 (or whenever the dice are revealed), the loser drinks the value of th
 - After a bullshit, the loser must roll (even if they just did).
 
 ## Strategy
-Play with the probabilities... If 
+Play with the probabilities... 
