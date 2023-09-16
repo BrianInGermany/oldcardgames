@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Offenbacher Bullshit"
-description: "A two-dice party game made for liars and risk takers."
+description: "A two-dice party game for liars and risk takers."
 date:   2023-09-15 18:15:00
 categories: ["manyplayer", "easy"]
 thumbnail: "/assets/images/maexchen.jpg"
 ---
-A two-dice party game made for liars and risk takers.
+A two-dice party game for liars and risk takers.
 
 ## Setup
 You'll need two dice, a dice cup and a beer coaster.
