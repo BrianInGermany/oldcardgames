@@ -36,13 +36,7 @@ And there's more!
 - If a six is turned over instead of a particular suit, only the four sixes are trumps for that round (the first six played takes the trick).
 
 ## Following suit
-In farmers' bridge you must follow suit if you can. If you cannot, you *must* play a trump (any trump).
-Thus there is:
-- *Farbzwang* (requirement to following suit), 
-- *Trumpfzwang* (requirement to play a trump if you can't follow suit),  
-  
-but not:
-- *Stechzwang* (requirement to use a higher card and try to take the trick).
+In farmers' bridge you must follow suit if you can. If you cannot, you can play any card. 
 
 ### Sixes
 Sixes are the highest cards in the game and *count as trumps* (not as their nominal suit).
