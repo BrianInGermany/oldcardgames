@@ -8,7 +8,7 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/offenbac
 ---
 Get rid of high cards wisely and win with the lowest score in this fiesty Jass.
 
-![](https://brianingermany.github.io/assets/images/offenbachJass.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/offenbachJass.jpg)
 
 ## Setup
 With a 36 card deck (6-A), shuffle and divide the deck equally between each player, dealing out in groups of three cards.

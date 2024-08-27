@@ -20,6 +20,6 @@ We meet in a small but friendly round regularly in the center of Offenbach. For 
 
 Beginners are welcome and we're happy to teach.
 
-![](https://brianingermany.github.io/assets/images/dummytarot.jpg)  
+![](https://brianingermany.github.io/oldcardgames/assets/images/dummytarot.jpg)  
 
 

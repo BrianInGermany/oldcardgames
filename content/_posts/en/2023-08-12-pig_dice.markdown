@@ -8,7 +8,7 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/dice1.jp
 ---
 A super easy party game about racking up points-- without going bust!
 
-![](https://brianingermany.github.io/assets/images/dice1.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/dice1.jpg)
 
 ## Setup
 You need exactly one die, a dice cup and pen & paper.

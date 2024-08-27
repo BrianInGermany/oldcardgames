@@ -15,7 +15,7 @@ You'll need two dice, a dice cup and a beer coaster.
 ## Roll Values
 To read your roll, always count the higher die as the tens digit and the lower die as the ones. 
 
-![](https://brianingermany.github.io/assets/images/maexchen.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/maexchen.jpg)
 
 The picture above shows a 53.
 

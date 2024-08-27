@@ -9,7 +9,7 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/pigtail.
 This Japanese party game is guaranteed to work even if even you've had one Sake too many...
 It is suitable for any number of players.
 
-![](https://brianingermany.github.io/assets/images/pigtail.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/pigtail.jpg)
 
 ## Setup
 Spread your deck out in a circle (like a pigtail) in the center of the table. Finito.

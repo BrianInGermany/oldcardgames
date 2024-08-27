@@ -11,7 +11,7 @@ Win the bid, and trump your way to victory with this credit-based three-player.
 Not just for fortune telling! Tapp Tarock is a fun trick-taking game with the added fascination of the fifth suit, tarot.
 
 ## The Cards
-![](https://brianingermany.github.io/assets/images/tarock.jpg)  
+![](https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg)  
 
 This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit "tarot", which is a permanent trump suit. Fun fact: the origin of the word "trump" comes from the earlier designation of the tarots in Italian, "le trionfi".
 
@@ -26,7 +26,7 @@ In clubs and spades, the trick rank after the face cards is 10-9-8-7, and these 
 ### Tarots
 The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the "Sküs" (say "skeez", derived from French "excusez"-- which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and known together as the trull.
 
-![](https://brianingermany.github.io/assets/images/honneurs.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg)
 
 ## Setup
 At the start of the game, six cards are dealt face down in two packs of three in the center of the table. These are called the "tapp" (hence the name of the game).
