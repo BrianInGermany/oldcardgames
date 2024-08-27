@@ -68,7 +68,7 @@ The two players with the lowest round score write one tally, the highest player 
 - If playing with six, the lowest three write tallies, the worst two write sacks and the middle player writes nothing.
 - To get "out of the sack", the player has to make another tally, crossing through the 0 with a line:
 
-![](../../assets/images/sack_strich.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/sack_strich.jpg)
 
 ## End of Game
 - The round is over when all the cards have been played.  
