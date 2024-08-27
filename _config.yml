@@ -1,7 +1,7 @@
 title: Fun Card Games
 markdown: kramdown
 # markdown: GFM
-url: "https://funcardgames.net"
+url: "https://brianingermany.github.io/oldcardgames"
 
 # localization
 # language: "en"
@@ -10,7 +10,7 @@ languages: ["en", "de"]
 # for atom feed
 author:
   name: Brian Junker-Latocha
-  email: brian@funcardgames.net
+  email: brian@kjunker-latocha.com
 
 plugins:
   - jemoji
