@@ -8,7 +8,7 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/oregon.j
 ---
 This poker-based solitaire is a strategic way to kill some time. The game was invented by German game pioneer Reiner Knizia and is featured in his 1995 book "Card Games in the Wild West" ("Kartenspiele im Wilden Westen").
 
-![](https://brianingermany.github.io/assets/images/kniziabook.jpg)
+![](https://brianingermany.github.io/oldcardgames/assets/images/kniziabook.jpg)
 
 ## Gameplay
 Oregon solitaire is played with a standard 52-card deck.
