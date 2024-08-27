@@ -10,7 +10,7 @@ languages: ["en", "de"]
 # for atom feed
 author:
   name: Brian Junker-Latocha
-  email: brian@kjunker-latocha.com
+  email: brian@junker-latocha.com
 
 plugins:
   - jemoji
