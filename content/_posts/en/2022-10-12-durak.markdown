@@ -8,7 +8,7 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/durak.jp
 ---
 Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.
 
-![](/assets/images/durak.jpg)
+![](https://brianingermany.github.io/assets/images/durak.jpg)
 
 Durak can be played with a standard 52-card deck or, for a faster version, with a 36-card (6-A) deck.
 - This fast-paced party game is popular in former Soviet countries and well-known in parts of central Europe.

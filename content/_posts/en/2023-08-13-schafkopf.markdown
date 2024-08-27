@@ -8,10 +8,10 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/slateSch
 ---
 Partner up and call an ace, or prevail one-on-three in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" may actually be a reference to the flat top of the beer barrels this game was once frequently played on.
 
-![](/assets/images/schafkopf.jpg)
+![](https://brianingermany.github.io/assets/images/schafkopf.jpg)
 
 ## Setup
-Schafkopf is typically played with a 36-card German-face (Bavarian or Franconian) deck, from which the sixes have been removed.
+Schafkopf is typically played with a 36-card German-face (Bavarian or Franconian) deck, from which the sixes have been removed for a total of 32 cards.
 
 After shuffling, the player to the right of the dealer must cut the deck, after which eight cards are dealt to each player, either in two packs of four, or four packs of two.
 
@@ -71,7 +71,7 @@ In an Partner Game, the defender team will try to *search* for the called ace as
 As the offense team (the players), you hopefully chose to play because you have a lot of trumps, so it's your aim to play these again and again to *pull trumps* from the opponents. Once the opponents are trumpless, it's much easier to make tricks, even with low cards (because you have to follow suit).
 
 ### Wenz
-![](/assets/images/wenz.jpg)  
+![](https://brianingermany.github.io/assets/images/wenz.jpg)  
 Wenz is a game with only the four unders as trumps. It can be a good game to play if you have lots of aces, but few potential trumps and equally distributed suits. Wenz and solo are the two games you play alone, one against three--but you still need to take home 61 points!
 
 | Cards by Trick Rank      | Point Value |
@@ -219,7 +219,7 @@ Before starting, it is typically agreed to play a "list" of a given number of ga
 
 At the end of the list, if you kept score right, the final sums will themselves add up to zero. The winner is the one with the most points, and the loser buys the next round :D
 
-![](/assets/images/slateSchafkopf.jpg)
+![](https://brianingermany.github.io/assets/images/slateSchafkopf.jpg)
 
 ## Variants
 

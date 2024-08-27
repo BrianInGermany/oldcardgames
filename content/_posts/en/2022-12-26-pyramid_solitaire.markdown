@@ -8,7 +8,7 @@ thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/pyramid.
 ---
 This simple solitaire from Italy can be played against the clock or with multiple players vying for the fastest win.
 
-![](/assets/images/pyramid.jpg)
+![](https://brianingermany.github.io/assets/images/pyramid.jpg)
 
 ## The Deck
 Pyramid Solitaire is played with a 40-card deck (A-7,J-K). You can remove the 8s,9s and 10s from a traditional 52-card deck, or use an Italian deck, which typically contains 40 cards with the same distribution.

@@ -12,7 +12,7 @@ Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentar
 Ob dein Glück in den Karten steht? Tapp Tarock ist eine einfach zu erlernende Variante des geselligen Dreipersonenspiels Tapp-Tarock (auch bekannt als Wiener Tappen).
 
 ## Die Karten
-![](/assets/images/tarock.jpg)  
+![](https://brianingermany.github.io/assets/images/tarock.jpg)  
 
 Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe "Tarock", die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes "Trumpf" leitet sich von der frühen Bezeichnung der Tarocken auf Italienisch, "le trionfi". Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.
 
@@ -25,7 +25,7 @@ Des Weiteren gibt es Unterschiede zwischen den roten und schwarzen Farben: Nach 
 ### Tarockkarten
 Der Stichwert der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der "Sküs" (leitet sich vom französischen "excusez" ab-- was man vielleicht sagt, wenn man allen Gegnern die Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 ("Mond"), und Tarock 1 ("Pagat") bilden zusammen die "Trull" und sind jeder fünf Punkte wert in der Abrechnung.
 
-![](/assets/images/honneurs.jpg)
+![](https://brianingermany.github.io/assets/images/honneurs.jpg)
 
 ## Spielbeginn
 Zu Beginn des Spieles werden sechs Karten in zwei dreier Packs verdeckt in die Tischmitte gelegt. Diese Karten heißen zusammen der "Tapp".

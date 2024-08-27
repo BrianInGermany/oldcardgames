@@ -45,7 +45,7 @@ Sixes are the highest cards in the game and *count as trumps* (not as their nomi
 Note that you are required to follow trump with a six just like any other trump.
 
 ## Starting the Round: Bidding
-![](/assets/images/britschhand.jpg)
+![](https://brianingermany.github.io/assets/images/britschhand.jpg)
 
 Before each round, on the count of three, each player shows on one or two hands how many tricks they will take. This must be simultaneous to be fair.
 

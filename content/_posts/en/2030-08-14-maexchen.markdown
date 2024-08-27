@@ -20,7 +20,7 @@ The top result is a "Mäxchen", or a 21, and next best are all the doubles start
 
 To read your score, always count the higher die as the tens digit and the lower die as the ones. 
 
-![](/assets/images/maexchen.jpg)
+![](https://brianingermany.github.io/assets/images/maexchen.jpg)
 
 Thus, the picture above shows a 53.
 
