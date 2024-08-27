@@ -4,7 +4,7 @@ title:  "Schnauz! German Blackjack"
 description: "Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat."
 date:   2022-10-09 12:10:00
 categories: ["manyplayer","easy"]
-thumbnail: "/assets/images/blitz.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/blitz.jpg"
 ---
 Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.
 

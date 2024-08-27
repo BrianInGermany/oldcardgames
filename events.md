@@ -4,7 +4,7 @@ title:  "Card Table OF"
 description: "Entspannter Kartentreff für Offenbach und Umgebung"
 date:   2022-12-14 18:34:00
 categories: ["event"]
-thumbnail: "/assets/images/cardtable.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/cardtable.jpg"
 ---
 Entspannter Kartentreff für Offenbach und Umgebung. Wir spielen in aller Regel Schafkopf oder 66, sind aber für vieles offen :)
 

@@ -4,7 +4,7 @@ title:  "Oregon Solitaire: Poker for One"
 description: "This poker-based solitaire is a strategic way to kill some time."
 date:   2023-03-12 12:15:00
 categories: ["solitaire","easy"]
-thumbnail: "/assets/images/oregon.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/oregon.jpg"
 ---
 This poker-based solitaire is a strategic way to kill some time. The game was invented by German game pioneer Reiner Knizia and is featured in his 1995 book "Card Games in the Wild West" ("Kartenspiele im Wilden Westen").
 

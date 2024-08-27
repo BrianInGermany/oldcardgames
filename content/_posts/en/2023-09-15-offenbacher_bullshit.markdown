@@ -4,7 +4,7 @@ title:  "Offenbacher Bullshit"
 description: "A two-dice party game for liars and risk takers."
 date:   2023-09-15 18:15:00
 categories: ["manyplayer", "easy"]
-thumbnail: "/assets/images/maexchen.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/maexchen.jpg"
 ---
 A two-dice party game for liars and risk takers.
 

@@ -4,7 +4,7 @@ title:  "Lake Constance Jass"
 description: "Win the bid to choose the trump, make tricks, but don't fall in the sack!"
 date:   2022-12-10 09:39:00
 categories: ["twoplayer","jass"]
-thumbnail: "/assets/images/constancejass.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/constancejass.jpg"
 ---
 Win the bid to choose the trump, make tricks, but don't fall in the sack!
 

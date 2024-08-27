@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-26T23:26:45+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Fun Card Games</title><author><name>Brian Junker-Latocha</name><email>brian@brianingermany.github.io/oldcardgames</email></author><entry><title type="html">Pyramid Solitaire: Ready Your Reflexes</title><link href="http://localhost:4000/pyramid_solitaire/" rel="alternate" type="text/html" title="Pyramid Solitaire: Ready Your Reflexes" /><published>2022-12-26T19:15:00+01:00</published><updated>2022-12-26T19:15:00+01:00</updated><id>http://localhost:4000/pyramid_solitaire</id><content type="html" xml:base="http://localhost:4000/pyramid_solitaire/"><![CDATA[<p>This simple solitaire from Italy can be played against the clock or with multiple players vying for the fastest win.</p>
 
-<p><img src="/assets/images/pyramid.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/pyramid.jpg" alt="" /></p>
 
 <h2 id="the-deck">The Deck</h2>
 <p>Pyramid Solitaire is played with a 40-card deck (A-7,J-K). You can remove the 8s,9s and 10s from a traditional 52-card deck, or use an Italian deck, which typically contains 40 cards with the same distribution.</p>
@@ -84,11 +84,11 @@
 <h2 id="under-construction">Under Construction</h2>
 <ul>
   <li>See <a href="https://en.wikipedia.org/wiki/Skat_(card_game)">Wikipedia article on Skat</a> (with rules)
-<img src="/assets/images/skatbuben.jpg" alt="" /></li>
+<img src="https://brianingermany.github.io/oldcardgames/assets/images/skatbuben.jpg" alt="" /></li>
 </ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@brianingermany.github.io/oldcardgames</email></author><category term="threeplayer" /><summary type="html"><![CDATA[The three-player trick-taker that's Unesco World Cultural Heritage]]></summary></entry><entry xml:lang="de"><title type="html">Strohmann-Tarock: Nichts für ‘Dummys’!</title><link href="http://localhost:4000/de/strawman_tarot/" rel="alternate" type="text/html" title="Strohmann-Tarock: Nichts für ‘Dummys’!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/de/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/de/strawman_tarot/"><![CDATA[<p>Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).</p>
 
 <h2 id="die-karten">Die Karten</h2>
-<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg" alt="" /></p>
 
 <p>Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe “Tarock”, die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes “Trumpf” leitet sich von der frühen Bezeichnung der Tarocken auf Italienisch, “le trionfi”. Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.</p>
 
@@ -101,7 +101,7 @@ In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz 
 <h3 id="tarockkarten">Tarockkarten</h3>
 <p>Der Stichwert der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der “Sküs” (leitet sich vom französischen “excusez” ab– was man vielleicht sagt, wenn man allen Gegnern die Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 (“Mond”), und Tarock 1 (“Pagat”) bilden zusammen die “Trull” und sind jeder fünf Punkte wert in der Abrechnung.</p>
 
-<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg" alt="" /></p>
 
 <h2 id="spielbeginn">Spielbeginn</h2>
 <p>Als Erstes werden fünfzehn Karten in drei fünfer Packen an jeden Spieler verteilt. Das sind die Handkarten bzw. das Blatt.</p>
@@ -210,7 +210,7 @@ In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz 
 </ul>
 
 <h2 id="gameplay">Gameplay</h2>
-<p><img src="/assets/images/dummytarot.jpg" alt="" /><br />
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/dummytarot.jpg" alt="" /><br />
 Nachdem in jedem Strohmann mindestens eine Karte aufgedeckt wurde, fängt man an.</p>
 
 <p>Aufdeckte Strohmann-Karten können alternativ zu den Handkarten ganz normal ausgespielt werden. Man kann sich aussuchen, von wo man eine Karte spielt.</p>
@@ -337,7 +337,7 @@ Nachdem in jedem Strohmann mindestens eine Karte aufgedeckt wurde, fängt man an
 <h2><a href="/assets/pdf/StrawmanTarockCheatSheet.pdf" download="">Cheat Sheet PDF (EN)</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@brianingermany.github.io/oldcardgames</email></author><category term="zweispieler" /><category term="tarock" /><summary type="html"><![CDATA[Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).]]></summary></entry><entry><title type="html">Straw Man Tarot: Not for ‘Dummies’!</title><link href="http://localhost:4000/strawman_tarot/" rel="alternate" type="text/html" title="Straw Man Tarot: Not for ‘Dummies’!" /><published>2022-12-19T19:57:00+01:00</published><updated>2022-12-19T19:57:00+01:00</updated><id>http://localhost:4000/strawman_tarot</id><content type="html" xml:base="http://localhost:4000/strawman_tarot/"><![CDATA[<p>A two-player version of Tarot with open dummy cards on the table (Strohmanntarock).</p>
 
 <h2 id="the-cards">The Cards</h2>
-<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg" alt="" /></p>
 
 <p>This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit “tarot”, which is a permanent trump suit. Fun fact: the origin of the word “trump” comes from the earlier designation of the tarots in Italian, “le trionfi”.</p>
 
@@ -352,7 +352,7 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
 <h3 id="tarot-cards">Tarot Cards</h3>
 <p>The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the “Sküs” (say “skyooz”, derived from French “excusez”– which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and are known as the “honneurs”.</p>
 
-<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg" alt="" /></p>
 
 <h2 id="setup">Setup</h2>
 <p>At the start of the game, fifteen cards are dealt face down in three packs of five to each player. These are your hand.</p>
@@ -455,7 +455,7 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
 </ul>
 
 <h2 id="gameplay">Gameplay</h2>
-<p><img src="/assets/images/dummytarot.jpg" alt="" /><br />
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/dummytarot.jpg" alt="" /><br />
 Once at least one card has been revealed in every straw man, and the above process ended, the game begins.</p>
 
 <p>Face-up cards in the straw men can be played as if they were in the hand; the player can choose to play from hand or straw man (just be careful not to use up your whole hand, having only visible cards would be very easy to play against).</p>
@@ -572,7 +572,7 @@ Once at least one card has been revealed in every straw man, and the above proce
 <p>Ob dein Glück in den Karten steht? Offenbacher Tapp ist eine einfach zu erlernende Variante des geselligen Dreipersonenspiels Tapp-Tarock (auch bekannt als Wiener Tappen).</p>
 
 <h2 id="die-karten">Die Karten</h2>
-<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg" alt="" /></p>
 
 <p>Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe “Tarock”, die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes “Trumpf” leitet sich von der frühen Bezeichnung der Tarocken auf Italienisch, “le trionfi”. Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.</p>
 
@@ -585,7 +585,7 @@ In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz 
 <h3 id="tarockkarten">Tarockkarten</h3>
 <p>Der Stichwert der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der “Sküs” (leitet sich vom französischen “excusez” ab– was man vielleicht sagt, wenn man allen Gegnern die Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 (“Mond”), und Tarock 1 (“Pagat”) bilden zusammen die “Trull” und sind jeder fünf Punkte wert in der Abrechnung.</p>
 
-<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg" alt="" /></p>
 
 <h2 id="spielbeginn">Spielbeginn</h2>
 <p>Zu Beginn des Spieles werden sechs Karten in zwei dreier Packs verdeckt in die Tischmitte gelegt. Diese Karten heißen zusammen der “Tapp”.</p>
@@ -968,7 +968,7 @@ In weiterem Unterschied zu anderen Karten, nimmt der König den höchsten Platz 
 <p>Not just for fortune telling! Offenbach Tapp is a fun trick-taking game with the added fascination of the fifth suit, tarot.</p>
 
 <h2 id="the-cards">The Cards</h2>
-<p><img src="/assets/images/tarock.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg" alt="" /></p>
 
 <p>This game is played with a 54-card tarot deck. There are four suits (spades, clubs, hearts and diamonds), plus the additional fifth suit “tarot”, which is a permanent trump suit. Fun fact: the origin of the word “trump” comes from the earlier designation of the tarots in Italian, “le trionfi”.</p>
 
@@ -983,7 +983,7 @@ In further contrast to a regular deck, the kings are the highest cards by trick 
 <h3 id="tarots">Tarots</h3>
 <p>The trick rank of the tarot cards is equal to their numbers, which go from 1-21. The highest trick rank among the tarots, however, is the “Sküs” (say “skyooz”, derived from French “excusez”– which you might say when taking all your opponents cards :P ). The Sküs does not have a number, but instead looks kind of like the joker of a regular deck. The Sküs, the 21 tarot, called the Mond, and the 1 tarot, called the Pagat, are the three tarots worth the most points and known together as the honneurs.</p>
 
-<p><img src="/assets/images/honneurs.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg" alt="" /></p>
 
 <h2 id="setup">Setup</h2>
 <p>At the start of the game, six cards are dealt face down in two packs of three in the center of the table. These are called the “tapp” (hence the name of the game).</p>
@@ -1341,7 +1341,7 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
 
 <h2><a href="/assets/pdf/TappTarockCheatSheet.pdf" download="">Cheat Sheet PDF</a></h2>]]></content><author><name>Brian Junker-Latocha</name><email>brian@brianingermany.github.io/oldcardgames</email></author><category term="threeplayer" /><category term="tarot" /><summary type="html"><![CDATA[Win the bid, and trump your way to victory with this chip-based Tapp Tarock variant.]]></summary></entry><entry><title type="html">Offenbach Molotov: Do Your Worst!</title><link href="http://localhost:4000/offenbach_molotov/" rel="alternate" type="text/html" title="Offenbach Molotov: Do Your Worst!" /><published>2022-12-11T10:45:00+01:00</published><updated>2022-12-11T10:45:00+01:00</updated><id>http://localhost:4000/offenbach_molotov</id><content type="html" xml:base="http://localhost:4000/offenbach_molotov/"><![CDATA[<p>Get rid of high cards wisely and win with the lowest score in this fiesty Jass.</p>
 
-<p><img src="/assets/images/offenbachJass.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/offenbachJass.jpg" alt="" /></p>
 
 <h2 id="setup">Setup</h2>
 <p>With a 36 card deck (6-A), shuffle and divide the deck equally between each player, dealing out in groups of three cards.</p>
@@ -1722,7 +1722,7 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
   <li><a href="https://www.jassen.at/">Book: Jassen in Vorarlberg</a>: extensive book on Jass cards, rules and history, including instructions for 33 diferent games plus a glossary of Austrian cards proverbs :D (in German)</li>
 </ul>]]></content><author><name>Brian Junker-Latocha</name><email>brian@brianingermany.github.io/oldcardgames</email></author><category term="twoplayer" /><category term="jass" /><summary type="html"><![CDATA[Win the bid to choose the trump, make tricks, but don't fall in the sack!]]></summary></entry><entry><title type="html">Garbage: A Two-Player Easy as Taking Out Trash</title><link href="http://localhost:4000/garbage/" rel="alternate" type="text/html" title="Garbage: A Two-Player Easy as Taking Out Trash" /><published>2022-10-13T19:39:00+02:00</published><updated>2022-10-13T19:39:00+02:00</updated><id>http://localhost:4000/garbage</id><content type="html" xml:base="http://localhost:4000/garbage/"><![CDATA[<p>This easy (and fun) two-player is a good mindless accompaniment to conversation.</p>
 
-<p><img src="/assets/images/garbage.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/garbage.jpg" alt="" /></p>
 
 <h2 id="setup">Setup</h2>
 <p>With a 52 card deck (plus jokers if you want some added spice), deal each player 10 cards face-down on a grid of 5x2.</p>
@@ -1749,7 +1749,7 @@ The highest card of the same suit (or the highest tarot) takes the trick, and th
 <p>The first person to fill all ten positions with A-10 wins!</p>]]></content><author><name>Brian Junker-Latocha</name><email>brian@brianingermany.github.io/oldcardgames</email></author><category term="twoplayer" /><category term="easy" /><summary type="html"><![CDATA[Be the first to collect the cards A-10 on a 10-card grid.]]></summary></entry><entry><title type="html">Pigtail: Japanese Party Hit</title><link href="http://localhost:4000/pigtail/" rel="alternate" type="text/html" title="Pigtail: Japanese Party Hit" /><published>2022-10-13T19:14:00+02:00</published><updated>2022-10-13T19:14:00+02:00</updated><id>http://localhost:4000/pigtail</id><content type="html" xml:base="http://localhost:4000/pigtail/"><![CDATA[<p>This Japanese party game is guaranteed to work even if even you’ve had one Sake too many…
 It is suitable for any number of players.</p>
 
-<p><img src="/assets/images/pigtail.jpg" alt="" /></p>
+<p><img src="https://brianingermany.github.io/oldcardgames/assets/images/pigtail.jpg" alt="" /></p>
 
 <h2 id="setup">Setup</h2>
 <p>Spread your deck out in a circle (like a pigtail) in the center of the table. Finito.</p>

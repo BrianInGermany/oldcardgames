@@ -4,7 +4,7 @@ title:  "Mäxchen: Bluff Your Way to Victory"
 description: "A two-dice party game made for good liars."
 date:   2030-08-14 18:15:00
 categories: ["manyplayer", "easy"]
-thumbnail: "/assets/images/maexchen.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/maexchen.jpg"
 ---
 A two-dice party game made for good liars.
 

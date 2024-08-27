@@ -4,7 +4,7 @@ title:  "Schafkopf: Rules in English"
 description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
 date:   2023-08-13 05:39:00
 categories: ["fourplayer", "threeplayer"]
-thumbnail: "/assets/images/slateSchafkopf.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/slateSchafkopf.jpg"
 ---
 Partner up and call an ace, or prevail one-on-three in this strategic trick-taker! The name Schafkopf, seemingly "Sheep's Head" may actually be a reference to the flat top of the beer barrels this game was once frequently played on.
 

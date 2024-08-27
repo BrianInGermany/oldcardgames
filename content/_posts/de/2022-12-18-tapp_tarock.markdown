@@ -4,7 +4,7 @@ title:  "Tapp Tarock: Tarock zu dritt"
 description: "Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock."
 date:   2022-12-18 11:39:00
 categories: ["dreispieler","tarock"]
-thumbnail: "/assets/images/tarock.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg"
 lang: "de"
 ---
 Biete um den Gewinn und trumpfe dich zum Sieg in diesem lustigen Dreipersonentarock.

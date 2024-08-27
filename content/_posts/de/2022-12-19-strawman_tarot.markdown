@@ -4,7 +4,7 @@ title:  "Strohmann-Tarock: Nichts für 'Dummys'!"
 description: "Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln)."
 date:   2022-12-19 18:57:00
 categories: ["zweispieler","tarock"]
-thumbnail: "/assets/images/honneurs.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg"
 lang: "de"
 ---
 Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).

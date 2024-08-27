@@ -4,7 +4,7 @@ title:  "Tapp Tarock: A Simple Tarot for Three"
 description: "Win the bid, and trump your way to victory with this credit-based three-player."
 date:   2022-12-18 11:39:00
 categories: ["threeplayer","tarot"]
-thumbnail: "/assets/images/tarock.jpg"
+thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg"
 ---
 Win the bid, and trump your way to victory with this credit-based three-player.
 
