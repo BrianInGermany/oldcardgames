@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schafkopf: Rules in English"
+title:  "Schafkopf: The Bavarian Classic"
 description: "Partner up and call an ace, or prevail one-on-three in this strategic trick-taker!"
 date:   2023-08-13 05:39:00
 categories: ["fourplayer", "threeplayer"]
