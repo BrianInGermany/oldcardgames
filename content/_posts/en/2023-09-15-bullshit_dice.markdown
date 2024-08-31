@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Offenbacher Bullshit"
+title:  "Bullshit Dice"
 description: "A two-dice party game for liars and risk takers."
 date:   2023-09-15 18:15:00
 categories: ["manyplayer", "easy"]
@@ -10,7 +10,7 @@ A two-dice party game for liars and risk takers.
 
 ## Setup
 You'll need two dice, a dice cup and a beer coaster.
-- If you don't want to take score with drinks, you'll need pen & paper. 
+- You'll need pen & paper to record score (if you don't want to count in "drinks") 
   
 ## Roll Values
 To read your roll, always count the higher die as the tens digit and the lower die as the ones. 
@@ -32,26 +32,23 @@ The "worth" indicates how many points/sips the player will lose who mistakenly c
 
 ### Calling Bullshit
 After a roll is announced, any player at the table may call bullshit. 
-- If the bullshit caller is correct, the liar drinks as many sips as the cup is currently worth.
+- If the bullshit caller is correct, the liar gets as many tallies as the cup is currently worth.
   - The liar rolls next.
-- If the bullshit caller is mistaken, the bullshit caller drinks as many sips as the cup is worth.
+- If the bullshit caller is mistaken, the bullshit caller gets as many tallies as the cup is worth.
   - The mistaken bullshit caller rolls next.
 - After bullshit was called, the value of the cup is reset to one.
 
 ### Options When Rolling  
 When rolling the dice, players have two options:
 1. Announce a higher number than the player before, thus raising the stakes and increasing the value of the cup by one. In this case the player passes the cup to the next player.
-2. Announce a lower number: you can play it safe and choose not to up the ante, but it will cost you one sip!
+2. Announce a lower number: you can play it safe and choose not to up the ante, but it will cost you one tally!
 
 ### The Worst Case Scenario: 21
-In Offenbacher Bullshit, it's not only about catching opponents in a lie-- it's about knowing when to end the escalation and avoid the worst case scenario.
+In Bullshit Dice, it's not only about catching opponents in a lie-- it's about knowing when to end the escalation and avoid the worst case scenario.
 
-> The highest roll is 21. If a player rolls 21, she shows the dice openly and all other players drink the current value of the cup! :)
+> The highest roll is 21. If a player rolls 21, she shows the dice openly and all other players tally the current value of the cup! :)
 
 ### Ending a Round
-After a 21 (or whenever bullshit is called), the loser drinks the value of the cup and the cup value is reset to one.
+After a 21 (or whenever bullshit is called), the loser tallies the value of the cup and the cup value is reset to one.
 - After a 21, the cup is passed to the next player.
 - After a bullshit, the loser must roll (even if they just did).
-
-## Strategy
-Play with the probabilities... To be continued...
