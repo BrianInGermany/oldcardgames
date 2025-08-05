@@ -3,7 +3,7 @@ layout: post
 title:  "Scopa! Easy to Learn, Hard to Master"
 description: "Sweep away table cards with this two- or four-player from Bella Italia."
 date:   2022-12-29 21:34:00
-categories: ["twoplayer","fourplayer"]
+categories: ["twoplayer","three player", "fourplayer"]
 thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/scopa.jpg"
 ---
 Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
