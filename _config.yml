@@ -9,7 +9,7 @@ languages: ["en", "de"]
   
 # for atom feed
 author:
-  name: Brian Junker-Latocha, Herm.-Steinhäuser-Str. 18, 63065 Offenbach
+  name: Brian Junker-Latocha
   email: brian@junker-latocha.com
 
 plugins:
@@ -42,4 +42,5 @@ defaults:
   
 
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
 
