@@ -4,12 +4,12 @@ title:  "Pigtail: Japanese Party Hit"
 description: "Turn over cards from the pigtail. Just not the same suit as your opponent!"
 date:   2022-10-13 17:14:00
 categories: ["manyplayer","easy"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/pigtail.jpg"
+thumbnail: "https://pubgames.club/assets/images/pigtail.jpg"
 ---
 This Japanese party game is guaranteed to work even if even you've had one Sake too many...
 It is suitable for any number of players.
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/pigtail.jpg)
+![](https://pubgames.club/assets/images/pigtail.jpg)
 
 ## Setup
 Spread your deck out in a circle (like a pigtail) in the center of the table. Finito.

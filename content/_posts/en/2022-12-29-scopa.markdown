@@ -4,7 +4,7 @@ title:  "Scopa! Easy to Learn, Hard to Master"
 description: "Sweep away table cards with this two- or four-player from Bella Italia."
 date:   2022-12-29 21:34:00
 categories: ["twoplayer","threeplayer", "fourplayer"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/scopa.jpg"
+thumbnail: "https://pubgames.club/assets/images/scopa.jpg"
 ---
 Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
 
@@ -12,7 +12,7 @@ Scopa! Sweep away table cards with this two- or four-player from Bella Italia.
 Scopa is an Italian classic played with a 40-card deck from A-7 plus three face cards worth 8, 9 and 10 points from jack to king. In Italy, regional cards are typically used with varying imagery, most adhering to the so-called Latin suits of swords, coins, sticks and cups (incidentally the same suits as many Tarot cards). Nonetheless, a regular pack of cards minus the 8s, 9s and 10s will work just fine.
 
 <figure>
-  <img src="https://brianingermany.github.io/oldcardgames/assets/images/neapolitane.jpg" alt="scopa">
+  <img src="https://pubgames.club/assets/images/neapolitane.jpg" alt="scopa">
   <figcaption>A Neapolitan Deck</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ If playing with four players, deal each person three cards, then two to the tabl
 If three or more kings land on the table in the initial deal, the cards are redealt.
 
 <figure>
-  <img src="https://brianingermany.github.io/oldcardgames/assets/images/scopa.jpg" alt="scopa">
+  <img src="https://pubgames.club/assets/images/scopa.jpg" alt="scopa">
   <figcaption>Scopa with a regular deck</figcaption>
 </figure>
 

@@ -4,13 +4,13 @@ title:  "Strohmann-Tarock: Nichts für 'Dummys'!"
 description: "Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln)."
 date:   2022-12-19 18:57:00
 categories: ["zweispieler","tarock"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg"
+thumbnail: "https://pubgames.club/assets/images/honneurs.jpg"
 lang: "de"
 ---
 Ein Zweispieler-Tarock mit offenen Dummykarten auf dem Tisch (Strohmandeln).
 
 ## Die Karten
-![](https://brianingermany.github.io/oldcardgames/assets/images/tarock.jpg)  
+![](https://pubgames.club/assets/images/tarock.jpg)  
 
 Tarock wird mit 54 großformatigen Tarockkarten gespielt. Es gibt vier Farben (Pik, Herz, Kreuz, Karo) sowie die zusätzliche Trumpffarbe "Tarock", die alle anderen Farben sticht. Fun fact: Die Herkunft des Wortes "Trumpf" leitet sich von der frühen Bezeichnung der Tarocken auf Italienisch, "le trionfi". Vom Tarock aus fand das Konzept Trumpf seinen Weg in andere Kartenspiele.
 
@@ -23,7 +23,7 @@ Des Weiteren gibt es Unterschiede zwischen den roten und schwarzen Farben: Nach 
 ### Tarockkarten
 Der Stichwert der Tarockkarten entspricht ihrer Zahl, die zwischen 1-21 liegen kann. Die höchste Tarockkarte ist jedoch der "Sküs" (leitet sich vom französischen "excusez" ab-- was man vielleicht sagt, wenn man allen Gegnern die Karten sticht :P ). Der Sküs hat keine Nummer, ist aber sozusagen die 22 Tarock, da er alle anderen Karten des Spieles sticht. Sküs, Tarock 21 ("Mond"), und Tarock 1 ("Pagat") bilden zusammen die "Trull" und sind jeder fünf Punkte wert in der Abrechnung.
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/honneurs.jpg)
+![](https://pubgames.club/assets/images/honneurs.jpg)
 
 ## Spielbeginn
 Als Erstes werden fünfzehn Karten in drei fünfer Packen an jeden Spieler verteilt. Das sind die Handkarten bzw. das Blatt.
@@ -74,7 +74,7 @@ Nachdem feststeht, ob jemand das Spiel aufnimmt und jeder seine Karten geprüft 
 - Falls die Karte eine Farbkarte niedriger als der König ist, bleibt die Karte offen auf dem Tisch und es dürfen in diesem Strohmann vorerst keine weiteren Karten aufgedeckt werden. Es wird dann mit dem zweiten und dritten Strohmann genauso verfahren.
 
 ## Gameplay
-![](https://brianingermany.github.io/oldcardgames/assets/images/dummytarot.jpg)  
+![](https://pubgames.club/assets/images/dummytarot.jpg)  
 Nachdem in jedem Strohmann mindestens eine Karte aufgedeckt wurde, fängt man an.
 
 Aufdeckte Strohmann-Karten können alternativ zu den Handkarten ganz normal ausgespielt werden. Man kann sich aussuchen, von wo man eine Karte spielt.

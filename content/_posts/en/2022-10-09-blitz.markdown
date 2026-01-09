@@ -4,11 +4,11 @@ title:  "Schnauz! German Blackjack"
 description: "Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat."
 date:   2022-10-09 12:10:00
 categories: ["manyplayer","easy"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/blitz.jpg"
+thumbnail: "https://pubgames.club/assets/images/blitz.jpg"
 ---
 Win by not losing! In this fun Blackjack predecessor, keep your lives to stay afloat.
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/blitz.jpg)
+![](https://pubgames.club/assets/images/blitz.jpg)
 
 Schnauz is played with a 32-card deck, using only the sevens through aces.
 - For added fun, you can use a [German-face deck](https://www.piatnik.com/spiele/spielkarten/regionale-karten/doppeldeutsche-blitz-36-blatt) as pictured above, but an ordinary pack of cards will work just as well.

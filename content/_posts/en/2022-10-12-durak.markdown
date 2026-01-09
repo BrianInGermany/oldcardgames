@@ -4,11 +4,11 @@ title:  "Durak: Gang Up on Opponents and Don't be the Dummy"
 description: "Gang up on (defenseless? ;) ) opponents in this souped-up version of War for 4-8 players."
 date:   2022-10-12 15:39:00
 categories: ["manyplayer","easy"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/durak.jpg"
+thumbnail: "https://pubgames.club/assets/images/durak.jpg"
 ---
 Gang up on (defenseless? :grin: ) opponents in this souped-up version of War for 4-8 players.
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/durak.jpg)
+![](https://pubgames.club/assets/images/durak.jpg)
 
 Durak can be played with a standard 52-card deck or, for a faster version, with a 36-card (6-A) deck.
 - This fast-paced party game is popular in former Soviet countries and well-known in parts of central Europe.

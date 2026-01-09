@@ -4,11 +4,11 @@ title:  "Pig Dice: How High Can You Roll!?"
 description: "An super easy party game about racking up points-- without going bust!"
 date:   2023-08-12 13:15:00
 categories: ["manyplayer", "easy"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/dice1.jpg"
+thumbnail: "https://pubgames.club/assets/images/dice1.jpg"
 ---
 A super easy party game about racking up points-- without going bust!
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/dice1.jpg)
+![](https://pubgames.club/assets/images/dice1.jpg)
 
 ## Setup
 You need exactly one die, a dice cup and pen & paper.

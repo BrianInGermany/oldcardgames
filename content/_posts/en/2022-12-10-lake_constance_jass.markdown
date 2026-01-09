@@ -4,11 +4,11 @@ title:  "Lake Constance Jass"
 description: "Win the bid to choose the trump, make tricks, but don't fall in the sack!"
 date:   2022-12-10 09:39:00
 categories: ["twoplayer","jass"]
-thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/constancejass.jpg"
+thumbnail: "https://pubgames.club/assets/images/constancejass.jpg"
 ---
 Win the bid to choose the trump, make tricks, but don't fall in the sack!
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/constancejass.jpg)
+![](https://pubgames.club/assets/images/constancejass.jpg)
 
 ## Setup
 With a 36 card deck (6-A), shuffle and deal each player three cards face down twice, so that each player has a row of six face-down cards in front of them. Then deal cards face-up on top of them, again 2x3. These are your table cards.
@@ -93,7 +93,7 @@ You are not required to make a trick, and can intentionally lose a trick, as lon
 ## Scorekeeping
 If the winner of the bid fulfills their bid, they write one tally. If they miss it, the opponent writes one tally. If either player makes 20 or less points, they are "in the sack". This means the winner writes a tally as usual, and the big loser writes a "0", which is equivalent to a negative tally. To get "out of the sack", the player has to win another round, crossing through the 0 with a line:
 
-![](https://brianingermany.github.io/oldcardgames/assets/images/sack_strich.jpg)
+![](https://pubgames.club/assets/images/sack_strich.jpg)
 
 ## End of Game
 When one player has reached enough points that it's impossible for the opponent to win, she can say "enough!" to end the game. Otherwise, the game ends when all cards have been played.
