@@ -3,7 +3,7 @@ layout: post
 title:  "Knockout: Darts for the Whole Crew"
 description: "Three strikes, and you're out!"
 date:   2026-01-09 19:39:00
-categories: ["manyplayer"]
+categories: ["manyplayer", "easy"]
 thumbnail: "https://pubgames.club/assets/images/20260109_221030.jpg"
 ---
 ![](https://pubgames.club/assets/images/20260109_221030.jpg)
