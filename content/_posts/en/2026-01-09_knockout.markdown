@@ -4,7 +4,7 @@ title:  "Knockout: Darts for the Whole Crew"
 description: "Three strikes, and you're out!"
 date:   2026-01-09 19:39:00
 categories: ["manyplayer"]
-thumbnail: "https://pubgames.club/assets/images/darts.jpg"
+thumbnail: "https://pubgames.club/assets/images/assets/images/20260109_221030.jpg"
 ---
 In this simple dart game, you'll need a scoreboard, three darts and a bunch of folks in a good mood.
 
