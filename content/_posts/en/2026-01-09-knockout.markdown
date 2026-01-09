@@ -6,6 +6,7 @@ date:   2026-01-09 19:39:00
 categories: ["manyplayer"]
 thumbnail: "https://pubgames.club/assets/images/20260109_221030.jpg"
 ---
+![](https://pubgames.club/assets/images/20260109_221030.jpg)
 In this simple dart game, you'll need a scoreboard, three darts and a bunch of folks in a good mood.
 
 The rules are simple: First, each player throws a dart looking away from the board to get a random number field. Once every player has a number, the aim of the game is to knock out others and be the last (wo)man standing. 
