@@ -1,4 +1,4 @@
-title: Fun Card Games
+title: Pub Games Club!
 markdown: kramdown
 # markdown: GFM
 url: "https://brianingermany.github.io/oldcardgames"
@@ -42,5 +42,6 @@ defaults:
   
 
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+
 
 
