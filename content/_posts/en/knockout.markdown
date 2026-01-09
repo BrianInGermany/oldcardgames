@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Knockout: Darts for the Whole Crew"
+description: "Three strikes, and you're out!"
+date:   2026-01-09 19:39:00
+categories: ["manyplayer"]
+thumbnail: "https://pubgames.club/assets/images/darts.jpg"
+---
+In this simple dart game, you'll need a scoreboard, three darts and a bunch of folks in a good mood.
+
+The rules are simple: First, each player throws a dart looking away from the board to get a random number field. Once every player has a number, the aim of the game is to knock out others and be the last (wo)man standing. 
+
+For each dart that lands on your number, you get a tally. Three tallies, you're out!
+
+Make sure you don't do yourself in!
