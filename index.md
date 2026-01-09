@@ -1,5 +1,5 @@
 ---
-title: Fun Card Games
+title: Pub Games Club!
 layout: blog
 description: "A fun library of traditional card games."
 thumbnail: "https://brianingermany.github.io/oldcardgames/assets/images/offenbachJass.jpg"
